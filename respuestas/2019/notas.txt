@@ -1,0 +1,4 @@
+Hay dos fuentes porque hay 2 archivos diferentes y no se sabe cual es cual.Las cifras de respuestas cambian entre uno y otro. 
+Se toma el de Jhonatan porque parece estar más completo, pero podría ser cualquiera de los 2.
+bak_2 es la fuente de la que sale 2019.xlsx
+bak_3 es bak_2 sin basura

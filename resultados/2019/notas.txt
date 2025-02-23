@@ -1,0 +1,4 @@
+bak es el backup original.
+bak_2 es lo mismo pero sin basura.
+bak_3 tiene cambio de nombres.
+2019 es bak3 con cambios.

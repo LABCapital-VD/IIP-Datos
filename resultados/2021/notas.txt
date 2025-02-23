@@ -1,0 +1,4 @@
+bak es el backup original.
+bak_2 es lo mismo pero sin basura.
+bak_3 tiene cambio de nombres.
+2021 es bak_3 con camios de preguntas
