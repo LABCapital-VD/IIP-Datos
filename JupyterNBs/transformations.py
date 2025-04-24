@@ -110,6 +110,7 @@ def _(ori_stacked, uuid):
     variable_map   = generate_uuid_map(ori_stacked, 'Variable')
     indicador_map  = generate_uuid_map(ori_stacked, 'Indicador')
     pregunta_map   = generate_uuid_map(ori_stacked, 'Pregunta')
+    # subpregunta_map   = generate_uuid_map(ori_stacked, 'Subpregunta')
     return componente_map, indicador_map, pregunta_map, variable_map
 
 
@@ -142,16 +143,14 @@ def _(mo):
 
 
 @app.cell
-def _(ori_ents, pd, uuid):
-    unique_sectors = ori_ents['sector'].dropna().unique()
+def _(ori_ents, uuid):
+    sectores = ori_ents[['sector', 's_description']].drop_duplicates().copy()
 
-    sectores = pd.DataFrame({
-        'id': [str(uuid.uuid4()) for _ in unique_sectors],
-        'sector': unique_sectors,
-        'description':''
-    })
+    sectores['id'] = [str(uuid.uuid4()) for _ in range(len(sectores))]
 
-    sectores_out = sectores.rename(columns={'sector': 'name'})
+    sectores = sectores[['id','sector','s_description']]
+
+    sectores_out = sectores.rename(columns={'sector': 'name','s_description':'description'})
 
     sectores_out
     return sectores, sectores_out
@@ -175,14 +174,14 @@ def _(pd, uuid):
         hashed = hashlib.sha256(random_password.encode()).hexdigest()
         return hashed
 
-    def generate_user_row(username, email):
+    def generate_user_row(username, name, email):
         now = datetime.now()
         return {
             "id": str(uuid.uuid4()),
             "username": username,
+            "name": name,
             "email": email,
             "password_hash": generate_hashed_password(),
-            "profile_picture": f"./images/{username}.jpg",
             "biography": f"{username} is a fictional user created for testing our pandas DataFrame.",
             "created_at": now,
             "updated_at": now + timedelta(minutes=5)
@@ -190,13 +189,13 @@ def _(pd, uuid):
 
     # Create the DataFrame
     usr = [
-        generate_user_row("jmartinez", "jmartinez@veeduriadistrital.gov.co"),
-        generate_user_row("mramirez", "mramirez@veeduriadistrital.gov.co"),
+        generate_user_row("jmartinez", "Juan José Martínez Guerrero", "jmartinez@veeduriadistrital.gov.co"),
+        generate_user_row("mramirez", "Miguel Andrés Ramírez Roa", "mramirez@veeduriadistrital.gov.co"),
     ]
 
     users = pd.DataFrame(usr)
     users
-    return (users,)
+    return datetime, random, users
 
 
 @app.cell(hide_code=True)
@@ -209,7 +208,7 @@ def _(mo):
 def _(pd):
     ind = {
         "id": [2019, 2021, 2023],
-        "desc": [
+        "description": [
             "Primera medición del índice. En esta edición participaron exclusivamente las cabezas de sector, lo que resultó en un total de 39 entidades evaluadas.",
             "Segunda medición. Se amplía la convocatoria incluyendo alcaldías locales y entidades adscritas. Se incorpora una nueva variable enfocada en el uso de recursos digitales para la innovación.",
             "Tercera medición. Se implementa un sistema de retroalimentación (bucles) para comprender en profundidad los procesos de innovación institucional. Además, se ajusta el componente 2 conforme a la metodología de innovación del doble diamante."
@@ -260,7 +259,7 @@ def _(mo):
 
 @app.cell
 def _(ori_ents, sectores):
-    entidades = ori_ents[['_uuid', 'sector', 'entidad', 'mision', 'vision']].copy().rename(columns={'_uuid': 'id'})
+    entidades = ori_ents[['_uuid', 'sector', 'entidad', 'description','mision', 'vision']].copy().rename(columns={'_uuid': 'id'})
 
     entidades = entidades.merge(
         sectores,
@@ -286,7 +285,7 @@ def _(mo):
 
 @app.cell
 def _(ori_per_2023, uuid):
-    personas = ori_per_2023[['nombre_responde','dependencia_entidad','cargo_responde','correo_personal','correo_institucional','tel']].copy()
+    personas = ori_per_2023[['entidad','nombre_responde','dependencia_entidad','cargo_responde','correo_personal','correo_institucional','tel']].copy()
 
 
     cols = ['dependencia_entidad','cargo_responde','correo_personal','correo_institucional']
@@ -303,7 +302,7 @@ def _(ori_per_2023, uuid):
     personas_out = personas[['id','name','email_per','email_ent','phone','area','job_title','user_id']]
 
     personas_out
-    return (personas_out,)
+    return personas, personas_out
 
 
 @app.cell(hide_code=True)
@@ -361,9 +360,87 @@ def _(mo):
 def _(stacked):
     vars = stacked[['id_variable', 'T' , 'id_componente', 'Variable']].drop_duplicates().copy()
     vars['weight']=25
-    vars.rename(columns={'id_variable':'id','T':'index_edition_id','Variable':'name'}, inplace=True)
+    vars.rename(columns={'id_variable':'id','T':'index_edition_id','Variable':'name','id_componente':'componente_id'}, inplace=True)
     vars
     return (vars,)
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Asociación entidad-persona""")
+    return
+
+
+@app.cell
+def _(entidades):
+    entidades.info(verbose=True)
+    return
+
+
+@app.cell
+def _(personas):
+    personas.info(verbose=True)
+    return
+
+
+@app.cell
+def _(personas):
+    personas[personas['entidad']=='Secretaría Distrital De Integración Social']
+    return
+
+
+@app.cell
+def _(entidades, personas):
+    entidad_persona = personas.merge(entidades[['id', 'name']], 
+                                left_on='entidad', right_on='name', 
+                                how='left').rename(columns={'id_x':'person_id','id_y':'entity_id'})
+
+    asociacion = entidad_persona[['entity_id','person_id']]
+    asociacion
+    return (asociacion,)
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Media""")
+    return
+
+
+@app.cell
+def _(users):
+    jmartinez = users[users['username']=='jmartinez']['id'].values[0]
+    jmartinez
+    return (jmartinez,)
+
+
+@app.cell
+def _(datetime, jmartinez, pd, random, uuid):
+    from datetime import timezone
+
+
+    # Possible enums
+    media_types = ["image/png", "image/jpeg", "video/mp4"]
+    parent_types = ["entity", "person", "user", "answer", "subanswer", "component", "variable", "indicator", "question", "subquestion"]
+
+    # Generate mock data
+    mock_data = []
+    for _ in range(1):  # Change the number if you want more rows
+        mock_data.append({
+            "id": str(uuid.uuid4()),
+            "user_id": str(jmartinez),
+            "created_at": datetime.now(timezone.utc),
+            "media_type": random.choice(media_types),
+            "filename": f"file_{random.randint(1000, 9999)}.jpg",
+            "file_size": random.randint(10000, 5000000),  # in bytes
+            "parent_id": str(uuid.uuid4()),
+            "parent_type": parent_types[1]
+        })
+
+    # Create DataFrame
+    df_media = pd.DataFrame(mock_data)
+
+    df_media
+    return (df_media,)
 
 
 @app.cell(hide_code=True)
@@ -375,6 +452,18 @@ def _(mo):
 @app.cell
 def _(vars):
     vars.to_csv('./output/02_variable.csv',index=False,sep='|',quotechar='"',escapechar="'")
+    return
+
+
+@app.cell
+def _(asociacion):
+    asociacion.to_csv('./output/02_asociacion.csv',index=False,sep='|',quotechar='"',escapechar="'")
+    return
+
+
+@app.cell
+def _(df_media):
+    df_media.to_csv('./output/02_archivos.csv',index=False,sep='|',quotechar='"',escapechar="'")
     return
 
 
@@ -394,7 +483,7 @@ def _(mo):
 def _(stacked):
     inds = stacked[['id_indicador', 'T' , 'id_variable', 'Indicador']].drop_duplicates().copy()
     inds['weight']=25
-    inds.rename(columns={'id_indicador':'id','T':'index_edition_id','Indicador':'name'}, inplace=True)
+    inds.rename(columns={'id_indicador':'id','T':'index_edition_id','Indicador':'name','id_variable':'variable_id'}, inplace=True)
     inds
     return (inds,)
 
@@ -425,9 +514,11 @@ def _(mo):
 
 @app.cell
 def _(stacked):
-    pres = stacked[['id_pregunta', 'T' , 'id_indicador', 'Pregunta']].drop_duplicates().copy()
+    pres = stacked[['id_pregunta', 'T' , 'id_indicador', 'Pregunta','Tipo']].drop_duplicates().copy()
     pres['weight']=25
-    pres.rename(columns={'id_pregunta':'id','T':'index_edition_id','Pregunta':'name'}, inplace=True)
+    pres.rename(columns={'id_pregunta':'id','T':'index_edition_id','Pregunta':'text','id_indicador':'indicator_id','Tipo':'question_type'}, inplace=True)
+
+    pres = pres[['id','index_edition_id','indicator_id','text','weight','question_type',]]
     pres
     return (pres,)
 
@@ -453,6 +544,12 @@ def _(mo):
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""## Subpreguntas""")
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Respuestas""")
     return
 
 
@@ -539,6 +636,24 @@ def _():
 @app.cell
 def _():
     # print(df_19_melted.head())
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""# Nivel 6""")
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Subrespuestas""")
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## exports lvl 6""")
     return
 
 
