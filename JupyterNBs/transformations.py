@@ -1,8 +1,6 @@
-
-
 import marimo
 
-__generated_with = "0.13.0"
+__generated_with = "0.13.11"
 app = marimo.App()
 
 
@@ -514,8 +512,7 @@ def _(mo):
 
 @app.cell
 def _(stacked):
-    pres = stacked[['id_pregunta', 'T' , 'id_indicador', 'Pregunta','Tipo']].drop_duplicates().copy()
-    pres['weight']=25
+    pres = stacked[['id_pregunta', 'T' , 'id_indicador', 'Pregunta','Tipo','weight']].drop_duplicates().copy()
     pres.rename(columns={'id_pregunta':'id','T':'index_edition_id','Pregunta':'text','id_indicador':'indicator_id','Tipo':'question_type'}, inplace=True)
 
     pres = pres[['id','index_edition_id','indicator_id','text','weight','question_type',]]
