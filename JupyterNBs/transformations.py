@@ -311,8 +311,7 @@ def _(mo):
 
 @app.cell
 def _(stacked):
-    comps = stacked[['id_componente', 'T' , 'Componente']].drop_duplicates().copy()
-    comps['weight']=25
+    comps = stacked[['id_componente', 'T' , 'Componente', 'wc']].drop_duplicates().copy()
     comps.rename(columns={'id_componente':'id','T':'index_edition_id','Componente':'name'}, inplace=True)
     comps
     return (comps,)
@@ -356,8 +355,7 @@ def _(mo):
 
 @app.cell
 def _(stacked):
-    vars = stacked[['id_variable', 'T' , 'id_componente', 'Variable']].drop_duplicates().copy()
-    vars['weight']=25
+    vars = stacked[['id_variable', 'T' , 'id_componente', 'Variable', 'wv']].drop_duplicates().copy()
     vars.rename(columns={'id_variable':'id','T':'index_edition_id','Variable':'name','id_componente':'componente_id'}, inplace=True)
     vars
     return (vars,)
@@ -479,8 +477,7 @@ def _(mo):
 
 @app.cell
 def _(stacked):
-    inds = stacked[['id_indicador', 'T' , 'id_variable', 'Indicador']].drop_duplicates().copy()
-    inds['weight']=25
+    inds = stacked[['id_indicador', 'T' , 'id_variable', 'Indicador','wi']].drop_duplicates().copy()
     inds.rename(columns={'id_indicador':'id','T':'index_edition_id','Indicador':'name','id_variable':'variable_id'}, inplace=True)
     inds
     return (inds,)
@@ -512,10 +509,10 @@ def _(mo):
 
 @app.cell
 def _(stacked):
-    pres = stacked[['id_pregunta', 'T' , 'id_indicador', 'Pregunta','Tipo','weight']].drop_duplicates().copy()
-    pres.rename(columns={'id_pregunta':'id','T':'index_edition_id','Pregunta':'text','id_indicador':'indicator_id','Tipo':'question_type'}, inplace=True)
+    pres = stacked[['id_pregunta', 'T' , 'id_indicador', 'Pregunta','tp','wp']].drop_duplicates().copy()
+    pres.rename(columns={'id_pregunta':'id','T':'index_edition_id','Pregunta':'text','id_indicador':'indicator_id','tp':'question_type'}, inplace=True)
 
-    pres = pres[['id','index_edition_id','indicator_id','text','weight','question_type',]]
+    pres = pres[['id','index_edition_id','indicator_id','text','wp','question_type',]]
     pres
     return (pres,)
 
