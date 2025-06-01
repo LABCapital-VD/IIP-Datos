@@ -97,20 +97,32 @@ def _(ori_jer_2019, ori_jer_2021, ori_jer_2023, pd):
 
 @app.cell
 def _(ori_stacked, uuid):
+    # def generate_uuid_map(df, column):
+    #     # Group by year and column
+    #     pairs = df[['T', column]].drop_duplicates()
+    #     pairs['id'] = [str(uuid.uuid4()) for _ in range(len(pairs))]
+    #     return pairs
+
     def generate_uuid_map(df, column):
-        # Group by year and column
+        # Unique (T, column) combinations
         pairs = df[['T', column]].drop_duplicates()
+        # Add UUID for each pair
         pairs['id'] = [str(uuid.uuid4()) for _ in range(len(pairs))]
+        assert pairs['id'].duplicated().sum() == 0, "UUID collision!"
         return pairs
 
+
+
     # Apply to each column you want to normalize
-    componente_map = generate_uuid_map(ori_stacked, 'Componente')
-    variable_map   = generate_uuid_map(ori_stacked, 'Variable')
-    indicador_map  = generate_uuid_map(ori_stacked, 'Indicador')
-    pregunta_map   = generate_uuid_map(ori_stacked, 'Pregunta')
-    subpregunta_map   = generate_uuid_map(ori_stacked, 'SubPregunta')
+    componente_map   = generate_uuid_map(ori_stacked, 'Componente')
+    variable_map     = generate_uuid_map(ori_stacked, 'Variable')
+    indicador_map    = generate_uuid_map(ori_stacked, 'Indicador')
+    pregunta_map     = generate_uuid_map(ori_stacked, 'Pregunta')
+    subpregunta_map  = generate_uuid_map(ori_stacked, 'SubPregunta')
+    field_map  = generate_uuid_map(ori_stacked, 'Field')
     return (
         componente_map,
+        field_map,
         indicador_map,
         pregunta_map,
         subpregunta_map,
@@ -121,6 +133,7 @@ def _(ori_stacked, uuid):
 @app.cell
 def _(
     componente_map,
+    field_map,
     indicador_map,
     ori_stacked,
     pregunta_map,
@@ -134,6 +147,7 @@ def _(
         .merge(indicador_map, on=['T', 'Indicador'], how='left', suffixes=('', '_indicador'))
         .merge(pregunta_map, on=['T', 'Pregunta'], how='left', suffixes=('', '_pregunta'))
         .merge(subpregunta_map, on=['T', 'SubPregunta'], how='left', suffixes=('', '_subpregunta'))
+        .merge(field_map, on=['T', 'Field'], how='left', suffixes=('', '_field'))
     ).rename(columns={'id':'id_componente'})
 
     # Optional: drop the original columns and keep only UUIDs
@@ -144,7 +158,7 @@ def _(
 
 @app.cell
 def _(stacked):
-    stacked[(stacked['T'] == 'IIP2023') & (stacked['Variable'] == 'Variable 6. Generación de ideas')]
+    stacked[(stacked['T'] == 2023) & (stacked['Variable'] == 'Variable 6. Generación de ideas')]
     return
 
 
@@ -568,6 +582,12 @@ def _(stacked):
 
     subpres = subpres[['id','index_edition_id','pregunta_id','text','weight',]]
     subpres
+    return (subpres,)
+
+
+@app.cell
+def _(subpres):
+    subpres.tail(20)
     return
 
 
@@ -584,8 +604,8 @@ def _(mo):
 
 
 @app.cell
-def _(pres):
-    pres.to_csv('./output/05_subpregunta.csv',index=False,sep='|',quotechar='"',escapechar="'")
+def _(subpres):
+    subpres.to_csv('./output/05_subpregunta.csv',index=False,sep='|',quotechar='"',escapechar="'")
     return
 
 
@@ -672,6 +692,22 @@ def _():
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""# Nivel 6""")
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Campos""")
+    return
+
+
+@app.cell
+def _(stacked):
+    fields = stacked[['id_field', 'T' , 'id_subpregunta', 'Field','tf','wf']].drop_duplicates().copy()
+    fields.rename(columns={'id_field':'id','T':'index_edition_id','Field':'text','id_subpregunta':'subpregunta_id','wf':'weight','tf':'question_type'}, inplace=True)
+
+    fields = fields[['id','index_edition_id','subpregunta_id','text','weight',]]
+    fields
     return
 
 
