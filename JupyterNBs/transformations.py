@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.13.11"
+__generated_with = "0.13.15"
 app = marimo.App()
 
 
@@ -108,24 +108,44 @@ def _(ori_stacked, uuid):
     variable_map   = generate_uuid_map(ori_stacked, 'Variable')
     indicador_map  = generate_uuid_map(ori_stacked, 'Indicador')
     pregunta_map   = generate_uuid_map(ori_stacked, 'Pregunta')
-    # subpregunta_map   = generate_uuid_map(ori_stacked, 'Subpregunta')
-    return componente_map, indicador_map, pregunta_map, variable_map
+    subpregunta_map   = generate_uuid_map(ori_stacked, 'SubPregunta')
+    return (
+        componente_map,
+        indicador_map,
+        pregunta_map,
+        subpregunta_map,
+        variable_map,
+    )
 
 
 @app.cell
-def _(componente_map, indicador_map, ori_stacked, pregunta_map, variable_map):
+def _(
+    componente_map,
+    indicador_map,
+    ori_stacked,
+    pregunta_map,
+    subpregunta_map,
+    variable_map,
+):
     stacked = (
         ori_stacked
         .merge(componente_map, on=['T', 'Componente'], how='left', suffixes=('', '_componente'))
         .merge(variable_map, on=['T', 'Variable'], how='left', suffixes=('', '_variable'))
         .merge(indicador_map, on=['T', 'Indicador'], how='left', suffixes=('', '_indicador'))
         .merge(pregunta_map, on=['T', 'Pregunta'], how='left', suffixes=('', '_pregunta'))
+        .merge(subpregunta_map, on=['T', 'SubPregunta'], how='left', suffixes=('', '_subpregunta'))
     ).rename(columns={'id':'id_componente'})
 
     # Optional: drop the original columns and keep only UUIDs
     # stacked = stacked.drop(columns=['T', 'Componente', 'Variable', 'Indicador', 'Pregunta'])
     stacked
     return (stacked,)
+
+
+@app.cell
+def _(stacked):
+    stacked[(stacked['T'] == 'IIP2023') & (stacked['Variable'] == 'Variable 6. Generación de ideas')]
+    return
 
 
 @app.cell(hide_code=True)
@@ -541,6 +561,16 @@ def _(mo):
     return
 
 
+@app.cell
+def _(stacked):
+    subpres = stacked[['id_subpregunta', 'T' , 'id_pregunta', 'SubPregunta','ts','ws']].drop_duplicates().copy()
+    subpres.rename(columns={'id_subpregunta':'id','T':'index_edition_id','SubPregunta':'text','id_pregunta':'pregunta_id','ws':'weight','ts':'question_type'}, inplace=True)
+
+    subpres = subpres[['id','index_edition_id','pregunta_id','text','weight',]]
+    subpres
+    return
+
+
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""## Respuestas""")
@@ -550,6 +580,12 @@ def _(mo):
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""## exports lvl 5""")
+    return
+
+
+@app.cell
+def _(pres):
+    pres.to_csv('./output/05_subpregunta.csv',index=False,sep='|',quotechar='"',escapechar="'")
     return
 
 
