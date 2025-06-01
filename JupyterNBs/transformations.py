@@ -587,7 +587,7 @@ def _(stacked):
 
 @app.cell
 def _(subpres):
-    subpres.tail(20)
+    subpres[(subpres['index_edition_id']==2021)]
     return
 
 
@@ -708,6 +708,12 @@ def _(stacked):
 
     fields = fields[['id','index_edition_id','subpregunta_id','text','weight',]]
     fields
+    return (fields,)
+
+
+@app.cell
+def _(fields):
+    fields[(fields['index_edition_id']==2021)]
     return
 
 

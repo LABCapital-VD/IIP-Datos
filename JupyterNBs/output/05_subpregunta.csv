@@ -1,141 +1,133 @@
 id|index_edition_id|pregunta_id|text|weight
-5c29876c-26b0-4c41-ba8c-335487733dd4|2019|41dc7287-3643-4195-8b31-766d658a5ee4|1. Determine los acuerdos y/o actos administrativos relacionados con el concepto de innovación Pública.|0.0
-340a73bd-98d4-4dce-ab4f-db1d6ee1d6f0|2019|aff2c93c-1fd4-49c3-bf00-76a95c218114|"2. Determine los enfoques / líneas / componentes / proyectos / 
+7b804864-28da-42f9-8fff-d88198407c6f|2019.0|01a74135-ed73-4605-a3a2-1e9be0abffc2|1. Determine los acuerdos y/o actos administrativos relacionados con el concepto de innovación Pública.|0.0
+91f6cd54-bf28-4867-9a9d-2a9ee6bd43b5|2019.0|005b4c4f-64a6-4a70-af0f-e4850c7cf178|"2. Determine los enfoques / líneas / componentes / proyectos / 
 programas o planes relacionados con el concepto de innovación Pública."|5.0
-ade4759a-15f2-4da2-836e-82ec38dac62b|2019|7b464380-83a3-4799-83b9-16d2b38a60c6|3. Presupuesto general de funcionamiento|0.0
-a8c02611-8591-4231-b7ed-83cd5ad20d9c|2019|cb1e4f67-431f-4cb6-9078-817837f4b957|4. Presupuesto general de funcionamiento ejecutado en innovación.|5.16
-38f05abc-d225-4041-89dc-f27ec7698cf5|2019|4862ada3-c1c8-4da8-9d83-79c9b4b9bdfd|5. Presupuesto general de inversión.|0.0
-d1370ee3-af69-4de2-a1f3-6ce10f9360fc|2019|f6111f4d-3739-4674-a122-8745ec86ecff|6. Presupuesto general de inversión ejecutado en innovación.|4.22
-704e24f1-f0d0-48af-ba08-ebc41964253d|2019|9aa37fc4-ee64-478f-8aad-ba70bee5428d|7. Total de funcionarios.|0.0
-7c1ea51b-7cd8-4af1-9ca1-dfb91f18f342|2019|cdf5eb5d-7a0d-411b-b7a6-de412976f1ba|8. Total de funcionarios en innovación por manual de funciones.|5.84
-e318e051-9db4-46d4-876e-af8748cd29b2|2019|784ce676-1804-4118-9b6b-58d3d43dcda7|9. Total de contratistas.|0.0
-1df79859-8b1b-4a02-bc08-7cd755666a69|2019|8f8ffc92-6317-44ef-aaa7-3ccbb198625a|10. Total de contratistas en innovación.|4.78
-99e21b11-88e7-42ae-92bc-01de484e155e|2019|0b966323-7655-4a99-a284-d9b0eb6075a2|11. Ingrese los detalles sobre las actividades|3.78
-476dff8a-ab6a-47ac-abb8-663c35123d5a|2019|0b966323-7655-4a99-a284-d9b0eb6075a2|1. Ingrese los detalles sobre las actividades|3.78
-a2fcc1ce-7e32-4c92-952f-373859ec1316|2019|12ae8fc0-c9e7-4a1f-bca7-fca04bb67f1a|12. Ingrese los detalles sobre los canales para detección de retos|1.26
-a8cade50-23e1-4659-a4fa-cf9be6433cc7|2019|f1dd56f5-aaa0-40d9-9351-3f52d35ff718|13. Ingrese los detalles sobre los canales para funcionarios para detección de retos|3.78
-d2899772-0797-4789-a646-7eed86a23501|2019|396be795-7ac0-4a17-a56d-d538af09bbc4|14. Ingrese los detalles sobre las actividades para detección de retos|3.78
-d2899772-0797-4789-a646-7eed86a23501|2019|396be795-7ac0-4a17-a56d-d538af09bbc4|14. Ingrese los detalles sobre las actividades para detección de retos|4.2
-e88ca1d8-0333-4a74-96e3-b65fd6b344b8|2019|ff778137-426a-4c38-88f8-c3b7b17f7b7f|15. Ingrese los detalles sobre los canales para la ciudadanía para la identificación de ideas|4.2
-74433396-dd1f-43db-b70e-512588502e75|2019|740ee044-40e2-496f-8992-30d1c829ced1|16. Ingrese los detalles sobre los canales para funcionarios y colaboradores para la identificación de ideas|4.2
-6cf7539c-035b-4259-a193-0e6d22d77335|2019|07f31208-69c4-40ce-9e8f-c4a5e4cb5c81|17. Ingrese los detalles sobre las actividades para la identificación de ideas|4.2
-4856795d-93a0-4f17-886b-a445886f04b5|2019|e68aaf51-0d4e-4523-8c41-1602db1ea0c7|18. Ingrese los detalles sobre las innovaciones diseñadas|10.8
-96e778b4-93dc-4ceb-b12a-1b1116d8b03f|2019|7a7919db-bbee-42fa-8d17-ccae5fc0b2fa|19. Ingrese los detalles sobre las actividades para la generación de capacidades en innovación|4.0
-49633626-62f3-4049-aaaa-ad40d04306a1|2019|43a4a762-552b-4101-a593-49d7a15dbf6f|20. Ingrese los detalles sobre las innovaciones en proceso de implementación|20.0
-4c52d00e-a111-47d0-b5e8-1fcba5529660|2019|6e7c0548-cf6c-414f-9073-330027d1592a|21. Total de funcionarios que recibieron formación en innovación|3.5
-b58ec386-bdd2-446e-ad86-e649bbd86fbe|2019|d98df205-7802-4a9a-8b3d-49cb529c0d0a|22. Total de contratistas que recibieron formación en innovación|1.5
-d5b9094b-715c-4eac-95d4-6f9c6e530eb4|2019|bec2797d-8f4f-4dfb-a531-935663e4925c|23. Detalles sobre los acuerdos y/o actos administrativos relacionados con el concepto de gestión del conocimiento.|0.0
-8a542e2f-46e9-4127-bd11-658fa863ea74|2019|069ed477-97ba-46bd-ac72-7e501ef3d922|"24. Detalles sobre los los enfoques / líneas / componentes / proyectos / 
+0a8f9b5c-e655-414b-a70e-53c76c1b822e|2019.0|0251f58e-b791-4b23-809f-53de1c452499|3. Presupuesto general de funcionamiento|0.0
+1fd6a7b5-f7e6-4b69-b471-d072bf976bc7|2019.0|e3d40392-18ff-44ec-88e8-0a546ab0e990|4. Presupuesto general de funcionamiento ejecutado en innovación.|5.16
+efeae66f-1110-4607-8539-7772382412a1|2019.0|e27f6ba6-c9e7-40fa-b43d-70d76d8acc57|5. Presupuesto general de inversión.|0.0
+6cb62034-bea3-4a0a-9635-146a5d54e77b|2019.0|5f13bbbe-d69d-4315-bd4f-df779178d765|6. Presupuesto general de inversión ejecutado en innovación.|4.22
+7c8af014-93ac-4321-9c2c-5226472c7606|2019.0|a60b395e-98fd-4686-bbd5-4ef83252fd8d|7. Total de funcionarios.|0.0
+d1b53212-5f35-4ea5-a5e6-98741fa09862|2019.0|a0be61af-ccf7-4bd1-939a-b576e8412d87|8. Total de funcionarios en innovación por manual de funciones.|5.84
+63ecfde4-92dd-451e-a066-301bf6f925a1|2019.0|b7ad5247-2e38-4f32-90bc-431f1441a199|9. Total de contratistas.|0.0
+f06eac84-5e66-48fd-b7a4-e08502934e04|2019.0|9faf17cd-f3b8-4ecb-8bff-05b3de22da22|10. Total de contratistas en innovación.|4.78
+064008fa-326c-4333-8a91-d7f3004c9abd|2019.0|bedcd56c-b11c-4441-bdee-e245406cf5e3|11. Ingrese los detalles sobre las actividades|3.78
+a2cb0f80-33d6-41da-953d-60fd1c954ebe|2019.0|bedcd56c-b11c-4441-bdee-e245406cf5e3|1. Ingrese los detalles sobre las actividades|3.78
+e6dcd21d-2366-4f6a-a418-4f90354cd20e|2019.0|3d10f185-8bcb-4f52-a07c-2b030d1e5c07|12. Ingrese los detalles sobre los canales para detección de retos|1.26
+ca068aa9-28a9-46e8-9cc2-b3ac8d2ff98d|2019.0|2afc0f49-4c44-4277-9341-637ea4a969b1|13. Ingrese los detalles sobre los canales para funcionarios para detección de retos|3.78
+0367ea69-386a-4bb0-bafb-87949d7ec3af|2019.0|468efe48-8666-4e7f-acde-3f6a4e9ee86b|14. Ingrese los detalles sobre las actividades para detección de retos|3.78
+0367ea69-386a-4bb0-bafb-87949d7ec3af|2019.0|468efe48-8666-4e7f-acde-3f6a4e9ee86b|14. Ingrese los detalles sobre las actividades para detección de retos|4.2
+3e09b662-c8ee-41fe-8eee-273dc5adc40d|2019.0|c4387611-f1f5-4aa9-a79c-f28b383479df|15. Ingrese los detalles sobre los canales para la ciudadanía para la identificación de ideas|4.2
+606fa753-8d3f-4d53-9f5d-c5fe94e2fa80|2019.0|f6f41bfe-8ecf-47e8-b1e4-c9c66b1686c2|16. Ingrese los detalles sobre los canales para funcionarios y colaboradores para la identificación de ideas|4.2
+a82a1350-f7ee-4e31-9959-f3c9a8140838|2019.0|df2e50f0-a546-47ca-badd-e6f306db00d9|17. Ingrese los detalles sobre las actividades para la identificación de ideas|4.2
+b8c99fdb-e78c-4a3c-be1c-e7a558b144b2|2019.0|53095e19-79cc-41fb-9ba7-f4877f8970db|18. Ingrese los detalles sobre las innovaciones diseñadas|10.8
+24378593-3850-4544-a912-322a03052736|2019.0|0c8c821b-2b04-4450-a1e2-c5f6578b7d40|19. Ingrese los detalles sobre las actividades para la generación de capacidades en innovación|4.0
+44b8e295-45e9-4a6d-94a5-24d8096c5000|2019.0|da72b77e-e969-455a-9810-e119e6d047f4|20. Ingrese los detalles sobre las innovaciones en proceso de implementación|20.0
+14a677d8-2f3a-4fca-a4a6-f1978614ad3b|2019.0|02013375-3db5-4648-a0cd-521bab38acba|21. Total de funcionarios que recibieron formación en innovación|3.5
+0b898f03-6d56-446f-a97d-94e2b7cd3a38|2019.0|ff22f724-baca-4e54-adab-9eba6dd1e87d|22. Total de contratistas que recibieron formación en innovación|1.5
+498fffaf-28e6-4c78-b53c-1852d2558d7e|2019.0|38f2b38f-9779-428e-adf6-54140d875fda|23. Detalles sobre los acuerdos y/o actos administrativos relacionados con el concepto de gestión del conocimiento.|0.0
+2d61df43-3262-4f98-9284-a63f00ecf465|2019.0|aed4eed3-124f-43d9-8eb4-a0a7cbb2364f|"24. Detalles sobre los los enfoques / líneas / componentes / proyectos / 
 programas o planes relacionados con el concepto de gestión del conocimiento."|2.94
-c2ea36f3-1e11-4dac-9f7f-b8918cad4f18|2019|85eb09e8-9321-4d9e-bbcf-441f8def26bb|25. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con la ciudadanía|0.78
-9784b10f-9816-4d17-af67-477730ac1459|2019|56d33f3d-9111-4984-a128-b2c1041b90ac|26. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con los funcionarios y contratistas|0.78
-2f4e2de1-a95c-429a-8850-2d81ab56d0ba|2019|505eec01-faa0-4c4c-bb99-67062aeb9687|27. Detalles sobre el documento relacionado con el proceso de captación de ideas con la ciudadanía|0.78
-009492f6-e7f0-4829-b740-85dce17ebf20|2019|8ccf0393-2e26-4761-ab7a-cb0c149c6233|28. Detalles sobre el documento relacionado con el proceso de captación de ideas con los funcionarios y contratistas|0.79
-c7dbf91c-2365-4762-878a-eb7456431390|2019|0d47e897-962a-4117-beb1-ac5ecb497083|29. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas en innovación|0.79
-4f60ae9e-3cf5-403d-b300-3ffb729ed215|2019|42a52fe8-57ca-4fe6-9e9b-6e103320c7b6|30. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas|0.79
-6942b57a-dd52-4583-b3ac-a86aec1acf90|2019|c791b08e-8e48-4305-bc64-6fe45ebbff5b|31. Detalles sobre el documento de segimiento a innovaciones implementadas|2.35
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|87bf0ad0-5ff9-463f-bb8b-c784c0a76910||0.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|0f60e432-6c5b-4d20-9a6b-f7163a890f2c||4.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|5a1746e8-f23e-45cc-bf96-5dec6df34ddf||1.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|0f804e0b-5d09-4965-9787-f5f9ccc5994e||3.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|9ee23067-ec93-4944-bfb7-632c8e0b5a7d||1.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|71b81109-b9c8-406a-8f5d-51805c569608||2.7
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|18ccd50d-044d-4147-b1fb-106b6af16de0||2.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|8f19fe75-4cd0-47b6-8303-98548904d0e7||2.7
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|f0d38743-ab60-4389-b55d-72b5e3a82f15||1.5
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|425ff81c-3002-46f4-ba67-962020fdd573||2.5
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|dd7e3f3a-e347-461e-a632-618e41c32934||2.1
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|c1c86b2f-94c1-4d14-88f9-c4b19e6f2838||1.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|27b87a08-8bb3-4865-aea2-9b3570253ca6||1.5
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|0ed4b92f-d49e-48ff-83d6-3f75859c200e||2.8
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|41ea9775-ab64-480c-bf8c-4c861c5892f9||1.0
-1cceb1c1-9089-47a3-a9ee-cc0407aeec02|2021|e38f723e-18c0-4666-81b1-ca3c41c598d7|16.1 A partir de la información recolectada mediante los canales con funcionarios y/o contratistas para la identificación de retos o áreas de oportunidad, ¿su entidad realizó entre 2019 y 2020 alguna de las siguientes actividades? Seleccione las que apliquen. |2.8
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|181ae673-8e45-4b29-abbb-6086946b2b89||2.4
-8f9288f0-6d02-4658-9f20-26832f24be01|2021|0e010d2d-4f04-4b49-9cbe-331013058210|18.1 A partir de la información recolectada mediante los canales ciudadanos para la recepción de ideas relacionadas con el mejoramiento de su entidad, ¿su entidad realizó entre 2019 y 2020 alguna de las siguientes actividades? Seleccione las que apliquen.|3.0
-06593756-b09c-46ff-b371-d4ee1226a777|2021|4f27406a-1187-4e53-9cec-33c825baf835|19.1 A partir de la información recolectada mediante los canales con funcionarios y/o contratistas para la recepción de ideas relacionadas con el mejoramiento de su entidad, ¿su entidad realizó entre 2019 y 2020  alguna de las siguientes actividades? Seleccione las que apliquen.|3.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|8cfd803e-8c2f-429b-a345-07e63985dee5||2.0
-7a8f5a6a-38a3-4b8d-991c-924cb6aa5fe2|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.1 ¿Cuántas innovaciones diseñó su entidad entre 2019-2020?|7.0
-e8c54bc7-abc6-4d13-8539-7bf24b08460e|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.2 ¿De dónde surgieron las innovaciones diseñadas por su entidad en 2019-2020? [A. Ciudadanía]|7.0
-2ecd08b8-5844-4157-a6ab-4bb89a4b6a8d|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.2 ¿De dónde surgieron las innovaciones diseñadas por su entidad en 2019-2020? [B. Funcionarios y/o contratistas.]|7.0
-2f3e8c7e-c8d7-4bab-813d-0c0663638c4b|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.2 ¿De dónde surgieron las innovaciones diseñadas por su entidad en 2019-2020? [C. Exclusivamente del nivel directivo de la entidad.]|7.0
-aa0e6e46-bba6-4c89-8bd2-32f0dda502ae|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.2 ¿De dónde surgieron las innovaciones diseñadas por su entidad en 2019-2020? [D. Ejercicios de co-creación entre ciudadanía y servidores públicos y contratistas]|7.0
-28ca6fdb-f835-4218-a7fa-2162d3837a05|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.3 Durante 2019 y 2020, ¿se desarrolló algún prototipo de las innovaciones diseñadas?|7.0
-5191a5b5-8471-464f-80e1-1d4c3bcd25e3|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.4. Durante 2019 y 2020, ¿cuántas de las innovaciones diseñadas contaron o cuentan con un prototipo?|7.0
-e724ac50-127e-4a26-adde-6b84074464e2|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.5 Teniendo en cuenta los prototipos de las innovaciones diseñadas, ¿con quién se validaron el (los) prototipo(s)?  [A. Con los usuarios de la innovación]|7.0
-da1404ff-94ba-4b7a-9988-f1e080c14642|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.5 Teniendo en cuenta los prototipos de las innovaciones diseñadas, ¿con quién se validaron el (los) prototipo(s)?  [B. Sin los usuarios de la innovación.]|7.0
-108e0205-9525-4f2d-a4ae-ca1d571f4bc4|2021|399aa9fa-777a-4937-a11d-11d16f6b1f23|21.5 Teniendo en cuenta los prototipos de las innovaciones diseñadas, ¿con quién se validaron el (los) prototipo(s)?  [C. El prototipo no se validó.]|7.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|cf602bd1-5a5f-4a41-9441-4f92fe3ed0c3||6.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|88d16142-fc8e-45ec-922e-8dbb6f5d547e||2.8
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|921a156c-0512-4b58-aa50-1c31c978b174||1.1
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|5594450a-9a14-4d04-8aab-7262aef840e7||1.1
-2251cd20-35a8-476f-b4b1-7d7c2172d68d|2021|9d42de98-f7bb-425e-83e4-cd9991c8775f|26.1 ¿Cuántas innovaciones fueron implementadas o están en proceso de implementación?|17.0
-a1845a87-fc98-4883-a582-2b47c3fbd0f9|2021|9d42de98-f7bb-425e-83e4-cd9991c8775f|26.2 De las innovaciones implementadas o en proceso de implementación, ¿cuántas fueron validadas con los usuarios?|17.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|c9fa23de-af3a-4267-9069-7d91a8e8a9ec||1.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|ff8f4351-0c10-41f2-ba58-7c1dec0e20dd||1.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|1e153de7-da59-4acd-966d-e6b52a7149f1||1.5
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|4b1ac26e-1b79-4235-9fec-8a9950610567||2.2
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|377007fe-bee5-42fb-8f68-cf24a615cde2||2.3
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|19d3a5b4-93a9-481a-b1d6-87d8c9cf28ef||0.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|a5b58359-c6c4-40a6-9c29-93a8c0a99f96||3.0
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|dc2aa1ee-cd7f-47ec-8e5e-1c0de85fb53b||1.2
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|6076e554-62c0-43c3-bad7-200b5b5bf9f8||0.96
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|f30bfc1b-16cd-4353-8abc-f3cbbdeaa9d8||0.96
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|214c005a-da4a-4937-bd64-3a223b15efd6||0.96
-b8145276-075a-44e2-8d2b-92a669ef40ba|2021|bfe2ae9e-1fb3-452f-a756-4dd9de24d378|38.1 ¿Qué hace su entidad con el documento de lecciones aprendidas y buenas prácticas de innovación? |0.96
-60951555-f22d-45e7-afa4-53bf5f33ac36|2021|5fcf6a7c-51b0-4292-8da6-78cad11f11c5|39.1 ¿Qué hace con el documento de lecciones aprendidas y buenas prácticas de su entidad? |0.96
-6f42c512-368c-417a-aafd-c0e7cdaf0b7a|2021|320df401-2232-4902-9a11-6ffe2233f7ba||6.0
-4ec83633-6de4-46c0-8ea0-4ceaca6626a6|2023|d1847bdb-29ad-4b58-857b-ee201df44e93|1. ¿Cuáles? Ingrese los detalles de cada uno de los acuerdos o actos administrativos.|0.0
-3a842ce0-84ac-4fcc-9725-9b86ab2f0a47|2023|8f8b41cf-f0af-4577-80c6-93abce007629|2. ¿Cuáles? Ingrese los detalles de cada uno de los enfoques / líneas / componentes / proyectos / programas o planes.|4.0
-cd25e6f3-0c3c-4ea0-b12a-599e8d66d3ff|2023|b9f85fea-3803-4cac-a69e-eb6a26ddf49d|3. Presupuesto general de funcionamiento año 2021|0.0
-2c1ec6ac-a725-49d6-9cdd-cfecfb6239cb|2023|b9f85fea-3803-4cac-a69e-eb6a26ddf49d|3. Presupuesto general de funcionamiento año 2022|0.0
-de6a8e44-56c0-4d20-a239-3d8c6c08cdbc|2023|800c1406-02c0-4699-baca-85d634052730|4. Presupuesto general de funcionamiento ejecutado en innovación año 2021|4.0
-647978f5-86ec-4057-b7a0-0d3629b2a910|2023|800c1406-02c0-4699-baca-85d634052730|4. Presupuesto general de funcionamiento ejecutado en innovación año 2022|4.0
-6b1423ec-f1fa-4c79-8cba-db0e1893404d|2023|c038cb69-3929-4945-a5b4-da4f8a85140e|5. Presupuesto general de inversión año 2021|0.0
-1e321cae-d0f0-4f8b-a04a-f4ae0916ece5|2023|c038cb69-3929-4945-a5b4-da4f8a85140e|5. Presupuesto general de inversión año 2022|0.0
-9073ca40-3a83-47b7-a19d-c51d5c9756db|2023|76109474-36ed-4597-be0f-dd5515b877f6|6. Presupuesto general de inversión ejecutado en innovación año 2021|3.7
-9094afc3-cec0-4813-8ec0-d1c10ce22304|2023|76109474-36ed-4597-be0f-dd5515b877f6|6. Presupuesto general de inversión ejecutado en innovación año 2022|3.7
-39f0072f-4ffc-4cea-ae96-d33e4c2c90c0|2023|50b4e018-b2e9-4297-b714-89c50558c558|7. Total de funcionarios del año 2021|0.0
-6cf1bcbb-86c9-4761-821b-4666a47c7df6|2023|50b4e018-b2e9-4297-b714-89c50558c558|7. Total de funcionarios del año 2022|0.0
-06e7be23-f45d-4035-9956-d1e852667818|2023|580feb39-2696-46a2-a22f-a739879e698f|8. Total de funcionarios en innovación por manual de funciones del año 2021|4.0
-bc4f3b92-3d0b-4ddc-a790-8e78e124a110|2023|580feb39-2696-46a2-a22f-a739879e698f|8. Total de funcionarios en innovación por manual de funciones del año 2022|4.0
-38699261-582e-43b6-b8a6-3f4bebeb8e53|2023|8c5df582-7fb4-48f7-ba48-23ba979dbb3c|9. Total de funcionarios en innovación ocasionalmente del año 2021|0.0
-a4785218-0f2a-410d-8a55-ec82eee492ed|2023|8c5df582-7fb4-48f7-ba48-23ba979dbb3c|9. Total de funcionarios en innovación ocasionalmente del año 2022|0.0
-2c63ead6-907b-4963-bf3c-6d0d30ba7760|2023|39f791a5-4331-4058-88be-48d8304a2949|10. Total de contratistas del año 2021|0.0
-debe8f8c-f80d-4210-b8da-b679f84eb613|2023|39f791a5-4331-4058-88be-48d8304a2949|10. Total de contratistas del año 2022|0.0
-5e9e411b-6d11-4c28-9947-7edf0a0c2cb0|2023|1fa02b82-45da-48de-a1fd-a268382429fa|11. Total de contratistas en innovación del año 2022|4.7
-a38e0f1e-c71f-4be1-8b2f-aae31f6e6bb8|2023|1fa02b82-45da-48de-a1fd-a268382429fa|11. Total de contratistas en innovación del año 2021|4.7
-7e0d4894-1e3b-4bfc-9916-9b3599b9bceb|2023|b82683b5-cbff-4d0c-a013-a520708d4f2a|12. Total de contratistas en innovación ocasionalmente del año 2021|0.0
-ea1064dc-2449-46a0-80fc-24f9d1a63a0d|2023|b82683b5-cbff-4d0c-a013-a520708d4f2a|12. Total de contratistas en innovación ocasionalmente del año 2022|0.0
-7447af1b-0752-4a09-9e2f-009b38be3e18|2023|d746d883-c209-4cd7-9e0d-857773e9416a|13. ¿Cuáles recursos digitales se incorporaronEntre el 01 de enero de 2021 y el 31 de diciembre de 2022 como habilitantesPara la innovación en su entidad?|4.6
-a4a76035-fea4-40f7-814a-9faf48c4d0f0|2023|a3e908df-4a34-4aa6-894a-a6a368731ed1|"14. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles retos o áreas de oportunidadPara abordar al interior de su entidad desde la innovación se identificaron gracias a la información captada en ""Bogotá te Escucha""? "|2.8
-309a6a32-325f-464d-9758-05d97cd2cb36|2023|065938cd-0d25-409e-b3d6-c8c4f9780905|"15. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles retos o áreas de oportunidadPara abordar al interior de su entidad desde la innovación se identificaron a través de canales complementarios a ""Bogotá te Escucha"" dispuestosPara la ciudadanía? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
-db2b8123-247d-4dd6-ad55-ed25fb898978|2023|86ff6dfc-7ed0-4ac4-aa8d-c28396db0397|"16. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles retos o áreas de oportunidadPara abordar al interior de su entidad desde la innovación se identificaron a través de canales dispuestosPara los funcionarios y/o contratistas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|2.8
-df513b1c-06c7-4447-834c-028ab46cb842|2023|7e126cb9-5f31-4cae-8eb6-49b6995a3840|17. Pregunta 17.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron los canales que brindó su entidadPara la identificación de retos o áreas de oportunidad en la entidad que usted representa?|1.2
-f1a5872d-2e26-4628-bf24-d764f547ab20|2023|90c21dd9-ddf1-4f92-b6f5-557306d774c8|18. Pregunta 18.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Qué actividades se llevaron a caboPara la identificación de retos o áreas de oportunidad en la entidad que usted representa?|1.2
-c43fd232-fecd-42e0-a37b-b20b0d9d7141|2023|0d479a52-433b-4f27-a5c6-7c38903d9418|"19. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles ideasPara abordar al interior de su entidad desde la innovación se captaron o generaron a través de canales dispuestosPara la ciudadanía? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|3.0
-b04d8297-3b27-4ab3-8f77-183e2563def9|2023|759bc664-7200-4149-ae3f-e4585336104c|"20. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles ideasPara abordar al interior de su entidad desde la innovación se captaron o generaron a través de canales dispuestosPara los funcionarios y/o contratistas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|3.0
-0f124ff7-d04f-49af-aa00-05ba0e0764c1|2023|1b669f17-c32e-4640-89bc-eda63c481f99|21. Pregunta 21.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron los canales que brindó su entidadPara la recepción o generación de ideas?|1.0
-6197f327-fc2b-45b8-bbce-c5791b7a51b1|2023|bc8ef5de-3a9d-434b-8bd9-b9e30fbb6dad|22. Pregunta 22.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Qué actividades se llevaron a caboPara la recepción o generación de ideas en la entidad que usted representa?|1.0
-7810f9b1-22d5-4cec-a5d5-28485b5eb6d9|2023|940889c7-a8db-41a8-99be-c7e1b5fc6e56|"23. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron las innovaciones diseñadas encaminadas al cumplimiento de los objetivos y metas de su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|7.0
-8824613c-d684-4fc6-a6a7-ec52f58d96b7|2023|fc4361b2-56c9-4b82-8b19-7f2aeede1e4c|"24. ¿Qué eventos, conferencias y/o charlas auspiciadas y/o financiadas directamente por su entidad fueron desarrolladas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
-40fc0a10-ff34-4866-8da2-33cd9c5f3d8e|2023|fc4361b2-56c9-4b82-8b19-7f2aeede1e4c|"24. ¿Qué eventos, conferencias y/o charlas auspiciadas y/o financiadas por otra entidad fueron desarrolladas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
-e4634226-bd1f-402c-aba0-fc65cccf691c|2023|fc4361b2-56c9-4b82-8b19-7f2aeede1e4c|"24. ¿Qué actividades de formación o capacitación en temas de innovación fueron auspiciadas y/o financiadas directamente por su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
-0d8561d4-94f7-4245-b476-d26dc1f5bfbf|2023|fc4361b2-56c9-4b82-8b19-7f2aeede1e4c|"24. ¿Qué actividades de formación o capacitación en temas de innovación fueron auspiciadas y/o financiadas por otra entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
-a960a3e7-9137-41d0-bc4f-a2f25c1a8843|2023|fc4361b2-56c9-4b82-8b19-7f2aeede1e4c|"24. ¿Qué otras actividades desarrolló su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
-f563ae5a-c087-499a-a473-daed254c892c|2023|d6ae3a22-7c51-45e3-8254-57648abf16cd|"25. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cómo se ha generado y promovido una culturaPara la innovación pública al interior de su entidadPara funcionarios y contratistas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|2.8
-c1bcd742-f095-4b50-8a9b-0d02f7232cbb|2023|73785bf0-35f5-4f8c-bb13-5aa72bc8fa3e|"26. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron los espacios de experimentación, co-creación e incentivos enfocados a la innovación generadosPara los funcionarios y contratistas de su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.1
-f9d5e7cb-daa0-4696-8164-b1459634bda0|2023|8ee9916e-7c5f-4b4b-bc06-745962c5a946|"27. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron las unidades de innovación como laboratorios, observatorios o semilleros de innovación al interior de su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.1
-cc1ec60b-e0c7-466e-958a-b56953ceac41|2023|cfc01192-ea6e-48ce-8151-1eecb2c4c0eb|"28. Para cada innovación señalada en la pregunta 23, indique: (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|20.5
-d90c2c1b-0795-470b-ae6f-18c3369bd223|2023|259bae86-c0cb-465c-a04e-8b3de56ce28f|29. Total de  funcionarios formados en innovación en 2021|2.2
-8d87fe04-aa22-4726-b376-780cc6c2b5ce|2023|259bae86-c0cb-465c-a04e-8b3de56ce28f|29. Total de  funcionarios formados en innovación en 2022|2.2
-4fc045f0-7257-4100-94fa-def39e2f272f|2023|330a0d0e-4b99-4aaa-a21d-73303aa5d303|30. Total de  contratistas formados en innovación en 2021|2.3
-9ed74c5e-741b-4a49-a223-1767d384faa5|2023|330a0d0e-4b99-4aaa-a21d-73303aa5d303|30. Total de  contratistas formados en innovación en 2022|2.3
-422643bb-666c-4d39-9753-177585578895|2023|281e57cf-01b7-432c-a640-1740bacbb284|"31. ¿Cuáles? Ingrese los detalles de cada uno de los acuerdos y/o actos administrativos de su entidad relacionados con la gestión del conocimiento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|0.0
-af04d926-924b-461b-a1c3-67fb9a62d4d4|2023|98820357-5c8e-46e5-9336-65be47416074|"32. ¿Cuáles? Ingrese los detalles de cada uno de los enfoques / líneas / componentes / proyectos / programas o planes de su entidad relacionados con la gestión del conocimiento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|3.0
-36f7ee6d-b8c8-4e8d-b00f-fc7d9e7190ed|2023|19d86011-1c31-4c74-90ec-bab719f557ef|"33. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
-23ef339f-cede-4cce-9ded-5931087df9b4|2023|c8787e7f-6b2a-423d-8a58-0a1e808e5bbd|"34. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
-7d88a6ca-7560-4430-bc52-269ab885e02e|2023|97e1d65b-8b5c-4f06-a5ab-f73645c54a2a|"35. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
-3ec6a5f8-4056-4b9a-b723-437f04fdeda6|2023|667b4d49-a1d9-4f8f-ae91-4dc501cb14f7|"36. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
-e8fde074-f3b0-4908-8928-44304cf8156d|2023|090d3fa8-8546-4795-abdd-b199b4fe16a4|"37. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
-2bdd8de0-9e46-466b-991e-cdd166cb9004|2023|6355c3e6-b10f-4677-9476-63f32ddbe2cc|"38. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
-41d5698c-1398-4d6b-af02-dee93bd3d63d|2023|f636e546-f027-45dd-b36f-06554fafa925|"39. Sobre los mecanismos de monitoreo a las innovaciones. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
+549abcd9-ea1d-4b23-962f-bc86e8d9de40|2019.0|09fbfab7-bcc4-42fb-b40f-b3e0aadf7fb7|25. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con la ciudadanía|0.78
+8f9cfba9-6afa-4aa2-b5e5-5bc07386573c|2019.0|3e32dc88-da7d-4396-be9f-0f8867569440|26. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con los funcionarios y contratistas|0.78
+d9fdd35c-b43b-47ba-bea5-1a1f02ae83f3|2019.0|3b6ac222-582a-4fda-8c8e-140df3683085|27. Detalles sobre el documento relacionado con el proceso de captación de ideas con la ciudadanía|0.78
+99eab194-a524-4646-b703-7a502862c433|2019.0|f6e714cf-cd51-4cea-b9a6-8fe4a1e480b1|28. Detalles sobre el documento relacionado con el proceso de captación de ideas con los funcionarios y contratistas|0.79
+29d4c9b2-dedf-4b82-a610-410a69eea7ee|2019.0|a25e72d5-4332-4b2a-96a1-626a0412986f|29. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas en innovación|0.79
+dbb49b9d-0ab2-4bc6-9666-b51f6be1ac98|2019.0|03aea0c1-a8ac-427f-86e8-6749670cb025|30. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas|0.79
+46271f8e-e968-447e-83e5-054ee787020e|2019.0|1c1c53b4-93c7-4522-bf34-37af77c6bfb1|31. Detalles sobre el documento de segimiento a innovaciones implementadas|2.35
+adff23dc-5d4a-4db8-97c4-9a6c331109ed|2021.0|fc5ad0c3-a643-41b0-b0e3-b0aa7add1e1f|1. Determine los acuerdos y/o actos administrativos relacionados con el concepto de innovación Pública.|0.0
+6f78880f-7da3-408b-8b12-d13251f310d0|2021.0|b9d7af45-2e4f-4b99-b5ca-cfc1864ae568|"2. Determine los enfoques / líneas / componentes / proyectos / 
+programas o planes relacionados con el concepto de innovación Pública."|4.0
+7626b7f8-77ce-4371-9117-639c8c4cef3a|2021.0|8da48841-7da8-4f68-a881-c51569579aa0|3. Presupuesto general de funcionamiento|1.0
+ee44ea82-2b11-4f48-b15b-547bc265c438|2021.0|8cf48ad3-fe47-4885-9508-a41380412e5d|4. Presupuesto general de funcionamiento ejecutado en innovación.|3.0
+32bd9f1f-3417-44ac-9736-1b77d106aa66|2021.0|77a67e33-43a1-47fe-bc2e-be8bb7dba6a2|5. Presupuesto general de inversión.|1.0
+a0e39af4-0c5f-4ce5-9d70-6a96b4c51d24|2021.0|913a3c73-0a5f-4e67-b759-0bea0013653e|6. Presupuesto general de inversión ejecutado en innovación.|2.7
+22d92b46-3ae2-42c5-8091-b1927fab7f26|2021.0|6f6af5de-b0a1-475e-8721-aca78f460d10|7. Total de funcionarios.|2.0
+cef5bd53-105d-45de-b323-451366eaf860|2021.0|a5427a82-c7ab-4650-ab3b-5bf68ed1a5d0|8. Total de funcionarios en innovación por manual de funciones.|2.7
+d8314252-a3ce-413a-97a8-7f856543f393|2021.0|3431e21c-4c20-49f7-a699-cfe7d0a2b05c|9. Total de contratistas.|1.5
+934d4209-1d1c-44f3-adc6-99aab6d29d10|2021.0|bb24497c-fd76-4c05-b4dc-d7613d705af2|10. Total de contratistas en innovación.|2.5
+ebbc407c-d641-49e8-9054-ac85fdd0a785|2021.0|94fac478-5ed4-4dc2-b338-8db437b7e729|11. Determine los recursos digitales adquiridos como habilitantes de la innovación|2.1
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|a02c3f09-e8c7-4ddd-97ac-4ee18c55d6d5||1.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|17649d41-078a-4509-824d-eb0bc897f648||1.5
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|a2634088-d602-47da-a5e0-b9eda0e2a9f4||2.8
+e6b2a3b2-294f-42f6-b357-9c467ef5e043||adbe9767-022f-424c-95b6-1a3386457183||
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|9f15fed1-356c-4bd5-b0da-15ce97d39203||1.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|afb98733-d822-4ac2-be2d-56091b7bb494||2.8
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|25b42b67-7276-4726-82be-898058989e86||2.4
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|6b54ee78-71ee-4659-9e76-7c5c305c8b59||3.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|bd6ade2e-45da-44a3-bc09-23413b419b62||3.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|7c6d735f-4961-4d83-94f7-fe414d0e5700||2.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|69e1ced2-7a9c-42f8-99c0-4d5de0011801||7.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|64a9ad09-8644-4b37-93af-b31ea541086e||6.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|e368df5f-a9eb-43b1-86e9-87f6707ae1db||2.8
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|06f0c5e4-5294-49a7-856c-060fc3d13b6c||1.1
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|f8af7685-bb18-47d1-bbdd-452a6fe64927||1.1
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|4ea65ee8-8252-40ed-8720-fd0212bd9bfd||17.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|5ed3ffbd-c73d-4dd4-be71-00d03ce08573||1.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|6215e21c-1e98-42fa-9bf6-3d1792e59657||1.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|9b4d3d0e-cb90-42a3-baa8-467e36965f88||1.5
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|0b5786e3-7166-4947-a221-6aa183a142ed||2.2
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|caae3060-8a36-4ed7-b726-a2b3406a0fd4||2.3
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|b5200963-555b-43dd-9906-92f772cb1f5c||0.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|1226fd09-f355-47b9-887e-15a3478a5879||3.0
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|cc7cadfb-fd78-4021-802d-63fb291fa089||1.2
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|b55a1db0-7974-43d8-a07a-77b763ca2eca||0.96
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|387f5afa-34df-42d9-bc3f-ea61948d11f1||0.96
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|4ca50bed-dcab-4375-8ad1-029f8902e4aa||0.96
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|1d8bab66-dd85-43b5-ba4e-7c935bdffab5||0.96
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|ac557e52-1a9f-4021-9172-8d19e25eb323||0.96
+8a671208-fead-40c3-8e5e-aaaa15c3eaa5|2021.0|ab82e308-9845-4714-9097-ed5cb9a1cb3f||6.0
+cd2b9f02-6aea-4fc0-87e9-06d91db8850c|2023.0|792f6b97-4f46-40f9-8e6d-eb9b2e0fac40|1. ¿Cuáles? Ingrese los detalles de cada uno de los acuerdos o actos administrativos.|0.0
+ca81cac0-0438-4779-94d8-725ce3cfb19e|2023.0|35df4f82-cf59-4834-8b2f-be92a55112b7|2. ¿Cuáles? Ingrese los detalles de cada uno de los enfoques / líneas / componentes / proyectos / programas o planes.|4.0
+9ce38980-8416-4649-95e6-eb746fa49c5f|2023.0|02bd669a-c2bc-4b16-82e4-abc62732e8a9|3. Presupuesto general de funcionamiento año 2021|0.0
+5f82d380-9e12-429e-be62-4226acf36449|2023.0|02bd669a-c2bc-4b16-82e4-abc62732e8a9|3. Presupuesto general de funcionamiento año 2022|0.0
+66462a33-855b-4d79-ac31-9e746bd11388|2023.0|c8c464ae-48dc-4cad-b047-00944b9fcee8|4. Presupuesto general de funcionamiento ejecutado en innovación año 2021|4.0
+95bacfac-f972-468f-bb65-495c96d421c5|2023.0|c8c464ae-48dc-4cad-b047-00944b9fcee8|4. Presupuesto general de funcionamiento ejecutado en innovación año 2022|4.0
+24a885c5-fd46-4950-8e43-80defdb454b1|2023.0|6b7de0bd-da51-45b5-8177-db8f80b7c7cb|5. Presupuesto general de inversión año 2021|0.0
+310a529e-5138-4994-a333-f67245491ada|2023.0|6b7de0bd-da51-45b5-8177-db8f80b7c7cb|5. Presupuesto general de inversión año 2022|0.0
+ef398f4d-5205-41fb-8895-01d50ec90cc9|2023.0|1a015007-7fff-48f9-a115-cdf3ed4c7068|6. Presupuesto general de inversión ejecutado en innovación año 2021|3.7
+7af6cfc5-d743-4afe-a191-4d521fd3dd5f|2023.0|1a015007-7fff-48f9-a115-cdf3ed4c7068|6. Presupuesto general de inversión ejecutado en innovación año 2022|3.7
+75d799be-602a-46a5-87c7-0443fbab7344|2023.0|5eccbd9c-d2f0-474b-a9ac-2dd8c2b6f243|7. Total de funcionarios del año 2021|0.0
+19aa53bf-839d-4346-b02b-1c12bbaab380|2023.0|5eccbd9c-d2f0-474b-a9ac-2dd8c2b6f243|7. Total de funcionarios del año 2022|0.0
+827bdf17-a224-440b-beef-a4141da25ab4|2023.0|d6ef0e1b-0c57-4bf3-80fc-8cb781b24f6c|8. Total de funcionarios en innovación por manual de funciones del año 2021|4.0
+f0cdf86b-ff81-4ce1-a2e4-ac86402cf610|2023.0|d6ef0e1b-0c57-4bf3-80fc-8cb781b24f6c|8. Total de funcionarios en innovación por manual de funciones del año 2022|4.0
+1919c5c2-d04d-453f-bfe2-5ac11a31891a|2023.0|801cd62f-5e11-4d03-a06b-4c30cd284ee6|9. Total de funcionarios en innovación ocasionalmente del año 2021|0.0
+5c166b66-d5fd-4c60-b0fe-1dba249cf436|2023.0|801cd62f-5e11-4d03-a06b-4c30cd284ee6|9. Total de funcionarios en innovación ocasionalmente del año 2022|0.0
+442cef5a-efb1-4bc9-b0a0-447654c5fc9d|2023.0|ae30fcbe-130f-4425-8766-bde1b0619c59|10. Total de contratistas del año 2021|0.0
+ca1d109a-9d80-43de-a680-2768aa4d73fd|2023.0|ae30fcbe-130f-4425-8766-bde1b0619c59|10. Total de contratistas del año 2022|0.0
+d0a46733-fb5a-48c8-9ad2-58635953fc4e|2023.0|1a0090f5-c990-42bb-9c08-21bc16041477|11. Total de contratistas en innovación del año 2022|4.7
+8f7bbd16-30a0-41af-9964-e05975086ad1|2023.0|1a0090f5-c990-42bb-9c08-21bc16041477|11. Total de contratistas en innovación del año 2021|4.7
+b44114d8-6f89-4446-98b5-6b18112fad30|2023.0|c6bb848d-54e4-4353-ada9-4f487c902697|12. Total de contratistas en innovación ocasionalmente del año 2021|0.0
+da9e8f7e-c89b-4d7d-9845-24ed65903fbf|2023.0|c6bb848d-54e4-4353-ada9-4f487c902697|12. Total de contratistas en innovación ocasionalmente del año 2022|0.0
+30a821b7-02fc-482c-b4b3-cbb5e40390be|2023.0|2c505788-bada-462b-a8c5-c98fbe6cab13|13. ¿Cuáles recursos digitales se incorporaronEntre el 01 de enero de 2021 y el 31 de diciembre de 2022 como habilitantesPara la innovación en su entidad?|4.6
+f4d13295-3e48-4e74-9611-39a58605ba8e|2023.0|d5d81df9-6f41-4bb3-a86f-acf9edb74998|"14. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles retos o áreas de oportunidadPara abordar al interior de su entidad desde la innovación se identificaron gracias a la información captada en ""Bogotá te Escucha""? "|2.8
+5c316b57-a56f-42bf-9d42-2eb47e08aa35|2023.0|cf89b85f-6043-4333-a39a-7bcd88016da6|"15. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles retos o áreas de oportunidadPara abordar al interior de su entidad desde la innovación se identificaron a través de canales complementarios a ""Bogotá te Escucha"" dispuestosPara la ciudadanía? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
+1e790fa7-de65-4049-8c37-8f7766cfe47b|2023.0|9f56b179-20d4-4ad9-a3a8-0a8c62b34963|"16. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles retos o áreas de oportunidadPara abordar al interior de su entidad desde la innovación se identificaron a través de canales dispuestosPara los funcionarios y/o contratistas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|2.8
+6d2d5c40-29d2-4d8a-af65-1b3d4a461b26|2023.0|64cfc6a6-13ad-4e4d-bd13-ebf292b806aa|17. Pregunta 17.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron los canales que brindó su entidadPara la identificación de retos o áreas de oportunidad en la entidad que usted representa?|1.2
+ad7f92c1-6fbb-417b-ad0e-18d406056fe5|2023.0|70136ca7-d755-48e9-9651-48303c28de74|18. Pregunta 18.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Qué actividades se llevaron a caboPara la identificación de retos o áreas de oportunidad en la entidad que usted representa?|1.2
+28439cf4-38f7-49c5-b3b6-a03af98a25b3|2023.0|9e2f7d4c-239e-4957-93b8-5043b32a1c8c|"19. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles ideasPara abordar al interior de su entidad desde la innovación se captaron o generaron a través de canales dispuestosPara la ciudadanía? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|3.0
+9c62e808-4fde-49ef-85f2-e51058a08c65|2023.0|2ab1a2d6-96d9-4e24-9b80-5fa9c0e4463d|"20. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles ideasPara abordar al interior de su entidad desde la innovación se captaron o generaron a través de canales dispuestosPara los funcionarios y/o contratistas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|3.0
+0018cccc-2085-4a5c-8884-cac43ecd838f|2023.0|459fafcf-261a-4837-9a3a-8ca014d23bc7|21. Pregunta 21.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron los canales que brindó su entidadPara la recepción o generación de ideas?|1.0
+83e2c865-5288-42c5-ac31-ac2915347f1b|2023.0|37c8596d-b4bb-48a6-bd31-a6a29b4d1e79|22. Pregunta 22.Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Qué actividades se llevaron a caboPara la recepción o generación de ideas en la entidad que usted representa?|1.0
+e26522b2-2fbf-4ec2-ade2-34a35d061a6b|2023.0|9bb68023-4171-4177-8a9d-51947a291467|"23. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron las innovaciones diseñadas encaminadas al cumplimiento de los objetivos y metas de su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|7.0
+8de02744-d474-4cd9-9c2a-96b4aea65cb4|2023.0|186dd6d0-2040-43f0-8466-b901d9167427|"24. ¿Qué eventos, conferencias y/o charlas auspiciadas y/o financiadas directamente por su entidad fueron desarrolladas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
+062f8803-add8-40a2-87c7-ddf612ab22c3|2023.0|186dd6d0-2040-43f0-8466-b901d9167427|"24. ¿Qué eventos, conferencias y/o charlas auspiciadas y/o financiadas por otra entidad fueron desarrolladas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
+ecc66cf4-4e8a-474f-b326-10448f269346|2023.0|186dd6d0-2040-43f0-8466-b901d9167427|"24. ¿Qué actividades de formación o capacitación en temas de innovación fueron auspiciadas y/o financiadas directamente por su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
+8bc6d7a1-d0bc-4f39-9d27-12831ebb9090|2023.0|186dd6d0-2040-43f0-8466-b901d9167427|"24. ¿Qué actividades de formación o capacitación en temas de innovación fueron auspiciadas y/o financiadas por otra entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
+a758f561-7751-48eb-bb47-bfc77223093e|2023.0|186dd6d0-2040-43f0-8466-b901d9167427|"24. ¿Qué otras actividades desarrolló su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0
+e12164b2-a919-45f0-80b3-84240ca91264|2023.0|2bf8fc68-556b-48ef-b5d3-ac7fefc9f71e|"25. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cómo se ha generado y promovido una culturaPara la innovación pública al interior de su entidadPara funcionarios y contratistas? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|2.8
+1b9cede5-b1fd-4942-be62-433b9edcec7d|2023.0|645c9f17-aa55-46a5-8f26-c2e6b977d28e|"26. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron los espacios de experimentación, co-creación e incentivos enfocados a la innovación generadosPara los funcionarios y contratistas de su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.1
+3a4efad7-9c80-4608-a584-626cbb2f5c95|2023.0|c3115442-7dc5-498e-b154-2c75217978a5|"27. Entre el 01 de enero de 2021 y el 31 de diciembre de 2022,¿Cuáles fueron las unidades de innovación como laboratorios, observatorios o semilleros de innovación al interior de su entidad? (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.1
+905de859-57d7-46eb-87f4-1a5297ab3792|2023.0|05b13fb4-7712-4a9c-b680-7adc5baa2a2d|"28. Para cada innovación señalada en la pregunta 23, indique: (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|20.5
+8726b30c-b274-46ff-9e2b-ead58339f8d3|2023.0|a2987af9-589d-46c5-88ef-443a32797c18|29. Total de  funcionarios formados en innovación en 2021|2.2
+03673f0d-d392-4862-bf14-93a289614816|2023.0|a2987af9-589d-46c5-88ef-443a32797c18|29. Total de  funcionarios formados en innovación en 2022|2.2
+15df6265-2e79-4af9-949b-05f1abdff5b6|2023.0|1e619d2f-2d6d-4274-bf03-a291dfd57035|30. Total de  contratistas formados en innovación en 2021|2.3
+3e392672-8ad9-448d-98fa-31c021eafff9|2023.0|1e619d2f-2d6d-4274-bf03-a291dfd57035|30. Total de  contratistas formados en innovación en 2022|2.3
+a0b05eec-94bd-46a4-9e92-2000758a01ee|2023.0|a2834cad-2854-4433-8014-6daf422c3e1a|"31. ¿Cuáles? Ingrese los detalles de cada uno de los acuerdos y/o actos administrativos de su entidad relacionados con la gestión del conocimiento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|0.0
+f38bed45-b234-4119-b986-b2407cf43b39|2023.0|91d07eb6-a642-4fea-885a-ce8f75e7825d|"32. ¿Cuáles? Ingrese los detalles de cada uno de los enfoques / líneas / componentes / proyectos / programas o planes de su entidad relacionados con la gestión del conocimiento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|3.0
+6b635049-a7dc-421e-8658-671025e2282d|2023.0|4942b0f8-16b4-4633-942a-b1bdf7999291|"33. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
+f1586df5-6bf3-4a96-9420-841bd8410cc3|2023.0|f435dafb-eade-41a4-8bee-4048c4898555|"34. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
+fa16d360-ad0a-473b-977c-a609e9a50dd1|2023.0|377edc20-d36e-4a7a-a815-53cedf6191ce|"35. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
+d4e57ff4-cb00-4292-bb92-ca8fcb79e796|2023.0|8f5122dc-5df4-4d99-86bf-5281dcf96b81|"36. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
+88df96eb-1adf-476e-8fa0-14a1b96de2db|2023.0|d6961591-fd74-4e65-ae33-210c68e818bf|"37. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
+e01f9ada-3379-407c-8d3a-1f4c9db8b70b|2023.0|d22e7c84-8f35-440d-90b4-1a9e4df47faa|"38. Sobre la publicación y el uso dado a dicho documento. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|1.0
+be5f9ca0-6f21-4c51-b2de-267d2a14799e|2023.0|74b8b7ff-7631-4640-bc61-ae2a88ef1228|"39. Sobre los mecanismos de monitoreo a las innovaciones. (Añada tantas secciones como necesite con el botón ""+"" de abajo y detalle individualmente)"|6.0

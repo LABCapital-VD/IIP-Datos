@@ -1,13 +1,14 @@
 id|index_edition_id|name|weight
-707975f8-a459-4b0f-8829-1347cea3c190|2019|Componente 1. Capacidad Institucional|25
-65ce4c62-de79-4020-89bb-c12432d7cd2c|2019|Componente 2. Procesos y procedimientos|40
-fa7a303c-db7d-4636-8b4a-2a5010975851|2019|Componente 3. Resultados|25
-08a34506-7cc8-4b08-8074-233b98ce68b0|2019|Componente 4. Gestión del conocimiento|10
-963d730b-8319-4862-8320-c5ec23dc5f61|2021|Componente 1. Capacidad Institucional|25
-aa2f2810-7415-4b7a-89af-873455bc0bf4|2021|Componente 2. Procesos y procedimientos|35
-df76ad6a-a054-4b66-a683-253656dbc927|2021|Componente 3. Resultados|25
-8ec10d09-f922-4778-8c0c-debe69ef0968|2021|Componente 4. Gestión del conocimiento|15
-f357f50a-600f-46e4-b6c2-a9d871fc8bb3|2023|Componente 1. Capacidad Institucional|25
-80d546db-b5ee-4c8a-80b7-a5fa8fe08a37|2023|Componente 2. Procesos y procedimientos|35
-160a4b65-35ea-45f0-9533-236120c45c48|2023|Componente 3. Resultados|25
-c1d71177-dad6-438d-92b1-a25731b9c9be|2023|Componente 4. Gestión del conocimiento|15
+212c609a-e984-4144-8860-455f8df13314|2019.0|Componente 1. Capacidad Institucional|25.0
+3c24244b-d141-4d72-a79d-42b3b968d807|2019.0|Componente 2. Procesos y procedimientos|40.0
+4afead66-046a-46e3-a70b-fc89ed5916c7|2019.0|Componente 3. Resultados|25.0
+2011ead9-4272-4d45-876c-0b15bf96df1a|2019.0|Componente 4. Gestión del conocimiento|10.0
+cb368cd3-733e-4ee1-87b5-1259e9e5a703|2021.0|Componente 1. Capacidad Institucional|25.0
+9df1ae55-8d54-4be7-958b-cb11ef61119d|2021.0|Componente 2. Procesos y procedimientos|35.0
+688987ba-838f-4c0c-8fd2-955bf28e8f12|||
+9c84892d-3b96-42c9-be36-0474e1c7c790|2021.0|Componente 3. Resultados|25.0
+d75cb8dd-b727-47d0-81eb-989ab5a4dd10|2021.0|Componente 4. Gestión del conocimiento|15.0
+5e781926-9ec3-41e2-8500-1c55c39499ab|2023.0|Componente 1. Capacidad Institucional|25.0
+bd0d5714-75ab-4b85-86f6-9a191f1a9bbd|2023.0|Componente 2. Procesos y procedimientos|35.0
+554d5f86-3b78-417f-a2ec-ce9951be498e|2023.0|Componente 3. Resultados|25.0
+fb6beedc-bb29-4413-8f72-4a7829c41397|2023.0|Componente 4. Gestión del conocimiento|15.0
