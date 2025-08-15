@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.13.15"
+__generated_with = "0.14.17"
 app = marimo.App()
 
 
@@ -237,9 +237,11 @@ def _(mo):
 
 
 @app.cell
-def _(pd):
+def _(pd, uuid):
     ind = {
-        "id": [2019, 2021, 2023],
+        "id": [uuid.uuid4(), uuid.uuid4(), uuid.uuid4()],
+        "anno": [2019, 2021, 2023],
+        "name": ['IIP2019', 'IIP2021', 'IIP2023'],
         "description": [
             "Primera medición del índice. En esta edición participaron exclusivamente las cabezas de sector, lo que resultó en un total de 39 entidades evaluadas.",
             "Segunda medición. Se amplía la convocatoria incluyendo alcaldías locales y entidades adscritas. Se incorpora una nueva variable enfocada en el uso de recursos digitales para la innovación.",

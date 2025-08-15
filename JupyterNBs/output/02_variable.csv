@@ -1,45 +1,45 @@
 id|index_edition_id|componente_id|name|weight
-73eaa273-8812-4ece-92c2-4f646987d908|2019.0|bcfd529a-fabc-45fb-924a-a366cc0fb8d7|Variable 1. Planeación |5.0
-e6850642-8d79-4230-baac-9e5d055fe85c|2019.0|bcfd529a-fabc-45fb-924a-a366cc0fb8d7|Variable 2. Recursos Presupuestales |9.38
-49326a58-c5e0-4d4f-9ba5-80b8eecabd54|2019.0|bcfd529a-fabc-45fb-924a-a366cc0fb8d7|Variable 3. Recursos Humanos |10.63
-f8757374-519e-4ad4-9b01-fb9786a8ef25|2019.0|cebf4fab-8d7e-4e58-976a-69c0ce1d4224|Variable 4. Proceso de identificación y uso de retos o áreas de oportunidad|12.6
-c18b3ddf-9eb6-491a-acdc-344646aee5c6|2019.0|cebf4fab-8d7e-4e58-976a-69c0ce1d4224|Variable 5. Generación de ideas |12.6
-23375ddc-a2b7-453f-8389-6edc31851a4c|2019.0|cebf4fab-8d7e-4e58-976a-69c0ce1d4224|Variable 6. Diseño de Innovaciones |10.8
-a06f6432-71a8-4112-823f-2d2fab220490|2019.0|cebf4fab-8d7e-4e58-976a-69c0ce1d4224|Variable 7. Generación de capacidades |4.0
-8e3b069c-7b95-4879-a65b-de10eb35397d|2019.0|255bbb42-37a0-46e7-8d76-a426ae445448|Variable 8. Innovaciones Implementadas |20.0
-fa058e13-477b-48a7-b71f-dbcef03d0491|2019.0|255bbb42-37a0-46e7-8d76-a426ae445448|Variable 9. Generación de capacidades en innovación para funcionarios y/o contratistas |5.0
-fc9fdc66-f627-4dca-9af8-46cb1bc55989|2019.0|c6b5aaa7-b443-48dd-b551-edf140428b95|Variable 10. Gestión del conocimiento en la Capacidad Institucional |2.94
-fab3ddd6-940c-4b5e-ae7a-a23100f1b30f|2019.0|c6b5aaa7-b443-48dd-b551-edf140428b95|Variable 11. Gestión del conocimiento en los Procesos y Procedimientos |4.71
-d8c69934-0eab-41ec-ab42-ba659ffd3984|2019.0|c6b5aaa7-b443-48dd-b551-edf140428b95|Variable 12. Gestión del conocimiento en los Resultados |2.35
-f6f6ed9f-817a-4310-a0db-7045c20044f3|2021.0|31ae7471-fb29-4710-b1dc-beb4866eedff|Variable 1. Planeación|4.0
-9d9da56f-6420-4a4d-b89a-f2306767fdfb|2021.0|31ae7471-fb29-4710-b1dc-beb4866eedff|Variable 2. Recursos Presupuestales|7.7
-e75549a5-d29f-48e3-88a1-3561a6f7b4e4|2021.0|31ae7471-fb29-4710-b1dc-beb4866eedff|Variable 3. Recursos Humanos|8.7
-65539563-67df-4198-bee3-e887aecbe6c1|2021.0|31ae7471-fb29-4710-b1dc-beb4866eedff|Variable 4. Recursos digitales|4.6
-09dc8d33-984b-4e44-912e-aa0c34324889|2021.0|26e1f534-2989-451d-a493-1dfe06e18508|Variable 5. Proceso de identificación y uso de retos o áreas de oportunidad|9.0
-8a93cf15-5b0d-4260-bd23-afb4c123d74d||eb75d8d2-4ab9-4a27-9178-3727e4a171cd||
-4c3404a6-626b-4262-9e03-5aa8fcd172ee|2021.0|26e1f534-2989-451d-a493-1dfe06e18508|Variable 6. Generación de ideas|8.0
-4f9b4f97-d1cd-4b40-a4fd-5b8e208f47a6|2021.0|26e1f534-2989-451d-a493-1dfe06e18508|Variable 7. Diseño de Innovaciones|7.0
-c1550d65-f862-4667-ae27-725be8aa19f5|2021.0|26e1f534-2989-451d-a493-1dfe06e18508|Variable 8. Generación de capacidades|6.0
-c8d074b2-d416-4ac6-bba0-0e8dc4c72f48|2021.0|26e1f534-2989-451d-a493-1dfe06e18508|Variable 9.  Cultura y liderazgo para la innovación pública|5.0
-58a5a4fa-96a3-4ac8-a394-6d2e8c27576b|2021.0|3280e501-4eb7-4a3e-b19b-ee1092f5cbb2|Variable 10. Innovaciones Implementadas|17.0
-d40a3f31-4633-4654-93ff-2d12619d19db|2021.0|3280e501-4eb7-4a3e-b19b-ee1092f5cbb2|Variable 11.  Impacto en ciudadanos/usuarios por innovaciones implementadas|2.0
-fc7bb352-ab65-4d35-bb80-4ec49b71470e|2021.0|3280e501-4eb7-4a3e-b19b-ee1092f5cbb2|Variable 12. Ahorro de recursos por innovaciones implementadas|1.5
-ffaf1d47-204b-49e7-aa48-6141f51c51ae|2021.0|3280e501-4eb7-4a3e-b19b-ee1092f5cbb2|Variable 13. Generación de capacidades en innovación para funcionarios y/o contratistas|4.5
-f1fd1713-7f87-4e4a-9900-95294348b9da|2021.0|06842041-6190-49e9-a796-216e33564b83|Variable 14. Gestión del conocimiento en la Capacidad Institucional|3.0
-c3b8b446-1941-4f02-8a5b-c712d95da07a|2021.0|06842041-6190-49e9-a796-216e33564b83|Variable 15. Gestión del conocimiento en los Procesos y Procedimientos|6.0
-ceca7153-9451-4597-a876-db1d2b362407|2021.0|06842041-6190-49e9-a796-216e33564b83|Variable 16. Gestión del conocimiento en los Resultados|6.0
-4b28c0ba-8159-4c29-86c7-69b38b9c6a66|2023.0|42e013e5-5cee-4158-94dc-eadc8e311fbf|Variable 1. Planeación|4.0
-b27a4cfd-b0ab-4807-9f22-40d001bea7fa|2023.0|42e013e5-5cee-4158-94dc-eadc8e311fbf|Variable 2. Recursos Presupuestales|7.7
-67ff0eb5-9fcc-443f-ae24-86cf42e2b3d4|2023.0|42e013e5-5cee-4158-94dc-eadc8e311fbf|Variable 3. Recursos Humanos|8.7
-d5527574-028e-4bab-bec7-78df1364ea60|2023.0|42e013e5-5cee-4158-94dc-eadc8e311fbf|Variable 4. Recursos digitales|4.6
-8ecc7920-5215-4801-8d51-848a8e81220b|2023.0|2929873d-ae78-4cda-8d3c-9183f63b25a2|Variable 5. Proceso de identificación y uso de retos o áreas de oportunidad|9.0
-f30b7f00-5e53-4751-8382-299422654346|2023.0|2929873d-ae78-4cda-8d3c-9183f63b25a2|Variable 6. Generación de ideas|8.0
-62130bcf-362e-483b-b99a-881206b18231|2023.0|2929873d-ae78-4cda-8d3c-9183f63b25a2|Variable 7. Diseño de Innovaciones|7.0
-25cf8d73-c4aa-4ff0-b331-353534ee0878|2023.0|2929873d-ae78-4cda-8d3c-9183f63b25a2|Variable 8. Generación de capacidades|6.0
-e52f2aaa-dea5-4864-860d-10fb062f847a|2023.0|2929873d-ae78-4cda-8d3c-9183f63b25a2|Variable 9.  Cultura y liderazgo para la innovación pública|5.0
-7f730504-fba1-4858-9e1b-693decf53d21|2023.0|ea011d67-d6a1-4ed0-8c55-eb84660cbc3d|Variable 10. Innovaciones Implementadas|20.5
-2c132461-8daf-4cea-b75e-2a6ea31965ab|2023.0|ea011d67-d6a1-4ed0-8c55-eb84660cbc3d|Variable 11. Generación de capacidades en innovación para funcionarios y/o contratistas|4.5
-45d0b40d-0c97-4a18-a3e0-a7808f401262|2023.0|ae379ec6-49fb-4626-b5dd-b3e2e22d4ad4|Variable 12. Gestión del conocimiento en la Capacidad Institucional|0.0
-45d0b40d-0c97-4a18-a3e0-a7808f401262|2023.0|ae379ec6-49fb-4626-b5dd-b3e2e22d4ad4|Variable 12. Gestión del conocimiento en la Capacidad Institucional|3.0
-12639a8e-6fae-483a-a031-4957fff62cb2|2023.0|ae379ec6-49fb-4626-b5dd-b3e2e22d4ad4|Variable 13. Gestión del conocimiento en los Procesos y Procedimientos|6.0
-dc75c394-d1c7-4e1e-abda-15f0a81032f7|2023.0|ae379ec6-49fb-4626-b5dd-b3e2e22d4ad4|Variable 14. Gestión del conocimiento en los Resultados|6.0
+5d9312a1-7c5d-42ff-b078-e6886d4d1540|2019.0|c82c6242-deeb-49bf-89d4-dbf93e272893|Variable 1. Planeación |5.0
+2065a527-1265-417b-9850-184968d893e7|2019.0|c82c6242-deeb-49bf-89d4-dbf93e272893|Variable 2. Recursos Presupuestales |9.38
+05f53b0e-8183-4763-ad45-cea7e1c408c7|2019.0|c82c6242-deeb-49bf-89d4-dbf93e272893|Variable 3. Recursos Humanos |10.63
+75676b1a-0bfc-43b0-b01d-44bd7d29c0c6|2019.0|63979e16-a0bd-4e1d-9bf9-492dc40348c6|Variable 4. Proceso de identificación y uso de retos o áreas de oportunidad|12.6
+1bf5b2d8-3e8e-4a19-a884-5bda727caf85|2019.0|63979e16-a0bd-4e1d-9bf9-492dc40348c6|Variable 5. Generación de ideas |12.6
+57f63ad0-7459-4d3e-ae26-cd4e3424f883|2019.0|63979e16-a0bd-4e1d-9bf9-492dc40348c6|Variable 6. Diseño de Innovaciones |10.8
+5011e0dc-9fcd-4e2b-b363-c73e6ceaf869|2019.0|63979e16-a0bd-4e1d-9bf9-492dc40348c6|Variable 7. Generación de capacidades |4.0
+96169e2f-8d29-4569-9950-c885e3dba16e|2019.0|bc44e382-d9d6-48ea-87d7-c080fb591ae6|Variable 8. Innovaciones Implementadas |20.0
+65670b96-83be-4f8d-8e7b-5bca010f8b3f|2019.0|bc44e382-d9d6-48ea-87d7-c080fb591ae6|Variable 9. Generación de capacidades en innovación para funcionarios y/o contratistas |5.0
+cf691375-588d-4c88-a7dd-b975b5846997|2019.0|b2f9cba3-4b05-42e5-9317-e6012c6e177d|Variable 10. Gestión del conocimiento en la Capacidad Institucional |2.94
+aaa200d6-0ff5-4651-867c-724928f4a510|2019.0|b2f9cba3-4b05-42e5-9317-e6012c6e177d|Variable 11. Gestión del conocimiento en los Procesos y Procedimientos |4.71
+90f80702-cce6-4fd5-aefa-4763c2d5e3af|2019.0|b2f9cba3-4b05-42e5-9317-e6012c6e177d|Variable 12. Gestión del conocimiento en los Resultados |2.35
+ca90460f-6a63-45bc-94c1-c9455680ce63|2021.0|d68e4c69-4db7-4db6-b6ff-cb2a61b5a2a4|Variable 1. Planeación|4.0
+42211bd3-5cfb-48d2-94e2-74e01ebea6fd|2021.0|d68e4c69-4db7-4db6-b6ff-cb2a61b5a2a4|Variable 2. Recursos Presupuestales|7.7
+fcbf8dcc-d26d-481c-8d66-2246ba94ad85|2021.0|d68e4c69-4db7-4db6-b6ff-cb2a61b5a2a4|Variable 3. Recursos Humanos|8.7
+8658ccb4-d96e-493e-9247-2724d5155cb0|2021.0|d68e4c69-4db7-4db6-b6ff-cb2a61b5a2a4|Variable 4. Recursos digitales|4.6
+2400364d-52cd-40b8-b08f-1396f131265c|2021.0|9926a7ed-3c6e-4619-9331-2145adac1567|Variable 5. Proceso de identificación y uso de retos o áreas de oportunidad|9.0
+5b594493-c1fd-4e5d-9398-3d26ceed91ad|2021.0|9926a7ed-3c6e-4619-9331-2145adac1567|Variable 6. Generación de ideas|8.0
+ad519e94-323e-4bc2-a324-3b6e950092ca|2021.0|9926a7ed-3c6e-4619-9331-2145adac1567|Variable 7. Diseño de Innovaciones|7.0
+fd4c329b-9a45-4ebd-94ed-daf84f94d82c||9c60adad-e761-4756-a857-30c7bebbccef||
+f448a31e-adfb-4068-bf47-6c4665cee8e9|2021.0|9926a7ed-3c6e-4619-9331-2145adac1567|Variable 8. Generación de capacidades|6.0
+0c823d3d-f6b5-4651-a54b-c1d20a0a4b43|2021.0|9926a7ed-3c6e-4619-9331-2145adac1567|Variable 9.  Cultura y liderazgo para la innovación pública|5.0
+005c49f6-d9ff-4189-bfe2-ba764cdb07dc|2021.0|1a5eabf7-ec58-410e-b400-07153d8f1c3e|Variable 10. Innovaciones Implementadas|17.0
+7610dc61-f6cc-46bc-927f-090921e31be0|2021.0|1a5eabf7-ec58-410e-b400-07153d8f1c3e|Variable 11.  Impacto en ciudadanos/usuarios por innovaciones implementadas|2.0
+e6dd2b56-af6f-40eb-a332-d1ee84f9d046|2021.0|1a5eabf7-ec58-410e-b400-07153d8f1c3e|Variable 12. Ahorro de recursos por innovaciones implementadas|1.5
+906c0333-8aae-46d5-ba54-120af8bf53dc|2021.0|1a5eabf7-ec58-410e-b400-07153d8f1c3e|Variable 13. Generación de capacidades en innovación para funcionarios y/o contratistas|4.5
+de7be539-0e8e-49d3-8b1d-8ede4656b87c|2021.0|da26ea31-fbcc-4c71-9973-6aebf1a9404a|Variable 14. Gestión del conocimiento en la Capacidad Institucional|3.0
+d9d433ef-ec80-4530-885a-60fb0d10d5e1|2021.0|da26ea31-fbcc-4c71-9973-6aebf1a9404a|Variable 15. Gestión del conocimiento en los Procesos y Procedimientos|6.0
+eee698da-c859-449e-b140-6d9cb693ebae|2021.0|da26ea31-fbcc-4c71-9973-6aebf1a9404a|Variable 16. Gestión del conocimiento en los Resultados|6.0
+1d81b499-0b56-46e9-940c-eff3361f6617|2023.0|979fdea8-65e4-4c37-bb2c-eab3bf7315ec|Variable 1. Planeación|4.0
+0ddf5a01-7926-498e-a02a-13918845a75b|2023.0|979fdea8-65e4-4c37-bb2c-eab3bf7315ec|Variable 2. Recursos Presupuestales|7.7
+db2fb9a3-e8a6-45b7-89a6-42cbecfd1054|2023.0|979fdea8-65e4-4c37-bb2c-eab3bf7315ec|Variable 3. Recursos Humanos|8.7
+b1550472-c207-42e4-9724-6abac5366c5c|2023.0|979fdea8-65e4-4c37-bb2c-eab3bf7315ec|Variable 4. Recursos digitales|4.6
+3b305cbb-cbfe-460c-8629-fb8e1e22dd53|2023.0|eb581566-0744-4a57-ba0f-9d484c13bed0|Variable 5. Proceso de identificación y uso de retos o áreas de oportunidad|9.0
+6e0bdfc7-6dcb-43ec-8304-6fe3301f5276|2023.0|eb581566-0744-4a57-ba0f-9d484c13bed0|Variable 6. Generación de ideas|8.0
+050668c0-f3c7-4f1d-9ef3-fbcabb9baa93|2023.0|eb581566-0744-4a57-ba0f-9d484c13bed0|Variable 7. Diseño de Innovaciones|7.0
+4e4b83d6-194b-4205-a7e6-405904cdde3b|2023.0|eb581566-0744-4a57-ba0f-9d484c13bed0|Variable 8. Generación de capacidades|6.0
+60d9825f-f7b1-46e3-8d35-d8a6e5574b0f|2023.0|eb581566-0744-4a57-ba0f-9d484c13bed0|Variable 9.  Cultura y liderazgo para la innovación pública|5.0
+e4704ce2-5c54-4de5-a9c6-1426e23564ee|2023.0|8dfc4630-ce30-4b59-a559-2e6dfe7f0b55|Variable 10. Innovaciones Implementadas|20.5
+4bd0ce84-13e2-40cc-87e5-07702f65b75f|2023.0|8dfc4630-ce30-4b59-a559-2e6dfe7f0b55|Variable 11. Generación de capacidades en innovación para funcionarios y/o contratistas|4.5
+da1148ca-eb74-4358-97d0-0511aa38f13b|2023.0|c34af371-8593-4613-b6ce-ba10971b14d7|Variable 12. Gestión del conocimiento en la Capacidad Institucional|0.0
+da1148ca-eb74-4358-97d0-0511aa38f13b|2023.0|c34af371-8593-4613-b6ce-ba10971b14d7|Variable 12. Gestión del conocimiento en la Capacidad Institucional|3.0
+02eb102b-fca6-49c8-b6a2-a78c2030d667|2023.0|c34af371-8593-4613-b6ce-ba10971b14d7|Variable 13. Gestión del conocimiento en los Procesos y Procedimientos|6.0
+6261e623-23f5-4439-b32b-7dd443e7d2b0|2023.0|c34af371-8593-4613-b6ce-ba10971b14d7|Variable 14. Gestión del conocimiento en los Resultados|6.0
