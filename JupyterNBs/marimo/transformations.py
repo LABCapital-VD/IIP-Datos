@@ -190,48 +190,6 @@ def _(ori_ents, uuid):
 
 @app.cell(hide_code=True)
 def _(mo):
-    mo.md(r"""## Usuarios""")
-    return
-
-
-@app.cell
-def _(pd, uuid):
-    import hashlib
-    import random
-    import string
-    from datetime import datetime, timedelta
-
-    def generate_hashed_password():
-        random_password = ''.join(random.choices(string.ascii_letters + string.digits, k=12))
-        hashed = hashlib.sha256(random_password.encode()).hexdigest()
-        return hashed
-
-    def generate_user_row(username, name, email):
-        now = datetime.now()
-        return {
-            "id": str(uuid.uuid4()),
-            "username": username,
-            "name": name,
-            "email": email,
-            "password_hash": generate_hashed_password(),
-            "biography": f"{username} is a fictional user created for testing our pandas DataFrame.",
-            "created_at": now,
-            "updated_at": now + timedelta(minutes=5)
-        }
-
-    # Create the DataFrame
-    usr = [
-        generate_user_row("jmartinez", "Juan José Martínez Guerrero", "jmartinez@veeduriadistrital.gov.co"),
-        generate_user_row("mramirez", "Miguel Andrés Ramírez Roa", "mramirez@veeduriadistrital.gov.co"),
-    ]
-
-    users = pd.DataFrame(usr)
-    users
-    return datetime, random, users
-
-
-@app.cell(hide_code=True)
-def _(mo):
     mo.md(r"""## Indices""")
     return
 
@@ -264,12 +222,6 @@ def _(mo):
 @app.cell
 def _(sectores_out):
     sectores_out.to_csv('./output/00_sectores.csv',index=False,sep='|',quotechar='"',escapechar="'")
-    return
-
-
-@app.cell
-def _(users):
-    users.to_csv('./output/00_usuarios.csv',index=False,sep='|',quotechar='"',escapechar="'")
     return
 
 
