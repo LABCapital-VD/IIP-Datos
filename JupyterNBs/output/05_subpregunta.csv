@@ -1,158 +1,158 @@
 id|index_edition_id|pregunta_id|text|weight
-c789ba9b-cc07-4b9e-8192-fa851e580d4e|2019.0|ec94e495-af85-4cf3-81a8-51166449d058|1. Determine los acuerdos y/o actos administrativos relacionados con el concepto de innovación Pública.|0.0
-ce41f724-349c-4a40-ba55-ceecb946d115|2019.0|79b29ed9-477b-4dee-b765-5d3da94f9c4f|"2. Determine los enfoques / líneas / componentes / proyectos / 
+550bc5ce-d001-45b6-a9a3-5eac635d3d35|2019.0|be714328-6e9c-4197-8c5d-dfa20d4d5d4f|1. Determine los acuerdos y/o actos administrativos relacionados con el concepto de innovación Pública.|0.0
+ede1e85f-f4a3-4a15-b5d2-163c9df14966|2019.0|235cafb5-53fb-414d-9978-2303c5b89e0e|"2. Determine los enfoques / líneas / componentes / proyectos / 
 programas o planes relacionados con el concepto de innovación Pública."|5.0
-288d313a-860b-4690-8e22-c57021edf26d|2019.0|60cae1d4-c23f-4134-949a-54d120e2426c|3. Presupuesto general de funcionamiento|0.0
-15b999e6-8e34-48b6-a7c8-3a9cd0223ee2|2019.0|5856176f-5f93-4171-8191-1e33f4b08b3c|4. Presupuesto general de funcionamiento ejecutado en innovación.|5.16
-0ec52be2-d519-4b6d-a7f9-ace9a5f29ec3|2019.0|9232a758-996f-4ecf-88b9-7b93f801a27a|5. Presupuesto general de inversión.|0.0
-74000f40-896c-4225-9b14-8c8aac7a05d4|2019.0|0308d42a-753a-4300-aea7-1e17ddaa5abf|6. Presupuesto general de inversión ejecutado en innovación.|4.22
-c88f69dc-f1ba-43ca-946c-b4614d9f6b06|2019.0|a5103105-a6e3-48d0-97c5-e6107973052f|7. Total de funcionarios.|0.0
-2ce21a2b-19e7-4309-bcce-0cf2719cc345|2019.0|c1317571-7580-4c3c-b904-8d1b8df6e515|8. Total de funcionarios en innovación por manual de funciones.|5.84
-3bdb0cce-26cb-4d1c-829a-7f150ffebdac|2019.0|0b62f70b-f288-4e75-9d72-b7d39f43c647|9. Total de contratistas.|0.0
-97107a82-b23d-4120-a2a7-37d6791c49aa|2019.0|f9a8d82a-6124-40c4-a1a4-ac98d88fe34d|10. Total de contratistas en innovación.|4.78
-596af2ae-2638-441e-96d7-3f2fc67066db|2019.0|b98beae9-0d89-4d7f-af7a-632357d5f0d0|11. Ingrese los detalles sobre las actividades|3.78
-83d10c31-436c-4612-826f-f98669452634|2019.0|6f7849c9-2928-4664-b41e-0130d22f8855|12. Ingrese los detalles sobre los canales para detección de retos|1.26
-32d961d0-b0b3-4de2-bb7c-07da488f9fca|2019.0|95a84c18-034d-4c62-b300-aa914055054f|13. Ingrese los detalles sobre los canales para funcionarios para detección de retos|3.78
-7683be65-7d79-4abe-b284-fec053ef18c4|2019.0|384bfec8-c0c9-46d2-bb25-817c67443571|14. Ingrese los detalles sobre las actividades para detección de retos|3.78
-7683be65-7d79-4abe-b284-fec053ef18c4|2019.0|384bfec8-c0c9-46d2-bb25-817c67443571|14. Ingrese los detalles sobre las actividades para detección de retos|4.2
-d7e77424-7655-47d5-87e5-6504394d56db|2019.0|a94565a9-639c-49c9-8b0e-550fa918f666|15. Ingrese los detalles sobre los canales para la ciudadanía para la identificación de ideas|4.2
-b8f6f60c-5ef3-4547-bf2f-f8c5a9932d85|2019.0|373db5ef-7a53-4ae6-9997-7292e809694f|16. Ingrese los detalles sobre los canales para funcionarios y colaboradores para la identificación de ideas|4.2
-685700b8-6d3c-4b08-a34f-7d7d8eea4c6e|2019.0|b0d94382-34d4-470a-8fea-75d6fe851bf2|17. Ingrese los detalles sobre las actividades para la identificación de ideas|4.2
-4c75d4d0-def2-4486-9abe-16679a19c3f0|2019.0|818887f3-903a-40d0-8675-08022e4f9a3a|18. Ingrese los detalles sobre las innovaciones diseñadas|10.8
-6b7beab7-f1a4-4d11-b425-c2ebdd6d3227|2019.0|0337a6a7-9d1d-456f-acef-050f14c99feb|19. Ingrese los detalles sobre las actividades para la generación de capacidades en innovación|4.0
-1f34e936-eb39-4031-91a0-9f0f27341fc4|2019.0|3215ce25-74bc-49a9-b164-2098ab7f41e7|20. Ingrese los detalles sobre las innovaciones en proceso de implementación|20.0
-fe181618-4652-4748-bc76-3c01fd9b6568|2019.0|c411f2f4-f5d5-4caf-a81e-e7045e8bf0bf|21. Total de funcionarios que recibieron formación en innovación|3.5
-98b67834-adf1-4e50-8994-3467257a3273|2019.0|5bec5d96-191e-4952-bbf6-16a62c557b59|22. Total de contratistas que recibieron formación en innovación|1.5
-64fb210f-467d-4f04-a1ed-a586a4cf1049|2019.0|ec40a496-b78e-4a53-8303-abd89c995ace|23. Detalles sobre los acuerdos y/o actos administrativos relacionados con el concepto de gestión del conocimiento.|0.0
-7325c1ac-1854-46ce-ad90-8fd3eda5c9fd|2019.0|36cb03b1-79c4-4ba0-8661-590c731044cc|"24. Detalles sobre los los enfoques / líneas / componentes / proyectos / 
+c7bc3c55-0b68-4696-adcd-d3caf9b4fed4|2019.0|0b9cc6e7-76f6-4f55-9cd8-bf76d530a6b1|3. Presupuesto general de funcionamiento|0.0
+ae18adf0-0b75-474e-98c8-22483c0f2137|2019.0|8ab1c11f-b89d-43da-91b0-5576f134e7e0|4. Presupuesto general de funcionamiento ejecutado en innovación.|5.16
+ff743117-8a37-4919-b1d8-1951485ba0ca|2019.0|999d1946-32de-46c8-9f0a-5da534d042ea|5. Presupuesto general de inversión.|0.0
+fd573b18-738b-43df-a734-040a3d49cb25|2019.0|e63b0e94-ee3d-44d2-9ab3-d17fbecfcef9|6. Presupuesto general de inversión ejecutado en innovación.|4.22
+a59bd66d-6be7-4195-8235-48ed108dcf88|2019.0|f72afea7-015d-48b2-b56a-b19c859adff9|7. Total de funcionarios.|0.0
+9231872b-12d6-4cde-84c4-71761be16b23|2019.0|34d5e742-2bc9-436d-a5af-2d025dffb70a|8. Total de funcionarios en innovación por manual de funciones.|5.84
+62b2993a-383e-4b5e-a1c4-872e71ca6bbd|2019.0|110b3d4f-f9de-43f0-bd88-939f97f3deb4|9. Total de contratistas.|0.0
+a4c925de-3b5a-41c6-92f7-73f3f1565cb6|2019.0|2bed7ec3-e6fa-424b-8bbf-34cf50340885|10. Total de contratistas en innovación.|4.78
+1202d5d4-0195-414c-a04d-34e78dde9797|2019.0|f3cf0a53-1c72-4515-aed5-7cd8dee5c5cc|11. Ingrese los detalles sobre las actividades|3.78
+5f6592df-78e8-4291-a233-d46675530d9c|2019.0|ec9208cb-8502-42a9-8885-198188184b37|12. Ingrese los detalles sobre los canales para detección de retos|1.26
+420d3a60-fbbe-456b-bb7d-8a1847372983|2019.0|dfe1ff5b-11d7-4550-b9db-831fa9509484|13. Ingrese los detalles sobre los canales para funcionarios para detección de retos|3.78
+a96d981d-2e54-4238-8171-d438abc8f3a5|2019.0|23db325f-90ff-4d98-b9ce-f9450b89855e|14. Ingrese los detalles sobre las actividades para detección de retos|3.78
+a96d981d-2e54-4238-8171-d438abc8f3a5|2019.0|23db325f-90ff-4d98-b9ce-f9450b89855e|14. Ingrese los detalles sobre las actividades para detección de retos|4.2
+7770b5db-7261-4ced-89a1-de9908aad599|2019.0|bf1e95e8-3e68-4f37-b160-17877a6b7a2e|15. Ingrese los detalles sobre los canales para la ciudadanía para la identificación de ideas|4.2
+6d4d3c25-c5a2-40d9-9ba7-8cd78575e46e|2019.0|72ecf5e3-2911-4ee8-bcba-7fddaa22d6f5|16. Ingrese los detalles sobre los canales para funcionarios y colaboradores para la identificación de ideas|4.2
+89a3327f-125f-4882-a5f7-92ccaf6ffd77|2019.0|96c5b658-6d97-4091-88ff-7b00aebe0aeb|17. Ingrese los detalles sobre las actividades para la identificación de ideas|4.2
+dd009f60-ab71-45e9-ad7a-b93be0f3fdd8|2019.0|76b05bd9-3719-4d48-9a87-be106e18c988|18. Ingrese los detalles sobre las innovaciones diseñadas|10.8
+b44fab98-d44f-4d52-8b47-3afaf310fc9b|2019.0|8f2250a7-aa5c-46b4-8352-1c1c2c548242|19. Ingrese los detalles sobre las actividades para la generación de capacidades en innovación|4.0
+b8360a80-4112-4f67-b16f-a275581798b9|2019.0|e4d970af-617c-4380-b8b5-2d068aaf46ff|20. Ingrese los detalles sobre las innovaciones en proceso de implementación|20.0
+22e89771-d8d3-4811-8540-3a92f1d7c9a1|2019.0|7ea98278-6508-4ca9-b281-852a4c614107|21. Total de funcionarios que recibieron formación en innovación|3.5
+41f0c18a-4c8d-44c7-a58b-3c043a686cd1|2019.0|71167bf6-c7db-4509-b065-5a1ef27caece|22. Total de contratistas que recibieron formación en innovación|1.5
+af132979-316a-4c88-80fa-160594677305|2019.0|6e384484-d442-43ef-99d7-68d3f60fcf82|23. Detalles sobre los acuerdos y/o actos administrativos relacionados con el concepto de gestión del conocimiento.|0.0
+5523f788-3282-4c8f-ba65-cce62041e430|2019.0|5abc0dde-ec69-4a6a-9c4c-047b34d1c678|"24. Detalles sobre los los enfoques / líneas / componentes / proyectos / 
 programas o planes relacionados con el concepto de gestión del conocimiento."|2.94
-74385975-f24e-4171-bc34-6b8582fc8fe5|2019.0|80db349a-8691-430c-9b81-a3cae39d3c7e|25. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con la ciudadanía|0.78
-3bc5d787-5928-4782-95c3-267e5f4cf3be|2019.0|afbbfc7a-6563-429b-abee-c15a5da705c1|26. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con los funcionarios y contratistas|0.78
-3a22c8a6-ef0e-48f2-9eb0-34ae97d7805d|2019.0|21a96489-a6f5-4590-bff4-212abd672c85|27. Detalles sobre el documento relacionado con el proceso de captación de ideas con la ciudadanía|0.78
-5bc48fc2-74d7-47c8-81e2-fd3eca4adbf0|2019.0|bd926f46-adca-4e27-8343-d172c73e46fe|28. Detalles sobre el documento relacionado con el proceso de captación de ideas con los funcionarios y contratistas|0.79
-59883cd5-e7aa-4b10-801f-67f6f1d79cee|2019.0|41f846b0-7ae3-4ec1-86ef-716c458c2029|29. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas en innovación|0.79
-d974577a-5e9c-4824-bf8d-55d0b5a7a9c4|2019.0|048c2bac-a896-4cb6-8ede-9fcd02e2fb12|30. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas|0.79
-248c3e5b-e888-44d8-9b72-ab2029f62aea|2019.0|4269c38c-b84a-4d74-98ba-ee4c77a13e12|31. Detalles sobre el documento de segimiento a innovaciones implementadas|2.35
-0602c280-e982-4a0f-b1e0-f4b99fe19022|2021.0|30e7bcbc-5357-4ac4-a978-ffc36fad2b95|1. Determine los acuerdos y/o actos administrativos relacionados con el concepto de innovación Pública.|0.0
-39dfdb4a-2ae0-4046-a650-2740d695d7ed|2021.0|71c19fcc-cc8f-4ad5-be35-de00fb208be4|"2. Determine los enfoques / líneas / componentes / proyectos / 
+24a72674-c27f-4c56-9c2b-399ab752e364|2019.0|850a77bd-5426-46f7-bc7c-776fac69e4c8|25. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con la ciudadanía|0.78
+1f1a840b-e0fd-42aa-9f97-c9fdf062b755|2019.0|e534120c-75ac-4842-aa71-13f41a04e7f7|26. Detalles sobre el documento relacionado con el proceso o los resultados del proceso de identificación de retos o áreas de oportunidad con los funcionarios y contratistas|0.78
+f3627557-3541-4549-984c-a475a95656e9|2019.0|58321718-c62f-4d26-afd0-fba2c861dbc9|27. Detalles sobre el documento relacionado con el proceso de captación de ideas con la ciudadanía|0.78
+255fa579-9642-4a6b-9970-71df0542595a|2019.0|f51a6362-ad6a-4e42-938e-859a3ff35f54|28. Detalles sobre el documento relacionado con el proceso de captación de ideas con los funcionarios y contratistas|0.79
+6a8ba029-fbe1-4636-90ed-1fe68f0beb81|2019.0|19e7763d-3921-4e9a-afc6-a5f26aa3a8ee|29. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas en innovación|0.79
+ca1c346d-34dc-44cc-95c6-b0eb5718e1f1|2019.0|314cfe56-63c6-49f1-85d5-74efa240ac01|30. Detalles sobre el documento relacionado con la identificación de buenas prácticas y lecciones aprendidas|0.79
+1302c936-4836-437a-ac5e-085aacf846e5|2019.0|154ffb5f-ed57-495c-9861-7e158316e584|31. Detalles sobre el documento de segimiento a innovaciones implementadas|2.35
+2a3a44f3-b3a1-46f9-bc06-deafafd92803|2021.0|821387d6-d61d-4dee-8758-cced39d2ecaa|1. Determine los acuerdos y/o actos administrativos relacionados con el concepto de innovación Pública.|0.0
+48c4dbd9-9038-4744-859e-f228dd58502c|2021.0|81833e58-0ece-4610-a0f9-6f6ccebf4b20|"2. Determine los enfoques / líneas / componentes / proyectos / 
 programas o planes relacionados con el concepto de innovación Pública."|4.0
-bd9873fa-3cd3-4810-8b91-781013f722e0|2021.0|764adfd1-6eb4-4c0e-977e-8f3ab2a596d2|3. Presupuesto general de funcionamiento|1.0
-bd9873fa-3cd3-4810-8b91-781013f722e0|2021.0|764adfd1-6eb4-4c0e-977e-8f3ab2a596d2|3. Presupuesto general de funcionamiento|
-9494d858-6e6e-4a7a-9f3d-e12bbbc08c5f|2021.0|3148e402-47b4-4898-b8e0-e8a9ee66ab04|4. Presupuesto general de funcionamiento ejecutado en innovación.|3.0
-9494d858-6e6e-4a7a-9f3d-e12bbbc08c5f|2021.0|3148e402-47b4-4898-b8e0-e8a9ee66ab04|4. Presupuesto general de funcionamiento ejecutado en innovación.|
-e120f462-4497-4d61-aab3-28a77188cb3b|2021.0|0b0a8c4e-e21d-4d5a-bd3f-fa94e679f72f|5. Presupuesto general de inversión.|1.0
-e120f462-4497-4d61-aab3-28a77188cb3b|2021.0|0b0a8c4e-e21d-4d5a-bd3f-fa94e679f72f|5. Presupuesto general de inversión.|
-1602d7be-c98c-4965-aa48-bb3952fc3d91|2021.0|1103f847-edc1-4422-a22f-953c747c4d24|6. Presupuesto general de inversión ejecutado en innovación.|2.7
-1602d7be-c98c-4965-aa48-bb3952fc3d91|2021.0|1103f847-edc1-4422-a22f-953c747c4d24|6. Presupuesto general de inversión ejecutado en innovación.|
-5bf2843b-f6b3-4a93-903c-a3d59ecde4db|2021.0|9e7728c6-50cb-4f0e-b349-74a3df400807|7. Total de funcionarios.|2.0
-5bf2843b-f6b3-4a93-903c-a3d59ecde4db|2021.0|9e7728c6-50cb-4f0e-b349-74a3df400807|7. Total de funcionarios.|
-b109e435-c693-4e2b-90bc-07769e7ff883|2021.0|33c9b585-de72-46f0-bfaa-ab1a0435e36a|8. Total de funcionarios en innovación por manual de funciones.|2.7
-b109e435-c693-4e2b-90bc-07769e7ff883|2021.0|33c9b585-de72-46f0-bfaa-ab1a0435e36a|8. Total de funcionarios en innovación por manual de funciones.|
-06382b18-db49-49ef-b337-064849c37d3e|2021.0|dab3882b-118f-42a1-a569-68fdd972157f|9. Total de contratistas.|1.5
-06382b18-db49-49ef-b337-064849c37d3e|2021.0|dab3882b-118f-42a1-a569-68fdd972157f|9. Total de contratistas.|
-8208e312-d669-47f8-b542-0b569a502dbe|2021.0|0fc05cb8-5109-4779-bd6d-d434323d8278|10. Total de contratistas en innovación.|2.5
-8208e312-d669-47f8-b542-0b569a502dbe|2021.0|0fc05cb8-5109-4779-bd6d-d434323d8278|10. Total de contratistas en innovación.|
-02279ac4-61df-4cf9-9b1f-ff568420a3da|2021.0|452a78bb-0553-4745-b695-5ab82d87e068|11. Determine los recursos digitales adquiridos como habilitantes de la innovación|2.1
-351f2705-350f-4231-a11a-60815fe5a12a|2021.0|0d8d4598-40ec-4cf2-be67-80f22e9e0ffa|12. Determine el valor de la inversión realizada para la adquisición de recursos digitales para el fortalecimiento de la innovación|1.0
-73f36b75-4947-42c0-96f4-463ec22fd323|2021.0|a7a4c55a-afd6-4963-9879-5efbba48940f|13. Determine los detalles de los recursos digitales incorporados como habilitantes para la innovación|1.5
-dbe834a7-3853-46b2-a85a-0c33fbc03d85|2021.0|261c66ad-789b-4837-b506-3a13e0c36163|14. Determine las actividades|2.8
-f2c302f5-a89d-4502-9298-2bb139995264|2021.0|202df317-24b6-4b9b-b0b6-369b5e2d4304|15. Determine los canales complementarios para identificación de retos para la ciudadanía|1.0
-37f39091-0380-4e5c-ace6-d09bd0f4ccb6|2021.0|b0153a67-3d30-4a61-a8ec-885e7ad7818f|16. Determine los canales complementarios para identificación de retos para funcionarios y contratistas|2.8
-7ce5546c-1ce2-4155-9311-9da3fd3b68c0|2021.0|30f129b1-2f74-4879-a775-0bab664cd3e3|16.1. Determine las actividades realizadas alrededor de los canales para detección de retos para funcionarios y contratistas.|2.8
-2fa70c19-c3c7-46bb-a8e5-eb4dc5fd818e|2021.0|554ac11f-fe36-421f-b564-ae1c68203933|17. Determine los grupos de valor para actividades realizadas para la identificación de retos|2.4
-0780a897-bec8-460d-a706-c8cac3348c7c|2021.0|2b33a7a9-ed0f-4011-be33-705a21713d3b|18. Determine los canales complementarios para recepción de ideas para la ciudadanía|3.0
-52227899-4935-423a-a223-6ef7bbabb018|2021.0|adbac25a-923e-415e-9268-4e1ffe040b3c|18.1. Determine las actividades realizadas alrededor de los canales para recepción de ideas para funcionarios y contratistas.|
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|93bfb64b-7f98-478c-b03a-f9be422a5edc||3.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|93bfb64b-7f98-478c-b03a-f9be422a5edc||
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|6abc6371-7b44-42b5-82bc-12e77ae2daca||
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|94e49e69-91eb-487b-a2a0-071cb87f5236||
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|94e49e69-91eb-487b-a2a0-071cb87f5236||2.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|e06fe3cc-4f63-4305-8d8b-f22cfacc197f||7.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|e06fe3cc-4f63-4305-8d8b-f22cfacc197f||
-d76ca8e7-1d60-46a5-9293-b8e6cc7933f1|2021.0|e06fe3cc-4f63-4305-8d8b-f22cfacc197f|21.2 ¿De dónde surgieron las innovaciones diseñadas por su entidad en 2019-2020?|7.0
-d88bbcef-4494-4724-9652-9d4eb5964c96||2b20852a-8f30-42b0-b283-bd70a3e8f7cb||
-38f4565a-f89d-48b0-8cfd-5499cee6ccc6|2021.0|e06fe3cc-4f63-4305-8d8b-f22cfacc197f|21.5 Teniendo en cuenta los prototipos de las innovaciones diseñadas, ¿con quién se validaron el (los) prototipo(s)?|7.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|6ee694d5-9fb3-4551-bc3a-fbd1d92747fd||6.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|6ed20977-7fc1-43b6-9fee-f43eebc53b5a||2.8
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|b17f93e2-152d-49fa-ac85-8aa1555e2417||1.1
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|6f4478fb-0188-4cf3-b5de-8d09d9748d7a||1.1
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|de162838-b972-4cf7-8063-b3fdb7fe49c7||17.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|0b73695c-55ed-42a3-b465-b556148f255f||1.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|c6a2c844-e33e-4245-b028-5b2c80ae2b18||1.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|7ca7614f-098e-4577-9c36-1c4e5177899c||1.5
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|f85d7307-d955-48f3-8107-976186f3182b||2.2
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|1ae0ae89-19e4-4c1c-ba57-3fcacbe312e2||2.3
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|f81ac28c-7b36-44b6-b904-cf052c2936d9||0.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|131e6892-b27e-4613-9724-4275e4a184c0||3.0
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|b4272a1d-efd8-4984-a60f-d7c091b1e8e1||1.2
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|03d49e04-e583-4a5f-b418-cfdc1b3d170a||0.96
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|877c0062-9b06-431e-abfb-9946a0982bed||0.96
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|7090ef0b-17a0-4c92-ab92-4d1e97951480||0.96
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|04b8d03f-9800-4486-99a6-2bf060dc4527||0.96
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|8fd91597-d89f-4622-8889-c6aa0ca02c2b||
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|82cceb38-6298-48f0-9114-0965f8e7598b||0.96
-9cde0318-9e2f-44e4-882d-1788fd87f14e||2b20852a-8f30-42b0-b283-bd70a3e8f7cb|39.1 ¿Qué hace con el documento de lecciones aprendidas y buenas prácticas de su entidad? |
-f8deb5e3-c0e0-43c5-bd72-88695674551c|2021.0|675e2dde-853a-4ba1-adbb-3c70c254caed||6.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|320d6a64-bac2-4268-9475-702f45118d8f||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|320d6a64-bac2-4268-9475-702f45118d8f||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|4e6a8781-cb2f-47b5-9768-0e693d137fae||4.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|4e6a8781-cb2f-47b5-9768-0e693d137fae||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|9ed63b36-2a34-45bf-b892-f6903d20a5c5||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|bd25a065-6bfd-480a-9ff7-6b0324a5860c||4.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|2d410d53-0d69-4ff2-a036-6951b29b8e81||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|8dd565d3-f24c-4325-bf5d-e7e6ebd553fa||3.7
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|a57759f8-5fcb-49e5-8923-88204bb96bf5||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|6044dd21-a07e-44de-9f92-4f8fcc16dfa8||4.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|07d8436d-873f-4aa5-bd7a-e5faf5406558||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|bd63f878-c9f7-40a0-ab19-c5bbffeb3334||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|8f7826cd-feb4-4fc8-be4f-1c4ba9d5588d||4.7
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|df55bb59-ec31-4a5f-a35c-c6a1d3790824||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|1fda8878-f274-4a61-9f35-34937ad722a2||4.6
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|1fda8878-f274-4a61-9f35-34937ad722a2||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|bfb7a1a1-e106-49f9-8c82-ebec393ef4a6||2.8
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|bfb7a1a1-e106-49f9-8c82-ebec393ef4a6||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|14e8e881-9435-4b17-a8dd-99e8aea35b53||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|14e8e881-9435-4b17-a8dd-99e8aea35b53||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|b4b75b8f-d304-4320-9187-860d0363eb41||2.8
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|b4b75b8f-d304-4320-9187-860d0363eb41||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|20a62d8f-227c-4bf3-9b9a-bc7993ebdbcd||1.2
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|ca645fae-93aa-4d36-97be-9563b128fc59||1.2
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|fad9d021-0403-4058-afb8-0923594251a2||3.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|fad9d021-0403-4058-afb8-0923594251a2||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|1f141078-ccb5-49fd-8a89-21de6f786cdc||3.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|1f141078-ccb5-49fd-8a89-21de6f786cdc||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|167d17a4-3bed-4c55-bfd4-3273b6352044||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|58a1c88b-f0f5-4f33-b593-2c9bd01d99aa||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|ea4d3ca5-61df-4d22-a7b6-e59e52b3d080||7.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|ea4d3ca5-61df-4d22-a7b6-e59e52b3d080||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|51c41d32-b6a7-4135-9c31-26d04cb34f93||6.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|47ad91a9-bf38-49dc-849b-27be91bf4fa0||2.8
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|47ad91a9-bf38-49dc-849b-27be91bf4fa0||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|5c72c1ca-8171-4431-8d0c-ddd63c2062e9||1.1
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|5c72c1ca-8171-4431-8d0c-ddd63c2062e9||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|f9f2cccb-5642-406c-a6f8-6cdb0bbf4268||1.1
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|f9f2cccb-5642-406c-a6f8-6cdb0bbf4268||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|26c567c0-7105-4da1-9a4c-73373f934057||20.5
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|26c567c0-7105-4da1-9a4c-73373f934057||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|2b6e1dd0-88aa-42f1-8f8d-77af6adfd5cf||2.2
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|2b6e1dd0-88aa-42f1-8f8d-77af6adfd5cf||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|5db42878-64a4-4fad-9b53-06778326e04b||2.3
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|5db42878-64a4-4fad-9b53-06778326e04b||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|a01a33d6-5686-4dce-a934-44308035731b||0.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|a01a33d6-5686-4dce-a934-44308035731b||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|e81e0332-90a8-4435-8d90-24f9e5020e6c||3.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|e81e0332-90a8-4435-8d90-24f9e5020e6c||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|3dc77d48-89f2-4832-a1af-bfe7ee6b6da3||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|3dc77d48-89f2-4832-a1af-bfe7ee6b6da3||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|29f7fca7-75e4-4072-8a40-902b626fdc0d||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|29f7fca7-75e4-4072-8a40-902b626fdc0d||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|892ea77d-096d-42f4-998b-743a1f970900||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|892ea77d-096d-42f4-998b-743a1f970900||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|156c98ea-8533-4c10-904d-f2c7ffab7fd6||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|156c98ea-8533-4c10-904d-f2c7ffab7fd6||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|b2c38e81-3141-4cc6-a178-41abec4ea7a4||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|b2c38e81-3141-4cc6-a178-41abec4ea7a4||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|f04422eb-ae57-45d5-86b8-dd9dc554ca4f||1.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|f04422eb-ae57-45d5-86b8-dd9dc554ca4f||
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|5b58ebd6-5759-43d0-b9e7-fbed6eed7fd7||6.0
-c2fc15a7-9c3f-4170-921c-3c33921ca042|2023.0|5b58ebd6-5759-43d0-b9e7-fbed6eed7fd7||
+488c9ca9-cfaa-4a3c-beee-8925c03a96e4|2021.0|586cc38f-47e1-4914-aa2e-6445f472a7ee|3. Presupuesto general de funcionamiento|1.0
+488c9ca9-cfaa-4a3c-beee-8925c03a96e4|2021.0|586cc38f-47e1-4914-aa2e-6445f472a7ee|3. Presupuesto general de funcionamiento|
+3c8f7388-4ea4-4af5-a020-b00e03e386ca|2021.0|05a10a72-66d1-4894-a794-d0e74a66814e|4. Presupuesto general de funcionamiento ejecutado en innovación.|3.0
+3c8f7388-4ea4-4af5-a020-b00e03e386ca|2021.0|05a10a72-66d1-4894-a794-d0e74a66814e|4. Presupuesto general de funcionamiento ejecutado en innovación.|
+625b16f4-3260-442e-b748-07f2974020dc|2021.0|8593a0ce-cbdf-48ca-aac6-619a3385bfd4|5. Presupuesto general de inversión.|1.0
+625b16f4-3260-442e-b748-07f2974020dc|2021.0|8593a0ce-cbdf-48ca-aac6-619a3385bfd4|5. Presupuesto general de inversión.|
+ebea3bc6-f69f-49e1-9692-8164abb04c58|2021.0|03c2a991-44c6-4e99-8124-ae67b91c4d84|6. Presupuesto general de inversión ejecutado en innovación.|2.7
+ebea3bc6-f69f-49e1-9692-8164abb04c58|2021.0|03c2a991-44c6-4e99-8124-ae67b91c4d84|6. Presupuesto general de inversión ejecutado en innovación.|
+48d66a92-3ee7-4440-800a-3a3624a28293|2021.0|ff6dc974-4094-4ebe-8c2e-358b39ef3c60|7. Total de funcionarios.|2.0
+48d66a92-3ee7-4440-800a-3a3624a28293|2021.0|ff6dc974-4094-4ebe-8c2e-358b39ef3c60|7. Total de funcionarios.|
+b833f544-2941-4307-ae25-817fde891608|2021.0|cfb67e41-3c12-4e8f-b7a3-3857f90b94de|8. Total de funcionarios en innovación por manual de funciones.|2.7
+b833f544-2941-4307-ae25-817fde891608|2021.0|cfb67e41-3c12-4e8f-b7a3-3857f90b94de|8. Total de funcionarios en innovación por manual de funciones.|
+62d713a6-140b-4e40-944c-10e462276c2d|2021.0|93769163-00ee-4a13-bd41-f8d266e4298e|9. Total de contratistas.|1.5
+62d713a6-140b-4e40-944c-10e462276c2d|2021.0|93769163-00ee-4a13-bd41-f8d266e4298e|9. Total de contratistas.|
+2d1b4ac3-8853-47d4-a572-78b1dda69176|2021.0|920c8113-bdc4-4e4f-b310-a63a26da2858|10. Total de contratistas en innovación.|2.5
+2d1b4ac3-8853-47d4-a572-78b1dda69176|2021.0|920c8113-bdc4-4e4f-b310-a63a26da2858|10. Total de contratistas en innovación.|
+84b7ac2e-0d22-473e-af45-3d526820f627|2021.0|fa9284b9-f2d7-499a-892f-aa3b0d9114ad|11. Determine los recursos digitales adquiridos como habilitantes de la innovación|2.1
+6af2673c-6aa9-431e-b9ea-dbcaa1fd645e|2021.0|e9d519e7-dd6c-4fad-8c77-4c18553643d7|12. Determine el valor de la inversión realizada para la adquisición de recursos digitales para el fortalecimiento de la innovación|1.0
+00f629a0-0d87-4bd6-be03-1ad5074345fe|2021.0|03accb82-fc1f-43e6-b5c2-89d0c2b363f4|13. Determine los detalles de los recursos digitales incorporados como habilitantes para la innovación|1.5
+b66bd316-88a1-4e60-b6f8-2702a18a9067|2021.0|c85c8d72-0430-47cd-a3de-66000d3b5e60|14. Determine las actividades|2.8
+56af70b0-29ee-4015-a8b0-dc8bdf437ee7|2021.0|a5f5897c-3669-4260-bed7-219c2bab10b2|15. Determine los canales complementarios para identificación de retos para la ciudadanía|1.0
+2bf3bbb8-d07a-4228-a008-ec33701f8854|2021.0|2a063a7d-2844-432f-bfe6-141322da3137|16. Determine los canales complementarios para identificación de retos para funcionarios y contratistas|2.8
+5ddea091-95ea-42cf-978b-49e154f861a9|2021.0|8b88b974-c6f3-4f3d-b82b-b34e2bc1515c|16.1. Determine las actividades realizadas alrededor de los canales para detección de retos para funcionarios y contratistas.|2.8
+0afb6001-7f85-4dd1-958c-02235aa12e43|2021.0|80fe4c77-d0b8-422b-8473-e8a503ca4f10|17. Determine los grupos de valor para actividades realizadas para la identificación de retos|2.4
+33879e4d-86bf-4672-85be-03cbdd226c82|2021.0|498a5a39-8cda-458e-9010-06a3fc0d351b|18. Determine los canales complementarios para recepción de ideas para la ciudadanía|3.0
+087dbe67-372c-49a4-908b-1e68c38fed5c|2021.0|7fc80567-b06d-4081-90d7-a904c8c94c5b|18.1. Determine las actividades realizadas alrededor de los canales para recepción de ideas para funcionarios y contratistas.|
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|be61de18-494f-4a86-a02f-a42964fcc630||3.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|be61de18-494f-4a86-a02f-a42964fcc630||
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|f06494e9-4217-4fc7-80df-9ebe83881a12||
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|3722bf84-b8d0-4de4-b5e0-e6801e34824b||
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|3722bf84-b8d0-4de4-b5e0-e6801e34824b||2.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|4ca78c28-c615-4dc7-92ac-c7ff055ef7f3||7.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|4ca78c28-c615-4dc7-92ac-c7ff055ef7f3||
+186628e6-09b7-4599-99c2-00d9df1e8f8b|2021.0|4ca78c28-c615-4dc7-92ac-c7ff055ef7f3|21.2 ¿De dónde surgieron las innovaciones diseñadas por su entidad en 2019-2020?|7.0
+88fce6f3-6d61-4730-bf0a-223fb3ea4da6||a44c23e0-6a49-4263-ae67-4bca46d24139||
+fb94f817-e026-48ba-afde-5db7348d7751|2021.0|4ca78c28-c615-4dc7-92ac-c7ff055ef7f3|21.5 Teniendo en cuenta los prototipos de las innovaciones diseñadas, ¿con quién se validaron el (los) prototipo(s)?|7.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|3744b701-be4f-4385-9945-a45503a1ccb1||6.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|422644c2-bf7b-4b46-bda2-3a4d49d07196||2.8
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|4793160e-bcc0-42ce-835e-4ef661d1a60e||1.1
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|5f6499ed-f041-47ca-807f-c7213a62e784||1.1
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|6e7fe72b-17cf-4b23-a6f8-aa86366b6bad||17.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|a0bd7cae-7b13-425a-bfb5-9bf298362a40||1.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|7639d948-29c3-4985-af21-48019bdf9cc8||1.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|acd5ae70-fb5e-4d78-8306-238132e226ba||1.5
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|ce95a4af-2cde-4810-821b-611263d82dd9||2.2
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|92fae5ac-067c-4a07-a63b-9990e045303f||2.3
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|5290d446-3218-4d71-bd12-f9449f738ce3||0.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|dc67b2b1-593d-4d46-9059-f4cabe8e757f||3.0
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|b2c571c3-463c-4d8e-b4be-7b95e8b612e7||1.2
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|5ead78e7-78bc-4684-9ae1-47f5dd727ffa||0.96
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|2873f0a5-ceff-4dc0-89df-034e8800b088||0.96
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|9da7f5f1-ce71-4bc7-81df-c2740611a889||0.96
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|8c9580e0-15cb-41b5-9798-a92fb75309cc||0.96
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|82954e9c-eef8-409e-9a4c-bb7fadb4075f||
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|351e7637-b634-4bc1-b792-6d3e1630edb1||0.96
+6dfb16d6-013d-4e00-809c-2782a4ad527e||a44c23e0-6a49-4263-ae67-4bca46d24139|39.1 ¿Qué hace con el documento de lecciones aprendidas y buenas prácticas de su entidad? |
+e8dbb498-0bbd-4cc5-a16a-af681f94b4c2|2021.0|4eb9806d-28ae-4d2b-8627-6acc4a091d00||6.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|786b2d5e-67b6-4937-b50f-7c58d876e62e||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|786b2d5e-67b6-4937-b50f-7c58d876e62e||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|ec673b2f-47fd-4671-a631-300bd4bfb581||4.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|ec673b2f-47fd-4671-a631-300bd4bfb581||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|fc75e14e-3aa5-418c-8a3f-552e4b04beda||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|442c659c-abb2-4725-b09d-afcf2074a9ee||4.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|ec3dab3b-1574-43e5-a5c5-a4ad1c064c17||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|b37be5aa-4ddf-4c20-bc6c-25ff19b5804a||3.7
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|9ae1ebf9-1824-49cb-99a6-14e9866db452||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|e0adc0b9-b63b-4c41-bbc0-0ad2f3e9f985||4.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|d53be459-13d5-498c-aa4a-dbbb08629575||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|c481e2d8-5755-40d7-b959-12bde5410e79||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|1c8b2af5-d90a-4271-a3bd-e1ab741aa998||4.7
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|3fe4e28c-fa09-45e4-8a63-219258cea3f0||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|1ff50c2a-9434-4dfb-8973-95a05f1e746a||4.6
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|1ff50c2a-9434-4dfb-8973-95a05f1e746a||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|d3a6154b-80d6-4684-9c22-4084b02c8d13||2.8
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|d3a6154b-80d6-4684-9c22-4084b02c8d13||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|17401f86-2cc2-45de-8621-0492bcbee3a2||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|17401f86-2cc2-45de-8621-0492bcbee3a2||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|f95e7e8c-6f51-4918-af85-2e9d6f603a78||2.8
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|f95e7e8c-6f51-4918-af85-2e9d6f603a78||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|57a7232b-2658-4765-b616-c68f8cb4225b||1.2
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|75ff01c2-5c2f-4c99-bd86-3fd959c447b3||1.2
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|316ea577-5450-4169-9e24-c72d5580986a||3.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|316ea577-5450-4169-9e24-c72d5580986a||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|e201e41a-ce00-4630-816b-2f2c6dee5607||3.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|e201e41a-ce00-4630-816b-2f2c6dee5607||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|575a5d9d-c1dc-4712-a5bf-bf05f2d146de||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|258f5049-2a89-457f-ba0e-d02eb8c82927||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|5f1a5ef3-7b66-455a-992d-fdfda694706f||7.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|5f1a5ef3-7b66-455a-992d-fdfda694706f||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|9b96bb78-4ff7-4083-b0fd-e7fcac58b1d5||6.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|ca1a3723-ef6a-46b2-8869-e337487f3aa7||2.8
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|ca1a3723-ef6a-46b2-8869-e337487f3aa7||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|0c21a33a-bfd1-49a3-8834-33876934c94c||1.1
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|0c21a33a-bfd1-49a3-8834-33876934c94c||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|71ad4ec5-101b-444d-94a2-c9727a599b95||1.1
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|71ad4ec5-101b-444d-94a2-c9727a599b95||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|fe5fbbb0-1a7f-45ca-8b1e-0f26a913d620||20.5
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|fe5fbbb0-1a7f-45ca-8b1e-0f26a913d620||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|e01c0ef0-5235-4a6d-ba1e-627ecb060aff||2.2
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|e01c0ef0-5235-4a6d-ba1e-627ecb060aff||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|2b03285c-4097-406b-b4f7-d73de3faf077||2.3
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|2b03285c-4097-406b-b4f7-d73de3faf077||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|1cc9564b-7409-4fee-9fb0-4d74e6b2e669||0.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|1cc9564b-7409-4fee-9fb0-4d74e6b2e669||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|dbe19356-8317-475e-aa6b-eec8467c78c3||3.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|dbe19356-8317-475e-aa6b-eec8467c78c3||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|2b6b0628-4e01-4a86-ac05-df31d7ffb004||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|2b6b0628-4e01-4a86-ac05-df31d7ffb004||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|c03996a9-e62b-49d0-a15b-4d99bf14c230||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|c03996a9-e62b-49d0-a15b-4d99bf14c230||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|e0e0f023-09f8-44d0-8b40-fbc877b6a0fd||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|e0e0f023-09f8-44d0-8b40-fbc877b6a0fd||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|30483464-aed1-47a7-856c-de8b4c73f85e||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|30483464-aed1-47a7-856c-de8b4c73f85e||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|1e57c1d0-fce8-4d31-b50f-557a759e262f||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|1e57c1d0-fce8-4d31-b50f-557a759e262f||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|ee575946-655d-4ecd-8ece-92f48a08eb79||1.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|ee575946-655d-4ecd-8ece-92f48a08eb79||
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|876800cd-ba9b-4a1b-b685-ada3bcddbf69||6.0
+d8894518-d8ee-451a-a558-be757fd89041|2023.0|876800cd-ba9b-4a1b-b685-ada3bcddbf69||

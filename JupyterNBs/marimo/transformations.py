@@ -32,6 +32,7 @@ def _(mo):
 @app.cell
 def _(pd):
     ori_ents= pd.read_excel('../entidades/entidades.xlsx')
+    ori_ents['mission']=ori_ents['mision']
     ori_ents.head()
     return (ori_ents,)
 
@@ -245,7 +246,7 @@ def _(mo):
 
 @app.cell
 def _(ori_ents, sectores):
-    entidades = ori_ents[['_uuid', 'sector', 'entidad', 'description','mision', 'vision']].copy().rename(columns={'_uuid': 'id'})
+    entidades = ori_ents[['_uuid', 'sector', 'entidad', 'description','mission', 'vision']].copy().rename(columns={'_uuid': 'id'})
 
     entidades = entidades.merge(
         sectores,
@@ -258,7 +259,7 @@ def _(ori_ents, sectores):
 
     entidades = entidades.rename(columns={'entidad': 'name','id_sector':'sector_id'})
 
-    entidades= entidades[['id','name','description','mision','vision','sector_id']]
+    entidades= entidades[['id','name','description','mission','vision','sector_id']]
     entidades
     return (entidades,)
 
