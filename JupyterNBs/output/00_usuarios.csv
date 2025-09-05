@@ -1,3 +1,0 @@
-id|username|name|email|password_hash|biography|created_at|updated_at
-0ed24c06-1d04-46cd-a0e3-bcdd9b442a2c|jmartinez|Juan José Martínez Guerrero|jmartinez@veeduriadistrital.gov.co|a8de13d35091eb88dd73420d49e6020b02948803304df1bd21d7e6f69b795d9e|jmartinez is a fictional user created for testing our pandas DataFrame.|2025-08-15 11:49:23.823095|2025-08-15 11:54:23.823095
-fadf6cd9-edea-424e-aff6-74d11f0944a0|mramirez|Miguel Andrés Ramírez Roa|mramirez@veeduriadistrital.gov.co|b1db7a4ad42546dab1bf0a865273fb220039b77942a646cf6d068842dcf6ba79|mramirez is a fictional user created for testing our pandas DataFrame.|2025-08-15 11:49:23.823180|2025-08-15 11:54:23.823180
