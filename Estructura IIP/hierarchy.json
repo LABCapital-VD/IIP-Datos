@@ -2,7 +2,7 @@
   "uuid_2021": {
     "anno": "2021",
     "children": {
-      "2e744d32-2f9f-41ff-863f-95261afcd57c": {
+      "426131b2-9225-4017-b541-e270e2cfa740": {
         "index_id": "uuid_2021",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -11,27 +11,27 @@
         "display_order": 1,
         "peso": 25,
         "children": {
-          "8bfcfff2-93bb-404a-9e0f-0a026762fa25": {
+          "11e4c599-4a10-42dd-89a5-89698c53a0fd": {
             "index_id": "uuid_2021",
-            "parent_id": "2e744d32-2f9f-41ff-863f-95261afcd57c",
+            "parent_id": "426131b2-9225-4017-b541-e270e2cfa740",
             "section_type_id": "VARIABLE",
             "title": "Variable 1",
             "description": "Planeación",
             "display_order": 1,
             "peso": 4.0,
             "children": {
-              "177aa268-0621-4c2f-8b49-279505341ef9": {
+              "166c54cc-b01d-47ee-98f9-b1a9f6b8da3f": {
                 "index_id": "uuid_2021",
-                "parent_id": "8bfcfff2-93bb-404a-9e0f-0a026762fa25",
+                "parent_id": "11e4c599-4a10-42dd-89a5-89698c53a0fd",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 1",
                 "description": "Creación y Organización: Existencia dentro de los soportes normativos de creación y organización de la institución de un discurso relacionado con la definición de innovación pública (Sin Calificación)",
                 "display_order": 1,
                 "peso": 0.0,
                 "questions": {
-                  "c60d5bf8-a95b-4e70-b711-60330116b552": {
+                  "852fd282-a92e-4f6a-ba23-3906914b8941": {
                     "index_id": "uuid_2021",
-                    "section_id": "177aa268-0621-4c2f-8b49-279505341ef9",
+                    "section_id": "166c54cc-b01d-47ee-98f9-b1a9f6b8da3f",
                     "is_loop": "True",
                     "title": "Pregunta 1",
                     "description": "Desde su creación hasta el 31 de diciembre de 2020, ¿existen acuerdos y/o actos administrativos de su entidad relacionados con el concepto de innovación pública?",
@@ -41,18 +41,18 @@
                   }
                 }
               },
-              "228d8bec-1ade-454e-8d1a-1e93e8bdddfe": {
+              "7b6b8597-03ec-4385-832c-dfbe60a2070e": {
                 "index_id": "uuid_2021",
-                "parent_id": "8bfcfff2-93bb-404a-9e0f-0a026762fa25",
+                "parent_id": "11e4c599-4a10-42dd-89a5-89698c53a0fd",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 2",
                 "description": "Planeación Estratégica: Existencia dentro de la planeación estratégica de la institución de una relación con el concepto de innovación pública",
                 "display_order": 2,
                 "peso": 4.0,
                 "questions": {
-                  "0163174f-e463-4fb3-83b1-7756d75a3594": {
+                  "7166ba15-7a4e-4c26-887d-b6856db002a3": {
                     "index_id": "uuid_2021",
-                    "section_id": "228d8bec-1ade-454e-8d1a-1e93e8bdddfe",
+                    "section_id": "7b6b8597-03ec-4385-832c-dfbe60a2070e",
                     "is_loop": "True",
                     "title": "Pregunta 2",
                     "description": "¿Existen dentro de la planeación estratégica de su entidad enfoques / líneas / componentes / proyectos / programas o planes entre los años 2019 y 2020 relacionados con el concepto de innovación pública? ",
@@ -64,27 +64,27 @@
               }
             }
           },
-          "156eacde-1ac1-43a3-a616-e18136823c2b": {
+          "02735464-e505-491b-a11f-89591bb0b5f8": {
             "index_id": "uuid_2021",
-            "parent_id": "2e744d32-2f9f-41ff-863f-95261afcd57c",
+            "parent_id": "426131b2-9225-4017-b541-e270e2cfa740",
             "section_type_id": "VARIABLE",
             "title": "Variable 2",
             "description": "Recursos Presupuestales",
             "display_order": 3,
             "peso": 7.7,
             "children": {
-              "cf5b384d-b0ac-4de0-a711-844c35ea000d": {
+              "61a9823d-3bf5-4f11-bf87-4a4fedd05dac": {
                 "index_id": "uuid_2021",
-                "parent_id": "156eacde-1ac1-43a3-a616-e18136823c2b",
+                "parent_id": "02735464-e505-491b-a11f-89591bb0b5f8",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 3",
                 "description": "Recursos Anuales de Funcionamiento: Porcentaje de recursos anuales de funcionamiento ejecutados en temas de innovación pública",
                 "display_order": 3,
                 "peso": 4.0,
                 "questions": {
-                  "69e2fe44-ab63-4531-ab3c-b4de2fdc6a9e": {
+                  "8b4b1e58-df1d-4224-84e7-a5b3e25006a3": {
                     "index_id": "uuid_2021",
-                    "section_id": "cf5b384d-b0ac-4de0-a711-844c35ea000d",
+                    "section_id": "61a9823d-3bf5-4f11-bf87-4a4fedd05dac",
                     "is_loop": "True",
                     "title": "Pregunta 3",
                     "description": "¿Cuál fue el valor del presupuesto de funcionamiento ejecutado  desde enero de 2019 a 31 de diciembre de 2020?",
@@ -92,9 +92,9 @@
                     "required": "True",
                     "peso": 1.0
                   },
-                  "45face93-47f0-4d3a-8d25-c89e0406fdb8": {
+                  "8aea8ef3-566e-4465-ae0d-fc6c753ca803": {
                     "index_id": "uuid_2021",
-                    "section_id": "cf5b384d-b0ac-4de0-a711-844c35ea000d",
+                    "section_id": "61a9823d-3bf5-4f11-bf87-4a4fedd05dac",
                     "is_loop": "True",
                     "title": "Pregunta 4",
                     "description": "¿Cuál fue el valor del presupuesto de funcionamiento ejecutado en temas de innovación pública entre los años 2019 y 2020?",
@@ -104,18 +104,18 @@
                   }
                 }
               },
-              "2dc8f699-1f2d-4990-b770-f1c88fe1d51d": {
+              "77099e01-b82e-42a2-b0bb-17ab810b4031": {
                 "index_id": "uuid_2021",
-                "parent_id": "156eacde-1ac1-43a3-a616-e18136823c2b",
+                "parent_id": "02735464-e505-491b-a11f-89591bb0b5f8",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 4",
                 "description": "Porcentaje de recursos anuales de inversión ejecutados en temas de innovación pública",
                 "display_order": 5,
                 "peso": 3.7,
                 "questions": {
-                  "885dfd65-93e9-4f0f-a870-17db0e9ce555": {
+                  "f1456220-308c-498e-8b6c-20b26da5dd5a": {
                     "index_id": "uuid_2021",
-                    "section_id": "2dc8f699-1f2d-4990-b770-f1c88fe1d51d",
+                    "section_id": "77099e01-b82e-42a2-b0bb-17ab810b4031",
                     "is_loop": "True",
                     "title": "Pregunta 5",
                     "description": "¿Cuál fue el valor del presupuesto de inversión ejecutado entre los años 2019 y 2020?",
@@ -123,9 +123,9 @@
                     "required": "True",
                     "peso": 1.0
                   },
-                  "c9f3251f-59cf-4219-9de7-655b833a6ba7": {
+                  "da349a8d-72f5-4650-bca3-b57fc3cbc0d1": {
                     "index_id": "uuid_2021",
-                    "section_id": "2dc8f699-1f2d-4990-b770-f1c88fe1d51d",
+                    "section_id": "77099e01-b82e-42a2-b0bb-17ab810b4031",
                     "is_loop": "True",
                     "title": "Pregunta 6",
                     "description": "¿Cuál fue el valor del presupuesto de inversión ejecutado en temas de innovación pública  entre 2019 y 2020?",
@@ -137,27 +137,27 @@
               }
             }
           },
-          "f1af2b6d-b3a2-46de-adaf-6f309a5b3575": {
+          "e02aaac8-17b6-46ca-9725-f6046502dab8": {
             "index_id": "uuid_2021",
-            "parent_id": "2e744d32-2f9f-41ff-863f-95261afcd57c",
+            "parent_id": "426131b2-9225-4017-b541-e270e2cfa740",
             "section_type_id": "VARIABLE",
             "title": "Variable 3",
             "description": "Recursos Humanos",
             "display_order": 7,
             "peso": 8.7,
             "children": {
-              "d2e214a1-166a-489c-ba27-e6a9044f4c5c": {
+              "cb86cd94-0d00-4c18-90bb-9cdaa1594e60": {
                 "index_id": "uuid_2021",
-                "parent_id": "f1af2b6d-b3a2-46de-adaf-6f309a5b3575",
+                "parent_id": "e02aaac8-17b6-46ca-9725-f6046502dab8",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 5",
                 "description": "Porcentaje de funcionarios relacionados con temas de innovación pública",
                 "display_order": 7,
                 "peso": 4.7,
                 "questions": {
-                  "76a1d67e-6409-457b-a829-9040f9d2377b": {
+                  "3a19d47b-6da2-47ca-8412-1ec103b41700": {
                     "index_id": "uuid_2021",
-                    "section_id": "d2e214a1-166a-489c-ba27-e6a9044f4c5c",
+                    "section_id": "cb86cd94-0d00-4c18-90bb-9cdaa1594e60",
                     "is_loop": "True",
                     "title": "Pregunta 7",
                     "description": "¿Cuál fue el número total de funcionarios que trabajaron en su entidad entre 2019 y 2020?",
@@ -165,9 +165,9 @@
                     "required": "True",
                     "peso": 2.0
                   },
-                  "431d378c-8c04-445d-9733-17139f88e63d": {
+                  "7e9ff51e-d011-41a9-ac71-1345f26b579f": {
                     "index_id": "uuid_2021",
-                    "section_id": "d2e214a1-166a-489c-ba27-e6a9044f4c5c",
+                    "section_id": "cb86cd94-0d00-4c18-90bb-9cdaa1594e60",
                     "is_loop": "True",
                     "title": "Pregunta 8",
                     "description": "¿Cuál fue el número total de funcionarios que trabajaron en su entidad entre 2019 y 2020 relacionados con temas de innovación pública?",
@@ -177,18 +177,18 @@
                   }
                 }
               },
-              "fcc09bc0-3ea8-4491-9ae8-7191dc012114": {
+              "f1873312-eca9-4592-997f-bea706268d5e": {
                 "index_id": "uuid_2021",
-                "parent_id": "f1af2b6d-b3a2-46de-adaf-6f309a5b3575",
+                "parent_id": "e02aaac8-17b6-46ca-9725-f6046502dab8",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 6",
                 "description": "Porcentaje de contratistas dedicados a temas de innovación pública",
                 "display_order": 9,
                 "peso": 4.0,
                 "questions": {
-                  "82b2d675-bdd1-4243-91ce-446b99695cad": {
+                  "16c932d3-49d7-4264-a668-99afb8332306": {
                     "index_id": "uuid_2021",
-                    "section_id": "fcc09bc0-3ea8-4491-9ae8-7191dc012114",
+                    "section_id": "f1873312-eca9-4592-997f-bea706268d5e",
                     "is_loop": "True",
                     "title": "Pregunta 9",
                     "description": "¿Cuál fue el número total de contratistas que trabajaron en su entidad entre 2019 y 2020?",
@@ -196,9 +196,9 @@
                     "required": "True",
                     "peso": 1.5
                   },
-                  "c8d9702e-d20b-4882-98c8-cd2fd310f9e6": {
+                  "f431565c-57eb-43dd-899e-517da8e96c86": {
                     "index_id": "uuid_2021",
-                    "section_id": "fcc09bc0-3ea8-4491-9ae8-7191dc012114",
+                    "section_id": "f1873312-eca9-4592-997f-bea706268d5e",
                     "is_loop": "True",
                     "title": "Pregunta 10",
                     "description": "¿Cuál fue el número total de contratistas que trabajaron en su entidad entre 2019 y 2020 dedicados a temas de innovación pública?",
@@ -210,27 +210,27 @@
               }
             }
           },
-          "f22bb45e-3f8e-4ba8-9e93-780cd1d99e25": {
+          "72e49414-b9eb-4612-a567-01fcaa1a0864": {
             "index_id": "uuid_2021",
-            "parent_id": "2e744d32-2f9f-41ff-863f-95261afcd57c",
+            "parent_id": "426131b2-9225-4017-b541-e270e2cfa740",
             "section_type_id": "VARIABLE",
             "title": "Variable 4",
             "description": "Recursos digitales",
             "display_order": 11,
             "peso": 4.6,
             "children": {
-              "6d4a5a70-9c97-44b2-9bb4-4321812ad5e1": {
+              "3dad19de-181b-4679-a471-3a64209cd220": {
                 "index_id": "uuid_2021",
-                "parent_id": "f22bb45e-3f8e-4ba8-9e93-780cd1d99e25",
+                "parent_id": "72e49414-b9eb-4612-a567-01fcaa1a0864",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 7",
                 "description": "Recursos digitales para la innovación",
                 "display_order": 11,
                 "peso": 4.6,
                 "questions": {
-                  "a430751b-11dc-4a0d-a2da-08b98bf8e2ca": {
+                  "fb844a23-e76e-40e7-a9f7-4e4d5adb2838": {
                     "index_id": "uuid_2021",
-                    "section_id": "6d4a5a70-9c97-44b2-9bb4-4321812ad5e1",
+                    "section_id": "3dad19de-181b-4679-a471-3a64209cd220",
                     "is_loop": "True",
                     "title": "Pregunta 11",
                     "description": "¿Su entidad adquirió recursos digitales como habilitantes de la innovación?",
@@ -238,9 +238,9 @@
                     "required": "True",
                     "peso": 2.1
                   },
-                  "cbeda6f1-cf4a-4ab4-a552-02bcfd9fbebe": {
+                  "5d06445f-ab24-40ab-ba43-45405c1db318": {
                     "index_id": "uuid_2021",
-                    "section_id": "6d4a5a70-9c97-44b2-9bb4-4321812ad5e1",
+                    "section_id": "3dad19de-181b-4679-a471-3a64209cd220",
                     "is_loop": "True",
                     "title": "Pregunta 12",
                     "description": "¿Cuál fue el valor de la inversión realizada por su entidad para la adquisición de recursos digitales para el fortalecimiento de la  innovación entre 2019 y 31 de diciembre de 2020?",
@@ -248,9 +248,9 @@
                     "required": "True",
                     "peso": 1.0
                   },
-                  "59d61f61-c24d-414d-9c5b-2b32e3550932": {
+                  "b0f7c490-5991-4875-a6de-a40addc25728": {
                     "index_id": "uuid_2021",
-                    "section_id": "6d4a5a70-9c97-44b2-9bb4-4321812ad5e1",
+                    "section_id": "3dad19de-181b-4679-a471-3a64209cd220",
                     "is_loop": "True",
                     "title": "Pregunta 13",
                     "description": "¿Cuáles recursos digitales se incorporaron entre 2019 y 2020 como habilitantes  para la innovación  en su entidad?",
@@ -264,7 +264,7 @@
           }
         }
       },
-      "e53c778f-6da4-4aae-b598-1d5d8372eab4": {
+      "69d6276e-f6a3-4cb6-8a98-d62fd3b27fd7": {
         "index_id": "uuid_2021",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -273,27 +273,27 @@
         "display_order": 14,
         "peso": 35,
         "children": {
-          "7041728d-843f-4fda-ad7c-96258c331558": {
+          "2366734b-9771-4c3d-ab09-742d421f598d": {
             "index_id": "uuid_2021",
-            "parent_id": "e53c778f-6da4-4aae-b598-1d5d8372eab4",
+            "parent_id": "69d6276e-f6a3-4cb6-8a98-d62fd3b27fd7",
             "section_type_id": "VARIABLE",
             "title": "Variable 5",
             "description": "Proceso de identificación y uso de retos o áreas de oportunidad",
             "display_order": 14,
             "peso": 9.0,
             "children": {
-              "a9e6e6e1-87cf-4581-86fe-bb639c64c171": {
+              "8cf13026-4b8f-4bab-b157-a7b4556dde3e": {
                 "index_id": "uuid_2021",
-                "parent_id": "7041728d-843f-4fda-ad7c-96258c331558",
+                "parent_id": "2366734b-9771-4c3d-ab09-742d421f598d",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 8",
                 "description": "Uso de información recolectada a partir del SDQS",
                 "display_order": 14,
                 "peso": 2.8,
                 "questions": {
-                  "d36e3c53-528e-4ef7-9749-be4f4ae955f7": {
+                  "f874209a-9cd0-4093-80c2-1b22fff1fe2e": {
                     "index_id": "uuid_2021",
-                    "section_id": "a9e6e6e1-87cf-4581-86fe-bb639c64c171",
+                    "section_id": "8cf13026-4b8f-4bab-b157-a7b4556dde3e",
                     "is_loop": "True",
                     "title": "Pregunta 14",
                     "description": "A partir de la información recolectada a través de \"Bogotá te Escucha\" entre 2019 y  2020, ¿Su entidad realizó en  este periodo de tiempo (2019-2020)  alguna de las siguientes actividades? Seleccione las que apliquen. ",
@@ -303,18 +303,18 @@
                   }
                 }
               },
-              "4db5206e-9bd6-42cd-a350-26847aa3ca89": {
+              "ddc89fa4-e8bd-453d-862a-14d253a9c840": {
                 "index_id": "uuid_2021",
-                "parent_id": "7041728d-843f-4fda-ad7c-96258c331558",
+                "parent_id": "2366734b-9771-4c3d-ab09-742d421f598d",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 9",
                 "description": "Canales complementarios para la ciudadanía para la identificación de retos o áreas de oportunidad de la entidad",
                 "display_order": 15,
                 "peso": 1.0,
                 "questions": {
-                  "ed9f2eb1-8614-42f6-9f7f-343da569fbbf": {
+                  "295229d3-c71d-4090-a678-a7001d4a3a75": {
                     "index_id": "uuid_2021",
-                    "section_id": "4db5206e-9bd6-42cd-a350-26847aa3ca89",
+                    "section_id": "ddc89fa4-e8bd-453d-862a-14d253a9c840",
                     "is_loop": "True",
                     "title": "Pregunta 15",
                     "description": "¿Su entidad contó con canales complementarios a \"Bogotá te escucha\" para que la ciudadanía pudiera identificar retos o áreas de oportunidad de su entidad?",
@@ -324,18 +324,18 @@
                   }
                 }
               },
-              "fd02fd9a-a807-43b6-aec1-b7727c1e3ef1": {
+              "3f686635-a815-4365-9288-b840b42c1546": {
                 "index_id": "uuid_2021",
-                "parent_id": "7041728d-843f-4fda-ad7c-96258c331558",
+                "parent_id": "2366734b-9771-4c3d-ab09-742d421f598d",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 10",
                 "description": "Canales para los funcionarios y/o contratistas para la identificación de retos o áreas de oportunidad",
                 "display_order": 16,
                 "peso": 2.8,
                 "questions": {
-                  "21fab2fb-2084-4445-94b2-dd720a4168cf": {
+                  "ea086e8b-c040-494f-ad09-07bb21dd59e9": {
                     "index_id": "uuid_2021",
-                    "section_id": "fd02fd9a-a807-43b6-aec1-b7727c1e3ef1",
+                    "section_id": "3f686635-a815-4365-9288-b840b42c1546",
                     "is_loop": "True",
                     "title": "Pregunta 16",
                     "description": "¿Su entidad utilizó algún canal para que los funcionarios y/o contratistas pudieran identificar retos o áreas de oportunidad de la entidad? ",
@@ -343,9 +343,9 @@
                     "required": "True",
                     "peso": 1.4
                   },
-                  "9ac966d3-2849-4b5e-b769-b67a8066c14e": {
+                  "66f50e83-f9c3-4ca2-a123-7558306311ff": {
                     "index_id": "uuid_2021",
-                    "section_id": "fd02fd9a-a807-43b6-aec1-b7727c1e3ef1",
+                    "section_id": "3f686635-a815-4365-9288-b840b42c1546",
                     "is_loop": "True",
                     "title": "Pregunta 16.1",
                     "description": "A partir de la información recolectada mediante los canales con funcionarios y/o contratistas para la identificación de retos o áreas de oportunidad, ¿Su entidad realizó entre 2019 y 2020 alguna de las siguientes actividades? Seleccione las que apliquen. ",
@@ -355,18 +355,18 @@
                   }
                 }
               },
-              "de541d09-9e9e-41ef-a1bd-7fe6c5edab04": {
+              "2e58586d-8e66-49df-a914-cb64fa000f51": {
                 "index_id": "uuid_2021",
-                "parent_id": "7041728d-843f-4fda-ad7c-96258c331558",
+                "parent_id": "2366734b-9771-4c3d-ab09-742d421f598d",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 11",
                 "description": "Actividades para la identificación de retos o áreas de oportunidad",
                 "display_order": 18,
                 "peso": 2.4,
                 "questions": {
-                  "6105be23-d3c7-4f9f-8a17-32a70b045b80": {
+                  "efdd9b9f-f7a4-40f8-b77e-a8e66a558552": {
                     "index_id": "uuid_2021",
-                    "section_id": "de541d09-9e9e-41ef-a1bd-7fe6c5edab04",
+                    "section_id": "2e58586d-8e66-49df-a914-cb64fa000f51",
                     "is_loop": "True",
                     "title": "Pregunta 17",
                     "description": "¿Se llevaron a cabo algún(os) tipo(s) de actividad(es) para la identificación de retos o áreas de oportunidad de la entidad que usted representa? Seleccione todas las que apliquen",
@@ -378,27 +378,27 @@
               }
             }
           },
-          "5763cc71-eb1b-4cbe-8fdb-a9d9f9b81ff1": {
+          "bb728c1a-1d5e-4a20-a069-a7b5ecd7fa0f": {
             "index_id": "uuid_2021",
-            "parent_id": "e53c778f-6da4-4aae-b598-1d5d8372eab4",
+            "parent_id": "69d6276e-f6a3-4cb6-8a98-d62fd3b27fd7",
             "section_type_id": "VARIABLE",
             "title": "Variable 6",
             "description": "Generación de ideas",
             "display_order": 19,
             "peso": 8.0,
             "children": {
-              "f2e03b0a-f102-46cc-8868-d86620d85093": {
+              "c7ee3eb8-6da1-4e73-a18f-2b972bb67bd0": {
                 "index_id": "uuid_2021",
-                "parent_id": "5763cc71-eb1b-4cbe-8fdb-a9d9f9b81ff1",
+                "parent_id": "bb728c1a-1d5e-4a20-a069-a7b5ecd7fa0f",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 12",
                 "description": "Canales para la ciudadanía para la generación de ideas",
                 "display_order": 19,
                 "peso": 3.0,
                 "questions": {
-                  "e2d3e7bc-19b6-4660-99ca-4cab398b9825": {
+                  "ab003f18-ab2a-452e-ab7b-6c6cc7701cf6": {
                     "index_id": "uuid_2021",
-                    "section_id": "f2e03b0a-f102-46cc-8868-d86620d85093",
+                    "section_id": "c7ee3eb8-6da1-4e73-a18f-2b972bb67bd0",
                     "is_loop": "True",
                     "title": "Pregunta 18",
                     "description": "¿Su entidad utilizó algún canal para la recepción de ideas de la ciudadanía, encaminadas al mejoramiento de su entidad?",
@@ -406,9 +406,9 @@
                     "required": "True",
                     "peso": 1.5
                   },
-                  "d1ba2a3c-cb67-471c-a988-b36b28674561": {
+                  "1ae1a986-c15d-4b87-b657-d34d424f3240": {
                     "index_id": "uuid_2021",
-                    "section_id": "f2e03b0a-f102-46cc-8868-d86620d85093",
+                    "section_id": "c7ee3eb8-6da1-4e73-a18f-2b972bb67bd0",
                     "is_loop": "True",
                     "title": "Pregunta 18.1",
                     "description": "A partir de la información recolectada mediante los canales ciudadanos para la recepción de ideas relacionadas con el mejoramiento de su entidad, ¿Su entidad realizó entre 2019 y 2020 alguna de las siguientes actividades? Seleccione las que apliquen.",
@@ -418,18 +418,18 @@
                   }
                 }
               },
-              "59d21f4b-690b-46a3-838f-1a92fd15d292": {
+              "fee9d2bf-ae97-4454-8677-085b95baf4e2": {
                 "index_id": "uuid_2021",
-                "parent_id": "5763cc71-eb1b-4cbe-8fdb-a9d9f9b81ff1",
+                "parent_id": "bb728c1a-1d5e-4a20-a069-a7b5ecd7fa0f",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 13",
                 "description": "Canales para los funcionarios y/o contratistas para la generación de ideas",
                 "display_order": 21,
                 "peso": 3.0,
                 "questions": {
-                  "58793a35-4c7a-4742-970a-8e576586d1a0": {
+                  "97c28478-ba1a-4fbe-97ae-3cc9955afae7": {
                     "index_id": "uuid_2021",
-                    "section_id": "59d21f4b-690b-46a3-838f-1a92fd15d292",
+                    "section_id": "fee9d2bf-ae97-4454-8677-085b95baf4e2",
                     "is_loop": "True",
                     "title": "Pregunta 19",
                     "description": "¿Su entidad utilizó algún canal para la recepción de ideas de funcionarios y/o contratistas relacionadas con el mejoramiento de su entidad? ",
@@ -437,9 +437,9 @@
                     "required": "True",
                     "peso": 1.5
                   },
-                  "f97a9f2f-09e8-476c-9599-d69fcc0a05a5": {
+                  "7461dd30-02ca-42b7-8cb2-0856e2575cb6": {
                     "index_id": "uuid_2021",
-                    "section_id": "59d21f4b-690b-46a3-838f-1a92fd15d292",
+                    "section_id": "fee9d2bf-ae97-4454-8677-085b95baf4e2",
                     "is_loop": "True",
                     "title": "Pregunta 19.1",
                     "description": "A partir de la información recolectada mediante los canales con funcionarios y/o contratistas para la recepción de ideas relacionadas con el mejoramiento de su entidad, ¿Su entidad realizó entre 2019 y 2020  alguna de las siguientes actividades? Seleccione las que apliquen.",
@@ -449,18 +449,18 @@
                   }
                 }
               },
-              "6ee1ef45-bc50-401c-af18-5a8d1a869d1f": {
+              "0f2f8835-43fa-4b1f-b116-2c08e822eeaf": {
                 "index_id": "uuid_2021",
-                "parent_id": "5763cc71-eb1b-4cbe-8fdb-a9d9f9b81ff1",
+                "parent_id": "bb728c1a-1d5e-4a20-a069-a7b5ecd7fa0f",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 14",
                 "description": "Espacios para la generación de ideas",
                 "display_order": 23,
                 "peso": 2.0,
                 "questions": {
-                  "7a415a1c-51c4-4705-9440-91f4b3d8fd76": {
+                  "2a0f7f4a-8213-4b15-9f24-3c071bcd8eee": {
                     "index_id": "uuid_2021",
-                    "section_id": "6ee1ef45-bc50-401c-af18-5a8d1a869d1f",
+                    "section_id": "0f2f8835-43fa-4b1f-b116-2c08e822eeaf",
                     "is_loop": "True",
                     "title": "Pregunta 20",
                     "description": "¿Su entidad realizó alguna actividad para la generación de ideas encaminadas al mejoramiento de su entidad? Seleccione las que apliquen. ",
@@ -472,27 +472,27 @@
               }
             }
           },
-          "d556101e-8270-4eaf-8bc8-136623c8e937": {
+          "0675ee5c-82c7-4f96-9886-60993fe4760d": {
             "index_id": "uuid_2021",
-            "parent_id": "e53c778f-6da4-4aae-b598-1d5d8372eab4",
+            "parent_id": "69d6276e-f6a3-4cb6-8a98-d62fd3b27fd7",
             "section_type_id": "VARIABLE",
             "title": "Variable 7",
             "description": "Diseño de Innovaciones",
             "display_order": 24,
             "peso": 7.0,
             "children": {
-              "6f25eb75-0fc8-48f4-82a1-51a9efe11ead": {
+              "b5243a40-8496-456e-857e-4ec5e574b5d5": {
                 "index_id": "uuid_2021",
-                "parent_id": "d556101e-8270-4eaf-8bc8-136623c8e937",
+                "parent_id": "0675ee5c-82c7-4f96-9886-60993fe4760d",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 15",
                 "description": "Innovaciones diseñadas",
                 "display_order": 24,
                 "peso": 7.0,
                 "questions": {
-                  "17095399-eec6-45aa-b6a1-20b69fdc377f": {
+                  "9ac9fa3b-55b8-4321-b224-8de91c58b023": {
                     "index_id": "uuid_2021",
-                    "section_id": "6f25eb75-0fc8-48f4-82a1-51a9efe11ead",
+                    "section_id": "b5243a40-8496-456e-857e-4ec5e574b5d5",
                     "is_loop": "True",
                     "title": "Pregunta 21",
                     "description": "¿Su entidad diseñó innovaciones encaminadas al cumplimiento de los objetivos y metas de su entidad?",
@@ -500,9 +500,9 @@
                     "required": "True",
                     "peso": 3.0
                   },
-                  "306d4496-bfce-4d14-a663-d637d572f16d": {
+                  "b22f41e8-8fe2-4c38-8e0d-96cda66df740": {
                     "index_id": "uuid_2021",
-                    "section_id": "6f25eb75-0fc8-48f4-82a1-51a9efe11ead",
+                    "section_id": "b5243a40-8496-456e-857e-4ec5e574b5d5",
                     "is_loop": "True",
                     "title": "Pregunta 21.1",
                     "description": "¿Cuántas innovaciones diseñó su entidad entre 2019-2020?",
@@ -510,9 +510,9 @@
                     "required": "True",
                     "peso": 0.8
                   },
-                  "0765226d-ea22-42cb-a047-cfdf2ce5706d": {
+                  "8231fa24-0fc2-4946-817a-de114bdfdbc7": {
                     "index_id": "uuid_2021",
-                    "section_id": "6f25eb75-0fc8-48f4-82a1-51a9efe11ead",
+                    "section_id": "b5243a40-8496-456e-857e-4ec5e574b5d5",
                     "is_loop": "True",
                     "title": "Pregunta 21.2",
                     "description": "¿De dónde surgieron las innovaciones diseñadas por su entidad en 2019-2020?",
@@ -520,9 +520,9 @@
                     "required": "True",
                     "peso": 0.8
                   },
-                  "56c1a647-e2ce-4868-b5a0-2b4f7a12fef9": {
+                  "76857ead-e406-4374-b368-1ed0dda628c1": {
                     "index_id": "uuid_2021",
-                    "section_id": "6f25eb75-0fc8-48f4-82a1-51a9efe11ead",
+                    "section_id": "b5243a40-8496-456e-857e-4ec5e574b5d5",
                     "is_loop": "True",
                     "title": "Pregunta 21.3",
                     "description": "¿Se desarrolló algún prototipo de las innovaciones diseñadas?",
@@ -530,9 +530,9 @@
                     "required": "True",
                     "peso": 0.8
                   },
-                  "22d31dcd-1126-46fa-a3bc-4e951aca8894": {
+                  "70155564-62f8-4ed0-9154-1f647ee141cd": {
                     "index_id": "uuid_2021",
-                    "section_id": "6f25eb75-0fc8-48f4-82a1-51a9efe11ead",
+                    "section_id": "b5243a40-8496-456e-857e-4ec5e574b5d5",
                     "is_loop": "True",
                     "title": "Pregunta 21.4",
                     "description": "¿Cuántas de las innovaciones diseñadas contaron o cuentan con un prototipo?",
@@ -540,9 +540,9 @@
                     "required": "True",
                     "peso": 0.8
                   },
-                  "db48d13a-f277-4d36-8b49-1e3cad4330b7": {
+                  "d96365d8-995d-4d6d-b4d6-1ccf700a6ea1": {
                     "index_id": "uuid_2021",
-                    "section_id": "6f25eb75-0fc8-48f4-82a1-51a9efe11ead",
+                    "section_id": "b5243a40-8496-456e-857e-4ec5e574b5d5",
                     "is_loop": "True",
                     "title": "Pregunta 21.5",
                     "description": "Teniendo en cuenta los prototipos de las innovaciones diseñadas, ¿con quién se validaron el (los) prototipo(s)?",
@@ -554,27 +554,27 @@
               }
             }
           },
-          "4696eefa-304b-4332-8a73-b12b7fc26e75": {
+          "253c639a-cdc7-490f-9efc-fecc39d99f75": {
             "index_id": "uuid_2021",
-            "parent_id": "e53c778f-6da4-4aae-b598-1d5d8372eab4",
+            "parent_id": "69d6276e-f6a3-4cb6-8a98-d62fd3b27fd7",
             "section_type_id": "VARIABLE",
             "title": "Variable 8",
             "description": "Generación de capacidades",
             "display_order": 30,
             "peso": 6.0,
             "children": {
-              "4828c370-f873-4736-a859-d8a69ea436f5": {
+              "c935afb5-ffa7-412e-9a8a-c096c85c3acb": {
                 "index_id": "uuid_2021",
-                "parent_id": "4696eefa-304b-4332-8a73-b12b7fc26e75",
+                "parent_id": "253c639a-cdc7-490f-9efc-fecc39d99f75",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 16",
                 "description": "Actividades de generación de capacidades de innovación. ",
                 "display_order": 30,
                 "peso": 6.0,
                 "questions": {
-                  "bf952826-ee7d-4ded-b1b3-b2c576806465": {
+                  "b14d28be-cc03-404d-af9f-a76755390769": {
                     "index_id": "uuid_2021",
-                    "section_id": "4828c370-f873-4736-a859-d8a69ea436f5",
+                    "section_id": "c935afb5-ffa7-412e-9a8a-c096c85c3acb",
                     "is_loop": "True",
                     "title": "Pregunta 22",
                     "description": "¿Qué actividades relacionadas con la generación de capacidades de innovación desarrolló su entidad con funcionarios y/o contratistas? Seleccione las que apliquen. ",
@@ -586,27 +586,27 @@
               }
             }
           },
-          "6e58f7a5-2f06-40bb-81b9-74498f8af339": {
+          "706a1d66-2310-4ba2-9ea8-8b0d0bbe025c": {
             "index_id": "uuid_2021",
-            "parent_id": "e53c778f-6da4-4aae-b598-1d5d8372eab4",
+            "parent_id": "69d6276e-f6a3-4cb6-8a98-d62fd3b27fd7",
             "section_type_id": "VARIABLE",
             "title": "Variable 9",
             "description": "Cultura y liderazgo para la innovación pública",
             "display_order": 31,
             "peso": 5.0,
             "children": {
-              "28fe3538-e5c9-48a1-9b24-3f5e22544f37": {
+              "decc634c-d264-4932-989b-eaad86f0be37": {
                 "index_id": "uuid_2021",
-                "parent_id": "6e58f7a5-2f06-40bb-81b9-74498f8af339",
+                "parent_id": "706a1d66-2310-4ba2-9ea8-8b0d0bbe025c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 18",
                 "description": "Generación  y promoción de cultura para la innovación Pública",
                 "display_order": 31,
                 "peso": 2.8,
                 "questions": {
-                  "8d7e8207-bdcc-43a6-9729-282f47b08c1c": {
+                  "3d19fa29-df67-4a78-85a7-a98d4dc6a8a9": {
                     "index_id": "uuid_2021",
-                    "section_id": "28fe3538-e5c9-48a1-9b24-3f5e22544f37",
+                    "section_id": "decc634c-d264-4932-989b-eaad86f0be37",
                     "is_loop": "True",
                     "title": "Pregunta 23",
                     "description": "¿En su entidad se ha promovido o generado una cultura de innovación para funcionarios y contratistas?",
@@ -616,18 +616,18 @@
                   }
                 }
               },
-              "184876e2-c005-4c77-90b7-97233c59d6f0": {
+              "2a7871c0-eea5-4e67-9d50-e61f72281520": {
                 "index_id": "uuid_2021",
-                "parent_id": "6e58f7a5-2f06-40bb-81b9-74498f8af339",
+                "parent_id": "706a1d66-2310-4ba2-9ea8-8b0d0bbe025c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 19",
                 "description": "Gestión de cultura de la innovación",
                 "display_order": 32,
                 "peso": 1.1,
                 "questions": {
-                  "3cea1acc-4189-4eee-9443-56a4341df6e9": {
+                  "24cd8830-fdf0-43e9-8597-1ae3db3e49ac": {
                     "index_id": "uuid_2021",
-                    "section_id": "184876e2-c005-4c77-90b7-97233c59d6f0",
+                    "section_id": "2a7871c0-eea5-4e67-9d50-e61f72281520",
                     "is_loop": "True",
                     "title": "Pregunta 24",
                     "description": "¿ Su entidad generó espacios de experimentación, co-creación e/o incentivos dentro de sus funcionarios y contratista enfocados a la innovación?",
@@ -637,18 +637,18 @@
                   }
                 }
               },
-              "7b930017-378e-4ba8-9ec5-d31ea04e4a00": {
+              "828bfa36-6d75-484e-bab0-aa507d80ebb4": {
                 "index_id": "uuid_2021",
-                "parent_id": "6e58f7a5-2f06-40bb-81b9-74498f8af339",
+                "parent_id": "706a1d66-2310-4ba2-9ea8-8b0d0bbe025c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 20",
                 "description": "Identificación de liderazgos/facilitadores/ habilidades en funcionarios y contratistas relacionados con innovación pública",
                 "display_order": 33,
                 "peso": 1.1,
                 "questions": {
-                  "8a9092e0-117d-437c-927a-1d78bedca272": {
+                  "6798e367-31fe-42b0-b570-8980cbadde74": {
                     "index_id": "uuid_2021",
-                    "section_id": "7b930017-378e-4ba8-9ec5-d31ea04e4a00",
+                    "section_id": "828bfa36-6d75-484e-bab0-aa507d80ebb4",
                     "is_loop": "True",
                     "title": "Pregunta 25",
                     "description": "¿ Se han identificado liderazgos, facilitadores o habilidades dentro de sus funcionarios o contratistas que promuevan temas de  innovación en su entidad?",
@@ -662,7 +662,7 @@
           }
         }
       },
-      "0776b663-8945-4bf1-9fdf-a576b2261ca9": {
+      "1606b864-c657-4611-a938-46a56647d77a": {
         "index_id": "uuid_2021",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -671,27 +671,27 @@
         "display_order": 34,
         "peso": 25,
         "children": {
-          "ae1ef0c5-e013-454b-8437-48cb31edf0b1": {
+          "7207d83f-af19-4ad0-a78f-682d4150620a": {
             "index_id": "uuid_2021",
-            "parent_id": "0776b663-8945-4bf1-9fdf-a576b2261ca9",
+            "parent_id": "1606b864-c657-4611-a938-46a56647d77a",
             "section_type_id": "VARIABLE",
             "title": "Variable 10",
             "description": "Innovaciones Implementadas",
             "display_order": 34,
             "peso": 17.0,
             "children": {
-              "ca2be943-e74a-4f36-b72a-c29dad52f704": {
+              "ebe196b2-b65b-4210-850a-cf0ce71c517d": {
                 "index_id": "uuid_2021",
-                "parent_id": "ae1ef0c5-e013-454b-8437-48cb31edf0b1",
+                "parent_id": "7207d83f-af19-4ad0-a78f-682d4150620a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 21",
                 "description": "Implementación de innovaciones diseñadas.",
                 "display_order": 34,
                 "peso": 17.0,
                 "questions": {
-                  "657ac06d-7cc1-4dc8-9c43-b4660838e233": {
+                  "62bf820e-3b2d-41bb-9fb2-6b9d9dc77f8d": {
                     "index_id": "uuid_2021",
-                    "section_id": "ca2be943-e74a-4f36-b72a-c29dad52f704",
+                    "section_id": "ebe196b2-b65b-4210-850a-cf0ce71c517d",
                     "is_loop": "True",
                     "title": "Pregunta 26",
                     "description": "¿Alguna de las innovaciones diseñadas entre 2019 y 2020 fue implementada, o está en proceso de implementación actualmente?",
@@ -699,9 +699,9 @@
                     "required": "True",
                     "peso": 9.0
                   },
-                  "7c6d93d5-440e-4bd3-a8a9-93ac54ef684d": {
+                  "6d80e5df-c145-4def-8da6-643b625359d9": {
                     "index_id": "uuid_2021",
-                    "section_id": "ca2be943-e74a-4f36-b72a-c29dad52f704",
+                    "section_id": "ebe196b2-b65b-4210-850a-cf0ce71c517d",
                     "is_loop": "True",
                     "title": "Pregunta 26.1",
                     "description": "¿Cuántas innovaciones fueron implementadas o están en proceso de implementación?",
@@ -709,9 +709,9 @@
                     "required": "True",
                     "peso": 4.0
                   },
-                  "d33a8fa5-586e-41ab-9def-f7882e5c392e": {
+                  "682be61f-1f12-4307-8331-f3758a5e622e": {
                     "index_id": "uuid_2021",
-                    "section_id": "ca2be943-e74a-4f36-b72a-c29dad52f704",
+                    "section_id": "ebe196b2-b65b-4210-850a-cf0ce71c517d",
                     "is_loop": "True",
                     "title": "Pregunta 26.2",
                     "description": "De las innovaciones implementadas o en proceso de implementación, ¿cuántas fueron validadas con los usuarios?",
@@ -723,27 +723,27 @@
               }
             }
           },
-          "e860c05f-d4c4-4955-83bc-6e1240c82ab4": {
+          "dd474b04-9562-495c-8b91-07ea6cc22b51": {
             "index_id": "uuid_2021",
-            "parent_id": "0776b663-8945-4bf1-9fdf-a576b2261ca9",
+            "parent_id": "1606b864-c657-4611-a938-46a56647d77a",
             "section_type_id": "VARIABLE",
             "title": "Variable 11",
             "description": "Impacto en ciudadanos/usuarios por innovaciones implementadas",
             "display_order": 37,
             "peso": 2.0,
             "children": {
-              "aafe251f-821d-4152-a24d-b12db2e4b803": {
+              "f353157e-4d6a-4219-9e57-16cd5fecf15d": {
                 "index_id": "uuid_2021",
-                "parent_id": "e860c05f-d4c4-4955-83bc-6e1240c82ab4",
+                "parent_id": "dd474b04-9562-495c-8b91-07ea6cc22b51",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 22",
                 "description": "Impacto ciudadano/usuarios beneficiados por innovaciones implementadas",
                 "display_order": 37,
                 "peso": 1.0,
                 "questions": {
-                  "f0ea8250-0dab-4834-944c-ca42e8569244": {
+                  "4c6eac5e-618d-41c5-a616-2429af6b0c4f": {
                     "index_id": "uuid_2021",
-                    "section_id": "aafe251f-821d-4152-a24d-b12db2e4b803",
+                    "section_id": "f353157e-4d6a-4219-9e57-16cd5fecf15d",
                     "is_loop": "True",
                     "title": "Pregunta 27",
                     "description": "¿ Las innovaciones implementadas o en proceso de implementación de su entidad estuvieron orientadas a impactar y/o beneficiar directamente a los ciudadanos/usuarios?",
@@ -753,18 +753,18 @@
                   }
                 }
               },
-              "981f7ab1-d8b5-44d5-ab7f-b4aa98210550": {
+              "073f6d8d-0509-46d7-a977-355561c827c3": {
                 "index_id": "uuid_2021",
-                "parent_id": "e860c05f-d4c4-4955-83bc-6e1240c82ab4",
+                "parent_id": "dd474b04-9562-495c-8b91-07ea6cc22b51",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 23",
                 "description": "Numero de ciudadanos/usuarios beneficiados por implementación de innovaciones",
                 "display_order": 38,
                 "peso": 1.0,
                 "questions": {
-                  "65c32938-b422-48d1-a788-9140581face4": {
+                  "c239768a-ea17-42b2-ab0c-d85a2d876b41": {
                     "index_id": "uuid_2021",
-                    "section_id": "981f7ab1-d8b5-44d5-ab7f-b4aa98210550",
+                    "section_id": "073f6d8d-0509-46d7-a977-355561c827c3",
                     "is_loop": "True",
                     "title": "Pregunta 28",
                     "description": "¿Cuántos ciudadanos/usuarios fueron beneficiados o potencialmente beneficiarios por implementación de innovación(es)?",
@@ -776,27 +776,27 @@
               }
             }
           },
-          "edbcc464-a24c-4952-a65c-4e897a1f2842": {
+          "5e41ae7c-9f87-4f09-b202-ab127ae81f1b": {
             "index_id": "uuid_2021",
-            "parent_id": "0776b663-8945-4bf1-9fdf-a576b2261ca9",
+            "parent_id": "1606b864-c657-4611-a938-46a56647d77a",
             "section_type_id": "VARIABLE",
             "title": "Variable 12",
             "description": "Ahorro de recursos por innovaciones implementadas",
             "display_order": 39,
             "peso": 1.5,
             "children": {
-              "aa0bd7a9-e50b-41b3-bf94-bcd47f9c9a09": {
+              "309d165e-f1b6-4366-99dc-39ee45ed73d4": {
                 "index_id": "uuid_2021",
-                "parent_id": "edbcc464-a24c-4952-a65c-4e897a1f2842",
+                "parent_id": "5e41ae7c-9f87-4f09-b202-ab127ae81f1b",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 24",
                 "description": "Ahorro de recursos  por implementación  de innovación",
                 "display_order": 39,
                 "peso": 1.5,
                 "questions": {
-                  "502596ed-8d59-40c2-80b7-9b546f185efb": {
+                  "cf9c5114-aede-4026-b335-4ffcb67aa49f": {
                     "index_id": "uuid_2021",
-                    "section_id": "aa0bd7a9-e50b-41b3-bf94-bcd47f9c9a09",
+                    "section_id": "309d165e-f1b6-4366-99dc-39ee45ed73d4",
                     "is_loop": "True",
                     "title": "Pregunta 29",
                     "description": "¿La entidad tuvo un ahorro de recursos derivado de las innovaciones implementadas?",
@@ -808,27 +808,27 @@
               }
             }
           },
-          "ab090374-c135-4afa-ae9b-23b670f90eac": {
+          "3b51bf20-d9e0-4f7e-9543-65bc4ab9ccf9": {
             "index_id": "uuid_2021",
-            "parent_id": "0776b663-8945-4bf1-9fdf-a576b2261ca9",
+            "parent_id": "1606b864-c657-4611-a938-46a56647d77a",
             "section_type_id": "VARIABLE",
             "title": "Variable 13",
             "description": "Generación de capacidades en innovación para funcionarios y/o contratistas",
             "display_order": 40,
             "peso": 4.5,
             "children": {
-              "d0583877-6d27-4137-bae2-42855fa94c32": {
+              "877ebdb2-a9b1-4b97-91d3-47c86a6d8a67": {
                 "index_id": "uuid_2021",
-                "parent_id": "ab090374-c135-4afa-ae9b-23b670f90eac",
+                "parent_id": "3b51bf20-d9e0-4f7e-9543-65bc4ab9ccf9",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 25",
                 "description": "Porcentaje de funcionarios formados a partir de procesos de generación de capacidades en innovación.",
                 "display_order": 40,
                 "peso": 2.2,
                 "questions": {
-                  "0a91eab8-9914-4327-bb87-e4f97bbc6c1f": {
+                  "75f7d217-94dc-4e9e-91b1-4965b3d40767": {
                     "index_id": "uuid_2021",
-                    "section_id": "d0583877-6d27-4137-bae2-42855fa94c32",
+                    "section_id": "877ebdb2-a9b1-4b97-91d3-47c86a6d8a67",
                     "is_loop": "True",
                     "title": "Pregunta 30",
                     "description": "¿Cuántos funcionarios recibieron formación en temas de innovación? ",
@@ -838,18 +838,18 @@
                   }
                 }
               },
-              "41a1b34a-00ee-4c7a-8b8c-a3465899aee8": {
+              "dae88769-0f78-448c-adfc-c65a6914ff72": {
                 "index_id": "uuid_2021",
-                "parent_id": "ab090374-c135-4afa-ae9b-23b670f90eac",
+                "parent_id": "3b51bf20-d9e0-4f7e-9543-65bc4ab9ccf9",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 26",
                 "description": "Porcentaje de contratistas formados a partir de procesos de generación de capacidades en innovación.",
                 "display_order": 41,
                 "peso": 2.3,
                 "questions": {
-                  "6e7b42cc-230a-4381-ae40-d569fd08ad38": {
+                  "2eeeb91c-4f2b-45b0-8a2c-a78b6ee01190": {
                     "index_id": "uuid_2021",
-                    "section_id": "41a1b34a-00ee-4c7a-8b8c-a3465899aee8",
+                    "section_id": "dae88769-0f78-448c-adfc-c65a6914ff72",
                     "is_loop": "True",
                     "title": "Pregunta 31",
                     "description": "¿Cuántos contratistas recibieron formación en temas de innovación?",
@@ -863,7 +863,7 @@
           }
         }
       },
-      "4d974be0-89a9-4c59-be98-5554a48d142a": {
+      "e230c7ce-3859-4853-b509-950ba681d9b3": {
         "index_id": "uuid_2021",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -872,27 +872,27 @@
         "display_order": 42,
         "peso": 15,
         "children": {
-          "b3cb016f-2d0d-4e03-b34c-945e8b242102": {
+          "7b883cff-09bd-41f5-9a42-7ebd12370af0": {
             "index_id": "uuid_2021",
-            "parent_id": "4d974be0-89a9-4c59-be98-5554a48d142a",
+            "parent_id": "e230c7ce-3859-4853-b509-950ba681d9b3",
             "section_type_id": "VARIABLE",
             "title": "Variable 14",
             "description": "Gestión del conocimiento en la Capacidad Institucional",
             "display_order": 42,
             "peso": 3.0,
             "children": {
-              "9b8528c0-77ef-4ab9-be3e-16166808428b": {
+              "b2083da6-6d72-47ef-a530-1d6d8a5085e7": {
                 "index_id": "uuid_2021",
-                "parent_id": "b3cb016f-2d0d-4e03-b34c-945e8b242102",
+                "parent_id": "7b883cff-09bd-41f5-9a42-7ebd12370af0",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 27",
                 "description": "Creación y Organización: Existencia dentro de los soportes normativos de creación y organización de la instituciónde acciones de gestión del conocimiento (Sin Calificación)",
                 "display_order": 42,
                 "peso": 0.0,
                 "questions": {
-                  "f7cdbeb0-214d-4bec-8be5-1f17f5f365fc": {
+                  "e2195094-120e-4439-baa6-d337ecf81c17": {
                     "index_id": "uuid_2021",
-                    "section_id": "9b8528c0-77ef-4ab9-be3e-16166808428b",
+                    "section_id": "b2083da6-6d72-47ef-a530-1d6d8a5085e7",
                     "is_loop": "True",
                     "title": "Pregunta 32",
                     "description": "Desde su creación hasta el 31 de diciembre de 2020, ¿existen acuerdos y/o actos administrativos de su entidad relacionados con la gestión del conocimiento?",
@@ -902,18 +902,18 @@
                   }
                 }
               },
-              "95b08270-c372-4727-a995-897a558c9471": {
+              "e011ba64-3af3-4a0d-887d-6547e9f653f7": {
                 "index_id": "uuid_2021",
-                "parent_id": "b3cb016f-2d0d-4e03-b34c-945e8b242102",
+                "parent_id": "7b883cff-09bd-41f5-9a42-7ebd12370af0",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 28",
                 "description": "Planeación Estratégica: Existencia dentro de la planeación estratégica de la institución de acciones de gestión del conocimiento",
                 "display_order": 43,
                 "peso": 3.0,
                 "questions": {
-                  "64b8e890-802c-4136-b8c5-aad586e5576f": {
+                  "ae38a8bb-3434-4e46-9486-fccaf6ae7fd7": {
                     "index_id": "uuid_2021",
-                    "section_id": "95b08270-c372-4727-a995-897a558c9471",
+                    "section_id": "e011ba64-3af3-4a0d-887d-6547e9f653f7",
                     "is_loop": "True",
                     "title": "Pregunta 33",
                     "description": "¿Existen dentro de la planeación estratégica de la entidad enfoques / líneas / componentes / proyectos / programas o planes entre 2019 y 2020 relacionados con la gestión del conocimiento? ",
@@ -925,27 +925,27 @@
               }
             }
           },
-          "d4f587ad-8c35-412c-aaf4-acb2530d07b0": {
+          "7723f01c-2e4a-4b81-852c-8a6e3333c90c": {
             "index_id": "uuid_2021",
-            "parent_id": "4d974be0-89a9-4c59-be98-5554a48d142a",
+            "parent_id": "e230c7ce-3859-4853-b509-950ba681d9b3",
             "section_type_id": "VARIABLE",
             "title": "Variable 15",
             "description": "Gestión del conocimiento en los Procesos y Procedimientos",
             "display_order": 44,
             "peso": 6.0,
             "children": {
-              "15e103c0-0769-4bb6-9e3d-dcc905295e37": {
+              "f33ab19b-a515-41ee-9615-2f1177fd38ed": {
                 "index_id": "uuid_2021",
-                "parent_id": "d4f587ad-8c35-412c-aaf4-acb2530d07b0",
+                "parent_id": "7723f01c-2e4a-4b81-852c-8a6e3333c90c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 29",
                 "description": "Publicación de la sistematización de información sobre procesos de identificación de problemas con ciudadanos",
                 "display_order": 44,
                 "peso": 1.2,
                 "questions": {
-                  "cc6c0abc-6f82-4041-bd8a-099959c1dac3": {
+                  "cf90bbdc-8da5-4fbe-990e-a1ef545fcda6": {
                     "index_id": "uuid_2021",
-                    "section_id": "15e103c0-0769-4bb6-9e3d-dcc905295e37",
+                    "section_id": "f33ab19b-a515-41ee-9615-2f1177fd38ed",
                     "is_loop": "True",
                     "title": "Pregunta 34",
                     "description": "¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de identificación de retos o áreas de oportunidad con la ciudadanía provenientes de los canales y/o actividades mencionados en las preguntas 14, 15  y 17?",
@@ -955,18 +955,18 @@
                   }
                 }
               },
-              "d76c3b14-74a1-42a7-a479-c3f508534fcc": {
+              "69aa7fa1-7d14-4667-bef9-1a566bfb9996": {
                 "index_id": "uuid_2021",
-                "parent_id": "d4f587ad-8c35-412c-aaf4-acb2530d07b0",
+                "parent_id": "7723f01c-2e4a-4b81-852c-8a6e3333c90c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 30",
                 "description": "Publicación de la sistematización de información sobre procesos de identificación de problemas con servidores públicos",
                 "display_order": 45,
                 "peso": 0.96,
                 "questions": {
-                  "709ad0a3-4666-4df9-bad1-f83fd6a68414": {
+                  "584b45de-dbec-446e-ba23-a8c11aa9b71f": {
                     "index_id": "uuid_2021",
-                    "section_id": "d76c3b14-74a1-42a7-a479-c3f508534fcc",
+                    "section_id": "69aa7fa1-7d14-4667-bef9-1a566bfb9996",
                     "is_loop": "True",
                     "title": "Pregunta 35",
                     "description": "¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de identificación de retos o áreas de oportunidad con los funcionarios y/o contratistas de su entidad provenientes de los canales y/o actividades mencionados en las preguntas 16 y 17?",
@@ -976,18 +976,18 @@
                   }
                 }
               },
-              "76004901-e0cf-46c6-866c-7e167c11d53b": {
+              "0de870ad-4762-4074-bc05-ba58251751a9": {
                 "index_id": "uuid_2021",
-                "parent_id": "d4f587ad-8c35-412c-aaf4-acb2530d07b0",
+                "parent_id": "7723f01c-2e4a-4b81-852c-8a6e3333c90c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 31",
                 "description": "Publicación de la sistematización de información sobre procesos de generación de ideas con ciudadanos",
                 "display_order": 46,
                 "peso": 0.96,
                 "questions": {
-                  "5bcedfaf-79d1-4ad2-bc6f-0d84d33b3fbc": {
+                  "37fb2684-bec1-4327-8c7e-c82741fe13c0": {
                     "index_id": "uuid_2021",
-                    "section_id": "76004901-e0cf-46c6-866c-7e167c11d53b",
+                    "section_id": "0de870ad-4762-4074-bc05-ba58251751a9",
                     "is_loop": "True",
                     "title": "Pregunta 36",
                     "description": "¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de la recepción y generación de ideas con la ciudadanía provenientes de los canales y/o actividades mencionados en las preguntas 20, 21 y 22?",
@@ -997,18 +997,18 @@
                   }
                 }
               },
-              "5fe899cc-1ef7-41f0-9339-4624d2d28179": {
+              "4868aa26-50a3-4ae5-a40e-26ec7bd6f43c": {
                 "index_id": "uuid_2021",
-                "parent_id": "d4f587ad-8c35-412c-aaf4-acb2530d07b0",
+                "parent_id": "7723f01c-2e4a-4b81-852c-8a6e3333c90c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 32",
                 "description": "Publicación de la sistematización de información sobre procesos de generación de ideas con servidores públicos",
                 "display_order": 47,
                 "peso": 0.96,
                 "questions": {
-                  "f72f6cca-5da1-4e5d-aff2-7bfc5a7860c0": {
+                  "81e82298-d395-4575-b901-f87358b3b27d": {
                     "index_id": "uuid_2021",
-                    "section_id": "5fe899cc-1ef7-41f0-9339-4624d2d28179",
+                    "section_id": "4868aa26-50a3-4ae5-a40e-26ec7bd6f43c",
                     "is_loop": "True",
                     "title": "Pregunta 37",
                     "description": "¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de la recepción y generación de ideas con los funcionarios y/o contratistas de su entidad provenientes de los canales y/o actividades mencionados en las preguntas 20, 21 y 22?",
@@ -1018,18 +1018,18 @@
                   }
                 }
               },
-              "b07cf418-1ae4-496f-a60b-67eecee2a371": {
+              "63236c59-87d4-40f1-a623-bad5438895fa": {
                 "index_id": "uuid_2021",
-                "parent_id": "d4f587ad-8c35-412c-aaf4-acb2530d07b0",
+                "parent_id": "7723f01c-2e4a-4b81-852c-8a6e3333c90c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 33",
                 "description": "Documentación de buenas prácticas y lecciones aprendidas identificadas en los procesos de innovación",
                 "display_order": 48,
                 "peso": 0.96,
                 "questions": {
-                  "2697532f-f679-44d8-8ada-e9d7c348962f": {
+                  "03fc0a90-5cd7-4afc-b5b7-699f0b82ca5d": {
                     "index_id": "uuid_2021",
-                    "section_id": "b07cf418-1ae4-496f-a60b-67eecee2a371",
+                    "section_id": "63236c59-87d4-40f1-a623-bad5438895fa",
                     "is_loop": "True",
                     "title": "Pregunta 38",
                     "description": "¿Su entidad desarrolló algún tipo de documento encaminado a identificar y sistematizar lecciones aprendidas y buenas prácticas sobre las acciones de innovación desarrolladas por su entidad?",
@@ -1039,18 +1039,18 @@
                   }
                 }
               },
-              "828d91c2-0e94-4f8b-a9e6-18c4aa40135c": {
+              "724db0c8-581b-4e2f-a3c4-9917c20c6552": {
                 "index_id": "uuid_2021",
-                "parent_id": "d4f587ad-8c35-412c-aaf4-acb2530d07b0",
+                "parent_id": "7723f01c-2e4a-4b81-852c-8a6e3333c90c",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 34",
                 "description": "Documentación de buenas prácticas y lecciones aprendidas de las acciones de la entidad",
                 "display_order": 49,
                 "peso": 0.96,
                 "questions": {
-                  "8ef8ae09-d639-4ed3-8e74-64d4f4a35cba": {
+                  "42f79091-fa26-40f5-b5ba-2e122ae8c54c": {
                     "index_id": "uuid_2021",
-                    "section_id": "828d91c2-0e94-4f8b-a9e6-18c4aa40135c",
+                    "section_id": "724db0c8-581b-4e2f-a3c4-9917c20c6552",
                     "is_loop": "True",
                     "title": "Pregunta 39",
                     "description": "¿Su entidad desarrolló algún tipo de documento encaminado a identificar y sistematizar lecciones aprendidas y buenas prácticas sobre las acciones de su entidad?",
@@ -1062,27 +1062,27 @@
               }
             }
           },
-          "295bfbcc-abae-4153-b91c-1b123f3fb2f9": {
+          "077c5aba-a59a-43ee-bef5-0fb7c7efb4dd": {
             "index_id": "uuid_2021",
-            "parent_id": "4d974be0-89a9-4c59-be98-5554a48d142a",
+            "parent_id": "e230c7ce-3859-4853-b509-950ba681d9b3",
             "section_type_id": "VARIABLE",
             "title": "Variable 16",
             "description": "Gestión del conocimiento en los Resultados",
             "display_order": 50,
             "peso": 6.0,
             "children": {
-              "4fd3563a-8302-43a1-a3f9-47a084fba26b": {
+              "0f703174-2ff7-4d4b-a3fb-37fbeb98fd8d": {
                 "index_id": "uuid_2021",
-                "parent_id": "295bfbcc-abae-4153-b91c-1b123f3fb2f9",
+                "parent_id": "077c5aba-a59a-43ee-bef5-0fb7c7efb4dd",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 35",
                 "description": "Monitoreo y seguimiento de innovaciones implementadas",
                 "display_order": 50,
                 "peso": 6.0,
                 "questions": {
-                  "dc7acbc9-aeca-4429-84ee-04afd8bfad30": {
+                  "45a4d18c-7f5d-4b86-a915-a2e1c7d1b15e": {
                     "index_id": "uuid_2021",
-                    "section_id": "4fd3563a-8302-43a1-a3f9-47a084fba26b",
+                    "section_id": "0f703174-2ff7-4d4b-a3fb-37fbeb98fd8d",
                     "is_loop": "True",
                     "title": "Pregunta 40",
                     "description": "¿Su entidad desarrolló algún documento o matriz para hacer monitoreo y seguimiento a las innovaciones implementadas? ",
@@ -1101,7 +1101,7 @@
   "uuid_2023": {
     "anno": "2023",
     "children": {
-      "2c98e9f8-459e-44f3-8e6f-5b6afdbf52a6": {
+      "e8708619-6b06-45c4-aedd-90525e40c24f": {
         "index_id": "uuid_2023",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -1110,27 +1110,27 @@
         "display_order": 1,
         "peso": 25,
         "children": {
-          "37bd11fa-4328-4b50-806d-a0b3150001b1": {
+          "70ef48d5-5520-47be-ae3f-32b675a47055": {
             "index_id": "uuid_2023",
-            "parent_id": "2c98e9f8-459e-44f3-8e6f-5b6afdbf52a6",
+            "parent_id": "e8708619-6b06-45c4-aedd-90525e40c24f",
             "section_type_id": "VARIABLE",
             "title": "Variable 1",
             "description": "Planeación",
             "display_order": 1,
             "peso": 4.0,
             "children": {
-              "552a2a23-cd44-4ad7-bd53-4642e88c9ac5": {
+              "15a1d610-ba20-484a-be55-e0071aa2dca6": {
                 "index_id": "uuid_2023",
-                "parent_id": "37bd11fa-4328-4b50-806d-a0b3150001b1",
+                "parent_id": "70ef48d5-5520-47be-ae3f-32b675a47055",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 1",
                 "description": "Creación y Organización: Existencia dentro de los soportes normativos de creación y organización de la institución de un discurso relacionado con la definición de innovación pública (Sin Calificación)",
                 "display_order": 1,
                 "peso": 0.0,
                 "questions": {
-                  "0d01959a-b5c8-4b0e-953f-a8d04dc21f52": {
+                  "2227aafb-2496-4416-b683-a57030d133f8": {
                     "index_id": "uuid_2023",
-                    "section_id": "552a2a23-cd44-4ad7-bd53-4642e88c9ac5",
+                    "section_id": "15a1d610-ba20-484a-be55-e0071aa2dca6",
                     "is_loop": "True",
                     "title": "Pregunta 1",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿existen o existieron acuerdos y/o actos administrativos de su entidad relacionados con el concepto de innovación pública?",
@@ -1140,18 +1140,18 @@
                   }
                 }
               },
-              "fbadd4a3-430c-403b-beb8-138d3f676600": {
+              "c97fad06-47fd-40cf-a112-1dbc624a112e": {
                 "index_id": "uuid_2023",
-                "parent_id": "37bd11fa-4328-4b50-806d-a0b3150001b1",
+                "parent_id": "70ef48d5-5520-47be-ae3f-32b675a47055",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 2",
                 "description": "Planeación Estratégica: Existencia dentro de la planeación estratégica de la institución de una relación con el concepto de innovación pública",
                 "display_order": 2,
                 "peso": 4.0,
                 "questions": {
-                  "fd162d88-6a87-4676-9adf-f23577eb2813": {
+                  "03b8c608-8ea3-4566-b39f-b38aa956ca5a": {
                     "index_id": "uuid_2023",
-                    "section_id": "fbadd4a3-430c-403b-beb8-138d3f676600",
+                    "section_id": "c97fad06-47fd-40cf-a112-1dbc624a112e",
                     "is_loop": "True",
                     "title": "Pregunta 2",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Existen o existieron dentro de la planeación estratégica de su entidad enfoques / líneas / componentes / proyectos / programas o planes relacionados con el concepto de innovación pública?",
@@ -1163,27 +1163,27 @@
               }
             }
           },
-          "f1f4d39b-ebfa-48c7-8d3e-10786831dd75": {
+          "aa1084a9-0542-4a71-83e2-25b6162218b6": {
             "index_id": "uuid_2023",
-            "parent_id": "2c98e9f8-459e-44f3-8e6f-5b6afdbf52a6",
+            "parent_id": "e8708619-6b06-45c4-aedd-90525e40c24f",
             "section_type_id": "VARIABLE",
             "title": "Variable 2",
             "description": "Recursos Presupuestales",
             "display_order": 3,
             "peso": 7.7,
             "children": {
-              "73072a7a-ebe6-4acb-93f5-7d41b72c65fd": {
+              "8ef025ee-354b-489a-af57-cc11c71868d4": {
                 "index_id": "uuid_2023",
-                "parent_id": "f1f4d39b-ebfa-48c7-8d3e-10786831dd75",
+                "parent_id": "aa1084a9-0542-4a71-83e2-25b6162218b6",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 3",
                 "description": "Recursos Anuales de Funcionamiento: Porcentaje de recursos anuales de funcionamiento ejecutados en temas de innovación pública",
                 "display_order": 3,
                 "peso": 4.0,
                 "questions": {
-                  "6ee986fc-403e-493f-a596-8b76ee4798b7": {
+                  "1468ee05-006d-4aa4-bb99-5a2df0cb46ea": {
                     "index_id": "uuid_2023",
-                    "section_id": "73072a7a-ebe6-4acb-93f5-7d41b72c65fd",
+                    "section_id": "8ef025ee-354b-489a-af57-cc11c71868d4",
                     "is_loop": "True",
                     "title": "Pregunta 3",
                     "description": "¿Cuál fue el valor del presupuesto general de funcionamiento de su entidad ejecutado entre el 01 de enero de 2021 y el 31 de diciembre de 2022?\n\nDiscrimine por año.",
@@ -1191,9 +1191,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "9aa071b3-4847-4a05-b4bd-90876371cbe7": {
+                  "12fe6d08-2207-4995-a02a-601b61cc607b": {
                     "index_id": "uuid_2023",
-                    "section_id": "73072a7a-ebe6-4acb-93f5-7d41b72c65fd",
+                    "section_id": "8ef025ee-354b-489a-af57-cc11c71868d4",
                     "is_loop": "True",
                     "title": "Pregunta 4",
                     "description": "¿Cuál fue el valor del presupuesto de funcionamiento ejecutado en temas de innovación pública entre el 01 de enero de 2021 y el 31 de diciembre de 2022? \n\nDiscrimine por año.",
@@ -1203,18 +1203,18 @@
                   }
                 }
               },
-              "1d158917-af61-412e-846f-3f1f9f616c65": {
+              "f41d7bc8-7e60-4df5-a072-5d504459d55c": {
                 "index_id": "uuid_2023",
-                "parent_id": "f1f4d39b-ebfa-48c7-8d3e-10786831dd75",
+                "parent_id": "aa1084a9-0542-4a71-83e2-25b6162218b6",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 4",
                 "description": "Porcentaje de recursos anuales de inversión ejecutados en temas de innovación pública",
                 "display_order": 5,
                 "peso": 3.7,
                 "questions": {
-                  "b971ecd1-f6ad-453c-8dc4-a72295814ed0": {
+                  "206819f6-4ee9-4f41-b92c-c356e48cc121": {
                     "index_id": "uuid_2023",
-                    "section_id": "1d158917-af61-412e-846f-3f1f9f616c65",
+                    "section_id": "f41d7bc8-7e60-4df5-a072-5d504459d55c",
                     "is_loop": "True",
                     "title": "Pregunta 5",
                     "description": "¿Cuál fue el valor del presupuesto general de inversión de su entidad ejecutado entre el 01 de enero de 2021 y el 31 de diciembre de 2022? Discrimine por año",
@@ -1222,9 +1222,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "9b6c2e28-229b-4575-b497-334269b2f73c": {
+                  "05772ee6-878f-49a6-ae7d-0e77656f756a": {
                     "index_id": "uuid_2023",
-                    "section_id": "1d158917-af61-412e-846f-3f1f9f616c65",
+                    "section_id": "f41d7bc8-7e60-4df5-a072-5d504459d55c",
                     "is_loop": "True",
                     "title": "Pregunta 6",
                     "description": "¿Cuál fue el valor del presupuesto de inversión ejecutado en temas de innovación pública entre el 01 de enero de 2021 y el 31 de diciembre de 2022? Discrimine por año.",
@@ -1236,27 +1236,27 @@
               }
             }
           },
-          "7bcf79c6-fafe-4796-b00f-597105639d33": {
+          "ba7dda4e-f7a7-40e7-b8f0-81c7fbb2a58a": {
             "index_id": "uuid_2023",
-            "parent_id": "2c98e9f8-459e-44f3-8e6f-5b6afdbf52a6",
+            "parent_id": "e8708619-6b06-45c4-aedd-90525e40c24f",
             "section_type_id": "VARIABLE",
             "title": "Variable 3",
             "description": "Recursos Humanos",
             "display_order": 7,
             "peso": 8.7,
             "children": {
-              "e5f54058-0ca2-4244-9315-36f24642dd79": {
+              "8472a100-a0c4-4b7b-9895-87ed202de287": {
                 "index_id": "uuid_2023",
-                "parent_id": "7bcf79c6-fafe-4796-b00f-597105639d33",
+                "parent_id": "ba7dda4e-f7a7-40e7-b8f0-81c7fbb2a58a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 5",
                 "description": "Porcentaje de funcionarios relacionados con temas de innovación pública.",
                 "display_order": 7,
                 "peso": 4.0,
                 "questions": {
-                  "2bb2de62-7e44-40ad-b8cc-3f0a9fe5d044": {
+                  "c0291e9e-3b72-491d-94c3-7169dda6b402": {
                     "index_id": "uuid_2023",
-                    "section_id": "e5f54058-0ca2-4244-9315-36f24642dd79",
+                    "section_id": "8472a100-a0c4-4b7b-9895-87ed202de287",
                     "is_loop": "True",
                     "title": "Pregunta 7",
                     "description": "¿Cuál fue el número total de funcionarios que trabajaron en su entidad entre el 01 de enero de 2021 y el 31 de diciembre de 2022?",
@@ -1264,9 +1264,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "37a4c6ba-3cfd-4764-a36f-5b6d7f7a5c41": {
+                  "6f00ac2d-5209-487a-beea-5c1831dcb11b": {
                     "index_id": "uuid_2023",
-                    "section_id": "e5f54058-0ca2-4244-9315-36f24642dd79",
+                    "section_id": "8472a100-a0c4-4b7b-9895-87ed202de287",
                     "is_loop": "True",
                     "title": "Pregunta 8",
                     "description": "¿Cuál fue el número total de funcionarios que trabajaron en su entidad entre el 01 de enero de 2021 y el 31 de diciembre de 2022 que por su manual de funciones estuvieron relacionados directamente a temas de innovación pública?",
@@ -1274,9 +1274,9 @@
                     "required": "True",
                     "peso": 4.0
                   },
-                  "04628f73-16c1-4c04-a8ac-07eac23fc7ba": {
+                  "c3e29ce7-010a-4243-96f7-7dcae99fdf7b": {
                     "index_id": "uuid_2023",
-                    "section_id": "e5f54058-0ca2-4244-9315-36f24642dd79",
+                    "section_id": "8472a100-a0c4-4b7b-9895-87ed202de287",
                     "is_loop": "True",
                     "title": "Pregunta 9",
                     "description": "¿Cuál fue el número total de funcionarios que trabajaron en su entidad entre el 01 de enero de 2021 y el 31 de diciembre de 2022 que participaron de manera ocasional en alguna actividad relacionada a temas de innovación pública?",
@@ -1286,18 +1286,18 @@
                   }
                 }
               },
-              "9f5048ad-ce46-4c7a-9e84-dd40c712c27e": {
+              "f7a4d791-f910-4944-a87d-51c248a4a81d": {
                 "index_id": "uuid_2023",
-                "parent_id": "7bcf79c6-fafe-4796-b00f-597105639d33",
+                "parent_id": "ba7dda4e-f7a7-40e7-b8f0-81c7fbb2a58a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 6",
                 "description": "Porcentaje de contratistas dedicados a temas de innovación pública.",
                 "display_order": 10,
                 "peso": 4.7,
                 "questions": {
-                  "af3b1d06-4509-4be8-b37e-e50b3693b948": {
+                  "511a510e-1fdf-4987-be7e-9102a8ca81dc": {
                     "index_id": "uuid_2023",
-                    "section_id": "9f5048ad-ce46-4c7a-9e84-dd40c712c27e",
+                    "section_id": "f7a4d791-f910-4944-a87d-51c248a4a81d",
                     "is_loop": "True",
                     "title": "Pregunta 10",
                     "description": "¿Cuál fue el número total de contratistas que prestaron sus servicios en su entidad entre el 01 de enero de 2021 y el 31 de diciembre de 2022?",
@@ -1305,9 +1305,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "bc50599d-82f6-4590-913a-5521e5b03f53": {
+                  "18ac62b3-3f61-454a-bc4d-18dfa1fdd02a": {
                     "index_id": "uuid_2023",
-                    "section_id": "9f5048ad-ce46-4c7a-9e84-dd40c712c27e",
+                    "section_id": "f7a4d791-f910-4944-a87d-51c248a4a81d",
                     "is_loop": "True",
                     "title": "Pregunta 11",
                     "description": "¿Cuál fue el número total de contratistas que prestaron sus servicios en su entidad entre el 01 de enero de 2021 y el 31 de diciembre de 2022 dedicados directamente a temas de innovación pública?",
@@ -1315,9 +1315,9 @@
                     "required": "True",
                     "peso": 4.7
                   },
-                  "cb5ea981-13ce-4d9b-b481-866483c49435": {
+                  "d7023d5b-c4be-493f-9b27-cf2b21512e3e": {
                     "index_id": "uuid_2023",
-                    "section_id": "9f5048ad-ce46-4c7a-9e84-dd40c712c27e",
+                    "section_id": "f7a4d791-f910-4944-a87d-51c248a4a81d",
                     "is_loop": "True",
                     "title": "Pregunta 12",
                     "description": "¿Cuál fue el número total de contratistas que prestaron sus servicios en su entidad entre el 01 de enero de 2021 y el 31 de diciembre de 2022 que participaron de manera ocasional en alguna actividad relacionada a temas de innovación pública?",
@@ -1329,27 +1329,27 @@
               }
             }
           },
-          "58f15c81-8b8f-4c44-8d7a-35723bdf7887": {
+          "2978ab4f-c848-4462-8123-64d4b6d82d5f": {
             "index_id": "uuid_2023",
-            "parent_id": "2c98e9f8-459e-44f3-8e6f-5b6afdbf52a6",
+            "parent_id": "e8708619-6b06-45c4-aedd-90525e40c24f",
             "section_type_id": "VARIABLE",
             "title": "Variable 4",
             "description": "Recursos digitales",
             "display_order": 13,
             "peso": 4.6,
             "children": {
-              "1e1d8802-e4ba-45ad-981e-90fc466e32a5": {
+              "70373adb-89bb-4f0c-9c18-051f565183a2": {
                 "index_id": "uuid_2023",
-                "parent_id": "58f15c81-8b8f-4c44-8d7a-35723bdf7887",
+                "parent_id": "2978ab4f-c848-4462-8123-64d4b6d82d5f",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 7",
                 "description": "Recursos digitales para la innovación",
                 "display_order": 13,
                 "peso": 4.6,
                 "questions": {
-                  "8b7fb0b3-c60d-4ff1-a75f-05115dd68617": {
+                  "f4a7fa83-4070-4554-adc0-86fa8e200a72": {
                     "index_id": "uuid_2023",
-                    "section_id": "1e1d8802-e4ba-45ad-981e-90fc466e32a5",
+                    "section_id": "70373adb-89bb-4f0c-9c18-051f565183a2",
                     "is_loop": "True",
                     "title": "Pregunta 13",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad adquirió recursos digitales como habilitantes de la innovación?",
@@ -1363,7 +1363,7 @@
           }
         }
       },
-      "b4c33706-3554-4eb6-9d3e-a97f899db8fc": {
+      "405df7c2-2d37-471f-83fe-316afe801fe7": {
         "index_id": "uuid_2023",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -1372,27 +1372,27 @@
         "display_order": 14,
         "peso": 35,
         "children": {
-          "ed3d2e01-c662-47b8-9eb9-32e6b8200be8": {
+          "44e24010-9a98-45a8-b0a2-c5a4b01c629a": {
             "index_id": "uuid_2023",
-            "parent_id": "b4c33706-3554-4eb6-9d3e-a97f899db8fc",
+            "parent_id": "405df7c2-2d37-471f-83fe-316afe801fe7",
             "section_type_id": "VARIABLE",
             "title": "Variable 5",
             "description": "Proceso de identificación y uso de retos o áreas de oportunidad",
             "display_order": 14,
             "peso": 9.0,
             "children": {
-              "266a1826-ffa6-4257-a92d-e0bcb7a0e8c8": {
+              "0ddb15ec-f279-44a0-a828-ba321d1012f5": {
                 "index_id": "uuid_2023",
-                "parent_id": "ed3d2e01-c662-47b8-9eb9-32e6b8200be8",
+                "parent_id": "44e24010-9a98-45a8-b0a2-c5a4b01c629a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 8",
                 "description": "Uso de información recolectada a partir del SDQS",
                 "display_order": 14,
                 "peso": 2.8,
                 "questions": {
-                  "98238790-e087-43c8-b7fc-45fe56c9adac": {
+                  "7a002b5f-5b87-45d3-aa11-2a780924fdc8": {
                     "index_id": "uuid_2023",
-                    "section_id": "266a1826-ffa6-4257-a92d-e0bcb7a0e8c8",
+                    "section_id": "0ddb15ec-f279-44a0-a828-ba321d1012f5",
                     "is_loop": "True",
                     "title": "Pregunta 14",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad encontró retos o áreas de oportunidad para abordar desde la innovación gracias a \"Bogotá te Escucha\"?",
@@ -1402,18 +1402,18 @@
                   }
                 }
               },
-              "97529f38-a897-4667-8ff8-0bbeb8f1bdee": {
+              "8f469c29-4732-48d9-aa9c-7989ccd27a7e": {
                 "index_id": "uuid_2023",
-                "parent_id": "ed3d2e01-c662-47b8-9eb9-32e6b8200be8",
+                "parent_id": "44e24010-9a98-45a8-b0a2-c5a4b01c629a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 9",
                 "description": "Identificación de retos o áreas de oportunidad en la entidad desde la ciudadanía.",
                 "display_order": 15,
                 "peso": 1.0,
                 "questions": {
-                  "6f1126c7-033f-4963-adcc-6d219df3f1f1": {
+                  "3ede5965-ea81-4521-a522-5a587c6085c1": {
                     "index_id": "uuid_2023",
-                    "section_id": "97529f38-a897-4667-8ff8-0bbeb8f1bdee",
+                    "section_id": "8f469c29-4732-48d9-aa9c-7989ccd27a7e",
                     "is_loop": "True",
                     "title": "Pregunta 15",
                     "description": "¿Su entidad identificó retos o áreas de oportunidad desde la ciudadanía por canales diferentes a \"Bogotá te Escucha\"?",
@@ -1423,18 +1423,18 @@
                   }
                 }
               },
-              "70069486-b980-4227-850e-5d30bde75a8d": {
+              "e4c9c370-d85f-4099-a320-86ab7ab3727b": {
                 "index_id": "uuid_2023",
-                "parent_id": "ed3d2e01-c662-47b8-9eb9-32e6b8200be8",
+                "parent_id": "44e24010-9a98-45a8-b0a2-c5a4b01c629a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 10",
                 "description": "Identificación de retos o áreas de oportunidad en la entidad desde los funcionarios y/o contratistas.",
                 "display_order": 16,
                 "peso": 2.8,
                 "questions": {
-                  "786ec374-38c3-44ff-9184-db1823cda918": {
+                  "d989bd7d-78f6-493d-8399-5c0725f3441c": {
                     "index_id": "uuid_2023",
-                    "section_id": "70069486-b980-4227-850e-5d30bde75a8d",
+                    "section_id": "e4c9c370-d85f-4099-a320-86ab7ab3727b",
                     "is_loop": "True",
                     "title": "Pregunta 16",
                     "description": "¿Su entidad identificó retos o áreas de oportunidad desde los funcionarios y/o contratistas?",
@@ -1444,18 +1444,18 @@
                   }
                 }
               },
-              "4f744c1b-f052-4538-87af-a382413654bc": {
+              "5368c5fe-9a36-422d-9b2d-ff062f996ea3": {
                 "index_id": "uuid_2023",
-                "parent_id": "ed3d2e01-c662-47b8-9eb9-32e6b8200be8",
+                "parent_id": "44e24010-9a98-45a8-b0a2-c5a4b01c629a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 11",
                 "description": "Canales y actividades para la identificación de retos o áreas de oportunidad.",
                 "display_order": 17,
                 "peso": 2.4,
                 "questions": {
-                  "cbb16adb-9b7d-415d-a1a2-8713f52b3058": {
+                  "c7fbda3d-e92f-4837-a0cf-0765e883db88": {
                     "index_id": "uuid_2023",
-                    "section_id": "4f744c1b-f052-4538-87af-a382413654bc",
+                    "section_id": "5368c5fe-9a36-422d-9b2d-ff062f996ea3",
                     "is_loop": "True",
                     "title": "Pregunta 17",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Cuáles fueron los canales que brindó al interior de su entidad para la identificación de retos o áreas de oportunidad?",
@@ -1463,9 +1463,9 @@
                     "required": "True",
                     "peso": 1.2
                   },
-                  "cb97e35d-bfae-4f64-81c8-2676261e4a0a": {
+                  "1e6b3328-d33f-435a-9101-a2b9e52db9dc": {
                     "index_id": "uuid_2023",
-                    "section_id": "4f744c1b-f052-4538-87af-a382413654bc",
+                    "section_id": "5368c5fe-9a36-422d-9b2d-ff062f996ea3",
                     "is_loop": "True",
                     "title": "Pregunta 18",
                     "description": "¿Qué actividades se llevaron a cabo para la identificación de retos o áreas de oportunidad de la entidad que usted representa?",
@@ -1477,27 +1477,27 @@
               }
             }
           },
-          "b08c0394-f5df-44f2-a674-e110aace41a9": {
+          "cebea561-72dc-496d-8997-7c313bca8680": {
             "index_id": "uuid_2023",
-            "parent_id": "b4c33706-3554-4eb6-9d3e-a97f899db8fc",
+            "parent_id": "405df7c2-2d37-471f-83fe-316afe801fe7",
             "section_type_id": "VARIABLE",
             "title": "Variable 6",
             "description": "Generación de ideas",
             "display_order": 19,
             "peso": 8.0,
             "children": {
-              "37ba5d3e-5ed5-405f-a948-0bd60fd11ff4": {
+              "c65388d8-9f2c-44e9-b875-f8b2b083f191": {
                 "index_id": "uuid_2023",
-                "parent_id": "b08c0394-f5df-44f2-a674-e110aace41a9",
+                "parent_id": "cebea561-72dc-496d-8997-7c313bca8680",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 12",
                 "description": "Generación o captación de ideas encaminadas al mejoramiento de su entidad desde la ciudadanía.",
                 "display_order": 19,
                 "peso": 3.0,
                 "questions": {
-                  "1491e200-dbda-4c56-ac1a-9184d92c82cb": {
+                  "0d7d7423-bea1-4955-b6ff-3df034c0d787": {
                     "index_id": "uuid_2023",
-                    "section_id": "37ba5d3e-5ed5-405f-a948-0bd60fd11ff4",
+                    "section_id": "c65388d8-9f2c-44e9-b875-f8b2b083f191",
                     "is_loop": "True",
                     "title": "Pregunta 19",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad generó o captó ideas encaminadas al mejoramiento de su entidad desde la ciudadanía?",
@@ -1507,18 +1507,18 @@
                   }
                 }
               },
-              "0a4e659a-f7b1-47b4-9c73-4ab03de308a1": {
+              "533e166b-4e63-49ca-ae13-e9de13edc63e": {
                 "index_id": "uuid_2023",
-                "parent_id": "b08c0394-f5df-44f2-a674-e110aace41a9",
+                "parent_id": "cebea561-72dc-496d-8997-7c313bca8680",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 13",
                 "description": "Generación o captación de ideas encaminadas al mejoramiento de su entidad desde funcionarios y/o contratistas.",
                 "display_order": 20,
                 "peso": 3.0,
                 "questions": {
-                  "a0a7b0c2-496f-4936-ad01-e52b58f17494": {
+                  "b922a9b5-c597-461b-9d15-881e989a47bd": {
                     "index_id": "uuid_2023",
-                    "section_id": "0a4e659a-f7b1-47b4-9c73-4ab03de308a1",
+                    "section_id": "533e166b-4e63-49ca-ae13-e9de13edc63e",
                     "is_loop": "True",
                     "title": "Pregunta 20",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad generó o captó ideas encaminadas al mejoramiento de su entidad desde los funcionarios y/o contratistas? ",
@@ -1528,18 +1528,18 @@
                   }
                 }
               },
-              "13d930c0-0c96-44f1-a06d-1e30db075c86": {
+              "a9ad1ed6-3ef1-41d7-b13f-5642e8a4d484": {
                 "index_id": "uuid_2023",
-                "parent_id": "b08c0394-f5df-44f2-a674-e110aace41a9",
+                "parent_id": "cebea561-72dc-496d-8997-7c313bca8680",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 14",
                 "description": "Canales y actividades para la recepción o generación de ideas.",
                 "display_order": 21,
                 "peso": 2.0,
                 "questions": {
-                  "b68aff44-cc5d-4508-9222-b1b22122e4cc": {
+                  "3c41846e-39a9-4b58-a05e-811735127efc": {
                     "index_id": "uuid_2023",
-                    "section_id": "13d930c0-0c96-44f1-a06d-1e30db075c86",
+                    "section_id": "a9ad1ed6-3ef1-41d7-b13f-5642e8a4d484",
                     "is_loop": "True",
                     "title": "Pregunta 21",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Cuáles fueron los canales que brindó su entidad para la recepción o generación de ideas?",
@@ -1547,9 +1547,9 @@
                     "required": "True",
                     "peso": 1.0
                   },
-                  "159cd5c5-d532-4771-bc6e-6de70e286f14": {
+                  "6b2ecb37-f139-449e-a25b-9e76c8ad2934": {
                     "index_id": "uuid_2023",
-                    "section_id": "13d930c0-0c96-44f1-a06d-1e30db075c86",
+                    "section_id": "a9ad1ed6-3ef1-41d7-b13f-5642e8a4d484",
                     "is_loop": "True",
                     "title": "Pregunta 22",
                     "description": "¿Qué actividades se llevaron a cabo para la recepción o generación de ideas?",
@@ -1561,27 +1561,27 @@
               }
             }
           },
-          "a12ccf3e-fdc7-4e18-85f2-f647d0a2b0d9": {
+          "f61ac8ae-236b-45c0-9d4e-07cf051b9257": {
             "index_id": "uuid_2023",
-            "parent_id": "b4c33706-3554-4eb6-9d3e-a97f899db8fc",
+            "parent_id": "405df7c2-2d37-471f-83fe-316afe801fe7",
             "section_type_id": "VARIABLE",
             "title": "Variable 7",
             "description": "Diseño de Innovaciones",
             "display_order": 23,
             "peso": 7.0,
             "children": {
-              "7353b2b1-0822-4393-96be-52fdd90269fd": {
+              "6126e501-a450-456d-b84e-e9649dbfe4ba": {
                 "index_id": "uuid_2023",
-                "parent_id": "a12ccf3e-fdc7-4e18-85f2-f647d0a2b0d9",
+                "parent_id": "f61ac8ae-236b-45c0-9d4e-07cf051b9257",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 15",
                 "description": "Innovaciones diseñadas",
                 "display_order": 23,
                 "peso": 7.0,
                 "questions": {
-                  "c156f90c-80d2-4378-9e19-0b5b2ce161aa": {
+                  "42094124-623f-495b-b455-4c935399643d": {
                     "index_id": "uuid_2023",
-                    "section_id": "7353b2b1-0822-4393-96be-52fdd90269fd",
+                    "section_id": "6126e501-a450-456d-b84e-e9649dbfe4ba",
                     "is_loop": "True",
                     "title": "Pregunta 23",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿su entidad diseñó innovaciones encaminadas al cumplimiento de los objetivos y metas de su entidad?",
@@ -1593,27 +1593,27 @@
               }
             }
           },
-          "3e1b4ea0-e37f-4c67-9b56-3b101621c434": {
+          "8949e501-2fde-4334-b90b-d3fc4111ccf7": {
             "index_id": "uuid_2023",
-            "parent_id": "b4c33706-3554-4eb6-9d3e-a97f899db8fc",
+            "parent_id": "405df7c2-2d37-471f-83fe-316afe801fe7",
             "section_type_id": "VARIABLE",
             "title": "Variable 8",
             "description": "Generación de capacidades",
             "display_order": 24,
             "peso": 6.0,
             "children": {
-              "9336dd6b-b9bf-485d-89dc-41c2416cab58": {
+              "cc321f30-982f-486b-861b-18eb7f75f1a5": {
                 "index_id": "uuid_2023",
-                "parent_id": "3e1b4ea0-e37f-4c67-9b56-3b101621c434",
+                "parent_id": "8949e501-2fde-4334-b90b-d3fc4111ccf7",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 16",
                 "description": "Actividades de generación de capacidades de innovación.",
                 "display_order": 24,
                 "peso": 6.0,
                 "questions": {
-                  "4cfdb8f1-0750-4aa2-bed6-b1a9667b19ff": {
+                  "213bd147-809b-4041-abd5-33a3a184c07e": {
                     "index_id": "uuid_2023",
-                    "section_id": "9336dd6b-b9bf-485d-89dc-41c2416cab58",
+                    "section_id": "cc321f30-982f-486b-861b-18eb7f75f1a5",
                     "is_loop": "True",
                     "title": "Pregunta 24",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿se llevaron a cabo actividades relacionadas con la generación de capacidades de innovación en su entidad con funcionarios y/o contratistas?",
@@ -1625,27 +1625,27 @@
               }
             }
           },
-          "79bf4580-2e71-48de-a3e4-f1c5da7b8a33": {
+          "ef3505a1-bdec-4a91-9a1e-1671beb51f01": {
             "index_id": "uuid_2023",
-            "parent_id": "b4c33706-3554-4eb6-9d3e-a97f899db8fc",
+            "parent_id": "405df7c2-2d37-471f-83fe-316afe801fe7",
             "section_type_id": "VARIABLE",
             "title": "Variable 9",
             "description": "Cultura y liderazgo para la innovación pública",
             "display_order": 25,
             "peso": 5.0,
             "children": {
-              "71e8b65c-c46e-44a8-acbe-449a45e355e0": {
+              "57736442-7798-41d0-8dec-27d14d48116a": {
                 "index_id": "uuid_2023",
-                "parent_id": "79bf4580-2e71-48de-a3e4-f1c5da7b8a33",
+                "parent_id": "ef3505a1-bdec-4a91-9a1e-1671beb51f01",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 17",
                 "description": "Generación y promoción de cultura para la innovación Pública",
                 "display_order": 25,
                 "peso": 2.8,
                 "questions": {
-                  "0a312a67-4d07-42c7-b588-85cb714fbc2f": {
+                  "7d36affc-cea0-4fab-81d5-20f6623b89bb": {
                     "index_id": "uuid_2023",
-                    "section_id": "71e8b65c-c46e-44a8-acbe-449a45e355e0",
+                    "section_id": "57736442-7798-41d0-8dec-27d14d48116a",
                     "is_loop": "True",
                     "title": "Pregunta 25",
                     "description": "Entre 2021 y 2022, ¿En su entidad se ha promovido o generado una cultura de innovación para funcionarios y contratistas?",
@@ -1655,18 +1655,18 @@
                   }
                 }
               },
-              "905616fe-c0fd-4325-ad85-f583d5c896e8": {
+              "84288e3e-8cd2-4953-9433-c98f88c7fa6a": {
                 "index_id": "uuid_2023",
-                "parent_id": "79bf4580-2e71-48de-a3e4-f1c5da7b8a33",
+                "parent_id": "ef3505a1-bdec-4a91-9a1e-1671beb51f01",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 18",
                 "description": "Gestión de cultura de la innovación",
                 "display_order": 26,
                 "peso": 1.1,
                 "questions": {
-                  "8c17ec72-91bb-43b7-9839-e1c3f068e72b": {
+                  "da3e5167-ccbe-4067-bb79-26c43ab0e3d3": {
                     "index_id": "uuid_2023",
-                    "section_id": "905616fe-c0fd-4325-ad85-f583d5c896e8",
+                    "section_id": "84288e3e-8cd2-4953-9433-c98f88c7fa6a",
                     "is_loop": "True",
                     "title": "Pregunta 26",
                     "description": "Entre 2021 y 2022, ¿Su entidad generó espacios de experimentación, co-creación e incentivos dentro de sus funcionarios y contratistas enfocados a la innovación?",
@@ -1676,18 +1676,18 @@
                   }
                 }
               },
-              "d654e374-dadd-4737-8df3-23c31a5c1b80": {
+              "ec104bbd-8591-4059-9143-7372d94bfdbe": {
                 "index_id": "uuid_2023",
-                "parent_id": "79bf4580-2e71-48de-a3e4-f1c5da7b8a33",
+                "parent_id": "ef3505a1-bdec-4a91-9a1e-1671beb51f01",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 19",
                 "description": "Identificación de liderazgos/facilitadores/ habilidades en funcionarios y contratistas relacionados con innovación pública",
                 "display_order": 27,
                 "peso": 1.1,
                 "questions": {
-                  "dc5f3332-9706-4e34-b3f2-c696e2332c57": {
+                  "de7663dc-fbb3-4fc4-84c0-18b2f8ed439d": {
                     "index_id": "uuid_2023",
-                    "section_id": "d654e374-dadd-4737-8df3-23c31a5c1b80",
+                    "section_id": "ec104bbd-8591-4059-9143-7372d94bfdbe",
                     "is_loop": "True",
                     "title": "Pregunta 27",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad creó o contó con unidades de innovación como laboratorios, observatorios o semilleros de innovación en su interior?",
@@ -1701,7 +1701,7 @@
           }
         }
       },
-      "5822e293-c5ef-43fa-89f4-1e2de24fc5c8": {
+      "02c1087c-8d07-41d7-aa85-aee96ddb7a2a": {
         "index_id": "uuid_2023",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -1710,27 +1710,27 @@
         "display_order": 28,
         "peso": 25,
         "children": {
-          "8ccde8fa-4a7d-4b7b-bf06-c52b7f97f377": {
+          "f3b6680a-2236-4ec1-89f1-920299d8228b": {
             "index_id": "uuid_2023",
-            "parent_id": "5822e293-c5ef-43fa-89f4-1e2de24fc5c8",
+            "parent_id": "02c1087c-8d07-41d7-aa85-aee96ddb7a2a",
             "section_type_id": "VARIABLE",
             "title": "Variable 10",
             "description": "Innovaciones Implementadas",
             "display_order": 28,
             "peso": 20.5,
             "children": {
-              "5f449151-17b3-44c3-aa14-cc05bab73eb2": {
+              "d3185e4a-a88e-43f8-8157-ddebe63dddd7": {
                 "index_id": "uuid_2023",
-                "parent_id": "8ccde8fa-4a7d-4b7b-bf06-c52b7f97f377",
+                "parent_id": "f3b6680a-2236-4ec1-89f1-920299d8228b",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 20",
                 "description": "Implementación de innovaciones diseñadas.",
                 "display_order": 28,
                 "peso": 20.5,
                 "questions": {
-                  "cf4e4f92-3390-4f90-9e2d-b4ae4614d7ec": {
+                  "ba43a091-5719-4a3d-b111-bb7d734b064d": {
                     "index_id": "uuid_2023",
-                    "section_id": "5f449151-17b3-44c3-aa14-cc05bab73eb2",
+                    "section_id": "d3185e4a-a88e-43f8-8157-ddebe63dddd7",
                     "is_loop": "True",
                     "title": "Pregunta 28.1",
                     "description": "¿Alguna de las innovaciones diseñadas entre el 01 de enero de 2021 y el 31 de diciembre de 2022 fue implementada, o está en proceso de implementación actualmente?\n\n\n\n",
@@ -1742,27 +1742,27 @@
               }
             }
           },
-          "02b3c2e5-f763-470e-98fa-d254f026d9a1": {
+          "c2de9d68-196e-4925-b1bb-891754cf5021": {
             "index_id": "uuid_2023",
-            "parent_id": "5822e293-c5ef-43fa-89f4-1e2de24fc5c8",
+            "parent_id": "02c1087c-8d07-41d7-aa85-aee96ddb7a2a",
             "section_type_id": "VARIABLE",
             "title": "Variable 11",
             "description": "Generación de capacidades en innovación para funcionarios y/o contratistas",
             "display_order": 29,
             "peso": 4.5,
             "children": {
-              "a1e91021-a2c7-46dc-b6d4-635167b598d7": {
+              "66f69383-d5e0-431e-87b8-bce5af233775": {
                 "index_id": "uuid_2023",
-                "parent_id": "02b3c2e5-f763-470e-98fa-d254f026d9a1",
+                "parent_id": "c2de9d68-196e-4925-b1bb-891754cf5021",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 21",
                 "description": "Porcentaje de funcionarios formados a partir de procesos de generación de capacidades en innovación.",
                 "display_order": 29,
                 "peso": 2.2,
                 "questions": {
-                  "f0e72ba1-a653-46d5-b106-c95ff74ba00f": {
+                  "b7700335-056f-4e1d-9c6b-2216963fe1b5": {
                     "index_id": "uuid_2023",
-                    "section_id": "a1e91021-a2c7-46dc-b6d4-635167b598d7",
+                    "section_id": "66f69383-d5e0-431e-87b8-bce5af233775",
                     "is_loop": "True",
                     "title": "Pregunta 29",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Los funcionarios recibieron formación en temas de innovación?",
@@ -1772,18 +1772,18 @@
                   }
                 }
               },
-              "d05ca761-e26b-4087-84bf-9cc8dd39f037": {
+              "3a33f1c1-d360-48d4-8df2-007f57a433ea": {
                 "index_id": "uuid_2023",
-                "parent_id": "02b3c2e5-f763-470e-98fa-d254f026d9a1",
+                "parent_id": "c2de9d68-196e-4925-b1bb-891754cf5021",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 22",
                 "description": "Porcentaje de contratistas formados a partir de procesos de generación de capacidades en innovación.",
                 "display_order": 30,
                 "peso": 2.3,
                 "questions": {
-                  "47f25553-74f8-4450-818d-637844b87831": {
+                  "1c5037fe-3990-469d-8b52-71e1ffd34b6b": {
                     "index_id": "uuid_2023",
-                    "section_id": "d05ca761-e26b-4087-84bf-9cc8dd39f037",
+                    "section_id": "3a33f1c1-d360-48d4-8df2-007f57a433ea",
                     "is_loop": "True",
                     "title": "Pregunta 30",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Los contratistas recibieron formación en temas de innovación?",
@@ -1797,7 +1797,7 @@
           }
         }
       },
-      "a3807970-044f-42a2-89ab-24d59e726c61": {
+      "65aa5dfb-03c0-4e22-af79-23ce989b8fb5": {
         "index_id": "uuid_2023",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -1806,27 +1806,27 @@
         "display_order": 31,
         "peso": 15,
         "children": {
-          "71513482-e6c9-4c76-a868-dd179804e836": {
+          "b3f1da46-88ae-4e85-acd9-a4a4f619ec70": {
             "index_id": "uuid_2023",
-            "parent_id": "a3807970-044f-42a2-89ab-24d59e726c61",
+            "parent_id": "65aa5dfb-03c0-4e22-af79-23ce989b8fb5",
             "section_type_id": "VARIABLE",
             "title": "Variable 12",
             "description": "Gestión del conocimiento en la Capacidad Institucional",
             "display_order": 31,
             "peso": 3.0,
             "children": {
-              "19a8d8c2-a69d-4ad5-ac6e-b4bd02c44384": {
+              "609ef443-1450-45a0-9e26-5ffe2b4f2447": {
                 "index_id": "uuid_2023",
-                "parent_id": "71513482-e6c9-4c76-a868-dd179804e836",
+                "parent_id": "b3f1da46-88ae-4e85-acd9-a4a4f619ec70",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 23",
                 "description": "Creación y Organización: Existencia dentro de los soportes normativos de creación y organización de la institución de acciones de gestión del conocimiento (Sin Calificación)",
                 "display_order": 31,
                 "peso": 0.0,
                 "questions": {
-                  "fa2d7433-9f8e-407a-8151-1e5cc5773f24": {
+                  "122f6c28-1629-488e-97b0-4f5720df68cf": {
                     "index_id": "uuid_2023",
-                    "section_id": "19a8d8c2-a69d-4ad5-ac6e-b4bd02c44384",
+                    "section_id": "609ef443-1450-45a0-9e26-5ffe2b4f2447",
                     "is_loop": "True",
                     "title": "Pregunta 31",
                     "description": "Desde su creación hasta el 31 de diciembre de 2022, ¿existen acuerdos y/o actos administrativos de su entidad relacionados con la gestión del conocimiento?",
@@ -1836,18 +1836,18 @@
                   }
                 }
               },
-              "432bfa02-7cef-4751-aec9-7c0f90c3af81": {
+              "b784d6be-5f03-4228-86f2-ca04e45b3ec2": {
                 "index_id": "uuid_2023",
-                "parent_id": "71513482-e6c9-4c76-a868-dd179804e836",
+                "parent_id": "b3f1da46-88ae-4e85-acd9-a4a4f619ec70",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 24",
                 "description": "Planeación Estratégica: Existencia dentro de la planeación estratégica de la institución de acciones de gestión del conocimiento.",
                 "display_order": 32,
                 "peso": 3.0,
                 "questions": {
-                  "220717d9-e383-479e-bb28-9ac906fb5bb7": {
+                  "8e50bb2d-57e6-49a7-a3f4-223458033a88": {
                     "index_id": "uuid_2023",
-                    "section_id": "432bfa02-7cef-4751-aec9-7c0f90c3af81",
+                    "section_id": "b784d6be-5f03-4228-86f2-ca04e45b3ec2",
                     "is_loop": "True",
                     "title": "Pregunta 32",
                     "description": "¿Existen dentro de la planeación estratégica de la entidad enfoques / líneas / componentes / proyectos / programas o planes a 31 de diciembre de 2022 relacionados con la gestión del conocimiento?",
@@ -1859,27 +1859,27 @@
               }
             }
           },
-          "5a21dc05-a27e-40de-a2a6-bcaf968ba91f": {
+          "b9081e8c-ac9c-4428-83b1-95ea6d4954ca": {
             "index_id": "uuid_2023",
-            "parent_id": "a3807970-044f-42a2-89ab-24d59e726c61",
+            "parent_id": "65aa5dfb-03c0-4e22-af79-23ce989b8fb5",
             "section_type_id": "VARIABLE",
             "title": "Variable 13",
             "description": "Gestión del conocimiento en los Procesos y Procedimientos",
             "display_order": 33,
             "peso": 6.0,
             "children": {
-              "ce3de105-d2a6-4634-a615-b10fd5147b0b": {
+              "fab00f22-1e92-4c7d-8ae6-c7bacc8ac85f": {
                 "index_id": "uuid_2023",
-                "parent_id": "5a21dc05-a27e-40de-a2a6-bcaf968ba91f",
+                "parent_id": "b9081e8c-ac9c-4428-83b1-95ea6d4954ca",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 25",
                 "description": "Publicación de la sistematización de información sobre procesos de identificación de problemas con ciudadanos.",
                 "display_order": 33,
                 "peso": 1.0,
                 "questions": {
-                  "d13ebbe2-f85f-41b0-9616-0afcb89ab230": {
+                  "3d7bf9ec-4b93-4fbd-9bd1-742d21d98770": {
                     "index_id": "uuid_2023",
-                    "section_id": "ce3de105-d2a6-4634-a615-b10fd5147b0b",
+                    "section_id": "fab00f22-1e92-4c7d-8ae6-c7bacc8ac85f",
                     "is_loop": "True",
                     "title": "Pregunta 33",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de identificación de retos o áreas de oportunidad con la ciudadanía provenientes de los canales y/o actividades mencionadas en las preguntas 14 y 15?",
@@ -1889,18 +1889,18 @@
                   }
                 }
               },
-              "0fe450e8-7112-4fc7-acca-7558b6e1c40d": {
+              "c4cd11c7-9446-42d8-8490-ca29796dfdbe": {
                 "index_id": "uuid_2023",
-                "parent_id": "5a21dc05-a27e-40de-a2a6-bcaf968ba91f",
+                "parent_id": "b9081e8c-ac9c-4428-83b1-95ea6d4954ca",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 26",
                 "description": "Publicación de la sistematización de información sobre procesos de identificación de problemas con servidores públicos.",
                 "display_order": 34,
                 "peso": 1.0,
                 "questions": {
-                  "780b7252-18dd-4bdd-9ba3-8162fc7dbfa6": {
+                  "2eb42af9-0086-4b14-8e94-8fe2b8441d26": {
                     "index_id": "uuid_2023",
-                    "section_id": "0fe450e8-7112-4fc7-acca-7558b6e1c40d",
+                    "section_id": "c4cd11c7-9446-42d8-8490-ca29796dfdbe",
                     "is_loop": "True",
                     "title": "Pregunta 34",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de identificación de retos o áreas de oportunidad con los funcionarios y/o contratistas de su entidad provenientes de los canales y/o actividades mencionados en la pregunta 16?",
@@ -1910,18 +1910,18 @@
                   }
                 }
               },
-              "d724a58c-2fca-4524-84a4-019e6fe542fb": {
+              "fde360d2-4a63-4585-86f0-f75df28befce": {
                 "index_id": "uuid_2023",
-                "parent_id": "5a21dc05-a27e-40de-a2a6-bcaf968ba91f",
+                "parent_id": "b9081e8c-ac9c-4428-83b1-95ea6d4954ca",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 27",
                 "description": "Publicación de la sistematización de información sobre procesos de generación de ideas con ciudadanos.",
                 "display_order": 35,
                 "peso": 1.0,
                 "questions": {
-                  "829dc0d7-abb8-462a-9a29-58794f852c52": {
+                  "1e9df99d-6899-4da9-ad3d-d5fa8ede7d4e": {
                     "index_id": "uuid_2023",
-                    "section_id": "d724a58c-2fca-4524-84a4-019e6fe542fb",
+                    "section_id": "fde360d2-4a63-4585-86f0-f75df28befce",
                     "is_loop": "True",
                     "title": "Pregunta 35",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de la recepción y generación de ideas con la ciudadanía provenientes de los canales y/o actividades mencionadas en la pregunta 19?",
@@ -1931,18 +1931,18 @@
                   }
                 }
               },
-              "19abc1ab-eeeb-43b3-bd76-34f24b952ee5": {
+              "8226b4db-950c-4a10-aa1f-382e46540780": {
                 "index_id": "uuid_2023",
-                "parent_id": "5a21dc05-a27e-40de-a2a6-bcaf968ba91f",
+                "parent_id": "b9081e8c-ac9c-4428-83b1-95ea6d4954ca",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 28",
                 "description": "Publicación de la sistematización de información sobre procesos de generación de ideas con servidores públicos.",
                 "display_order": 36,
                 "peso": 1.0,
                 "questions": {
-                  "931b5482-9815-487a-8df7-88634aad6858": {
+                  "a2f6934f-013c-4c36-bd6e-dfea628857d2": {
                     "index_id": "uuid_2023",
-                    "section_id": "19abc1ab-eeeb-43b3-bd76-34f24b952ee5",
+                    "section_id": "8226b4db-950c-4a10-aa1f-382e46540780",
                     "is_loop": "True",
                     "title": "Pregunta 36",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad hizo público algún documento relacionado con el proceso, o los resultados del proceso, de la recepción y generación de ideas con los funcionarios y/o contratistas de su entidad provenientes de los canales y/o actividades mencionadas en la pregunta 20?",
@@ -1952,18 +1952,18 @@
                   }
                 }
               },
-              "9c0e8c74-b933-40d8-bd4c-bd123c0fa7af": {
+              "001990e9-431f-4b05-b232-5f1f0fc1ab77": {
                 "index_id": "uuid_2023",
-                "parent_id": "5a21dc05-a27e-40de-a2a6-bcaf968ba91f",
+                "parent_id": "b9081e8c-ac9c-4428-83b1-95ea6d4954ca",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 29",
                 "description": "Documentación de buenas prácticas y lecciones aprendidas identificadas en los procesos de innovación.",
                 "display_order": 37,
                 "peso": 1.0,
                 "questions": {
-                  "fdb3f053-37c1-46f6-976f-937f08d71c40": {
+                  "0f687ea6-57ed-4a65-a332-d14e3c78b747": {
                     "index_id": "uuid_2023",
-                    "section_id": "9c0e8c74-b933-40d8-bd4c-bd123c0fa7af",
+                    "section_id": "001990e9-431f-4b05-b232-5f1f0fc1ab77",
                     "is_loop": "True",
                     "title": "Pregunta 37",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad desarrolló algún tipo de documento encaminado a identificar y sistematizar lecciones aprendidas y buenas prácticas sobre las acciones de innovación desarrolladas por su entidad?",
@@ -1973,18 +1973,18 @@
                   }
                 }
               },
-              "29c3ec83-3c43-487e-aac5-9bc1eaa8e9cb": {
+              "28fa7c45-f269-47e8-a57a-ce41fdab28bf": {
                 "index_id": "uuid_2023",
-                "parent_id": "5a21dc05-a27e-40de-a2a6-bcaf968ba91f",
+                "parent_id": "b9081e8c-ac9c-4428-83b1-95ea6d4954ca",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 30",
                 "description": "Documentación de buenas prácticas y lecciones aprendidas de las acciones de la entidad.",
                 "display_order": 38,
                 "peso": 1.0,
                 "questions": {
-                  "b9eaf99c-797b-434d-82ff-ff988671f291": {
+                  "4f8948da-b6a2-47d7-907d-b7bdf79b8223": {
                     "index_id": "uuid_2023",
-                    "section_id": "29c3ec83-3c43-487e-aac5-9bc1eaa8e9cb",
+                    "section_id": "28fa7c45-f269-47e8-a57a-ce41fdab28bf",
                     "is_loop": "True",
                     "title": "Pregunta 38",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad desarrolló algún tipo de documento encaminado a identificar y sistematizar lecciones aprendidas y buenas prácticas sobre las acciones de su entidad?",
@@ -1996,27 +1996,27 @@
               }
             }
           },
-          "d7649129-9e56-4d46-a3d3-ef894aa9e11c": {
+          "61e772b7-3964-4da6-be3b-610a14c030a4": {
             "index_id": "uuid_2023",
-            "parent_id": "a3807970-044f-42a2-89ab-24d59e726c61",
+            "parent_id": "65aa5dfb-03c0-4e22-af79-23ce989b8fb5",
             "section_type_id": "VARIABLE",
             "title": "Variable 14",
             "description": "Gestión del conocimiento en los Resultados",
             "display_order": 39,
             "peso": 6.0,
             "children": {
-              "61a254fd-9b6c-4a7f-b211-87277c38a0ad": {
+              "4932dc39-bd58-4950-99e0-4f1af5346e9b": {
                 "index_id": "uuid_2023",
-                "parent_id": "d7649129-9e56-4d46-a3d3-ef894aa9e11c",
+                "parent_id": "61e772b7-3964-4da6-be3b-610a14c030a4",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 31",
                 "description": "Monitoreo y seguimiento de innovaciones implementadas.",
                 "display_order": 39,
                 "peso": 6.0,
                 "questions": {
-                  "d006d2c7-76c3-465a-b060-9ac637d4c82b": {
+                  "98b4da8f-1f82-458c-8df9-cd48c48eb69d": {
                     "index_id": "uuid_2023",
-                    "section_id": "61a254fd-9b6c-4a7f-b211-87277c38a0ad",
+                    "section_id": "4932dc39-bd58-4950-99e0-4f1af5346e9b",
                     "is_loop": "True",
                     "title": "Pregunta 39",
                     "description": "Entre el 01 de enero de 2021 y el 31 de diciembre de 2022, ¿Su entidad desarrolló algún documento o matriz para hacer monitoreo y seguimiento a las innovaciones implementadas?",
@@ -2035,7 +2035,7 @@
   "uuid_2025": {
     "anno": "2025",
     "children": {
-      "2fcd7b13-6e80-4b9e-b494-3d0e1d45d916": {
+      "40434270-1ec7-4f38-8da4-20f65e571ef2": {
         "index_id": "uuid_2025",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -2044,27 +2044,27 @@
         "display_order": 1,
         "peso": 11.7,
         "children": {
-          "58fbf93a-0801-45e7-8345-43127d5b92e8": {
+          "2576e5af-6ea9-49be-b4d0-8e982d0a9a7e": {
             "index_id": "uuid_2025",
-            "parent_id": "2fcd7b13-6e80-4b9e-b494-3d0e1d45d916",
+            "parent_id": "40434270-1ec7-4f38-8da4-20f65e571ef2",
             "section_type_id": "VARIABLE",
             "title": "Variable 1",
             "description": "Planeación",
             "display_order": 1,
             "peso": 4.0,
             "children": {
-              "74d830b0-7263-4fab-ad40-742673868a39": {
+              "c000000a-92ab-4803-af07-536fec0f79ef": {
                 "index_id": "uuid_2025",
-                "parent_id": "58fbf93a-0801-45e7-8345-43127d5b92e8",
+                "parent_id": "2576e5af-6ea9-49be-b4d0-8e982d0a9a7e",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 1",
                 "description": "Presencia de concepto y prácticas de innovación pública en los documentos normativos de la institución. ",
                 "display_order": 1,
                 "peso": 0.0,
                 "questions": {
-                  "2cb9c0c1-44b8-4e40-862d-6799be51d8c6": {
+                  "4fd66c56-b0e6-4d1c-9422-ae6b8f5facf0": {
                     "index_id": "uuid_2025",
-                    "section_id": "74d830b0-7263-4fab-ad40-742673868a39",
+                    "section_id": "c000000a-92ab-4803-af07-536fec0f79ef",
                     "is_loop": "True",
                     "title": "Pregunta 1",
                     "description": "¿En su entidad existen o existieron decretos, resoluciones, circulares u otros actos administrativos relacionados con el concepto de innovación pública?",
@@ -2074,18 +2074,18 @@
                   }
                 }
               },
-              "758bd70c-5558-421b-bfd5-27e4fe5c037a": {
+              "48b0d55c-e12b-4462-a857-a6c05b036040": {
                 "index_id": "uuid_2025",
-                "parent_id": "58fbf93a-0801-45e7-8345-43127d5b92e8",
+                "parent_id": "2576e5af-6ea9-49be-b4d0-8e982d0a9a7e",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 2",
                 "description": "Inclusión del concepto de innovación pública en la planeación estratégica y/o proyectos de inversión de la institución.",
                 "display_order": 2,
                 "peso": 4.0,
                 "questions": {
-                  "4c08b666-c003-438f-aa4d-ce5c6c2f6e53": {
+                  "67b5a56b-dab6-4658-8775-2268627f76c3": {
                     "index_id": "uuid_2025",
-                    "section_id": "758bd70c-5558-421b-bfd5-27e4fe5c037a",
+                    "section_id": "48b0d55c-e12b-4462-a857-a6c05b036040",
                     "is_loop": "True",
                     "title": "Pregunta 2",
                     "description": "¿La planeación estratégica de su entidad incluye enfoques, líneas, componentes, planes, programas, proyectos de inversión u otros relacionados con la innovación pública?",
@@ -2097,27 +2097,27 @@
               }
             }
           },
-          "79e462ba-6acf-4564-9ddc-d136ab524eeb": {
+          "4c13a3cf-66f8-42a7-bcca-3154caa8c439": {
             "index_id": "uuid_2025",
-            "parent_id": "2fcd7b13-6e80-4b9e-b494-3d0e1d45d916",
+            "parent_id": "40434270-1ec7-4f38-8da4-20f65e571ef2",
             "section_type_id": "VARIABLE",
             "title": "Variable 2",
             "description": "Recursos Presupuestales",
             "display_order": 3,
             "peso": 7.7,
             "children": {
-              "9d8901ea-1fa8-4938-99ef-743448f14d18": {
+              "137cd64d-6cbc-4250-937f-5bf7a3261379": {
                 "index_id": "uuid_2025",
-                "parent_id": "79e462ba-6acf-4564-9ddc-d136ab524eeb",
+                "parent_id": "4c13a3cf-66f8-42a7-bcca-3154caa8c439",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 3",
                 "description": "Porcentaje de recursos anuales de funcionamiento ejecutados en temas de innovación pública",
                 "display_order": 3,
                 "peso": 4.0,
                 "questions": {
-                  "bfb0d525-1410-4147-8381-c8b28ca66934": {
+                  "1fb28579-1f06-434e-ae6d-362e0e26b002": {
                     "index_id": "uuid_2025",
-                    "section_id": "9d8901ea-1fa8-4938-99ef-743448f14d18",
+                    "section_id": "137cd64d-6cbc-4250-937f-5bf7a3261379",
                     "is_loop": "True",
                     "title": "Pregunta 3",
                     "description": "¿Cuál fue el valor del presupuesto general de funcionamiento ejecutado de su entidad?\n\nDiscrimine por año.",
@@ -2125,9 +2125,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "7812f604-0bf3-41e0-a45a-5ad765acb4b6": {
+                  "091a79a0-4e3b-4673-af74-1c809093849f": {
                     "index_id": "uuid_2025",
-                    "section_id": "9d8901ea-1fa8-4938-99ef-743448f14d18",
+                    "section_id": "137cd64d-6cbc-4250-937f-5bf7a3261379",
                     "is_loop": "True",
                     "title": "Pregunta 4",
                     "description": "¿Cuál fue el valor del presupuesto de funcionamiento ejecutado en temas de innovación pública  de su entidad? \n\nDiscrimine por año.",
@@ -2137,18 +2137,18 @@
                   }
                 }
               },
-              "9335ead7-a89d-4c3b-9e35-9b909ac7b17b": {
+              "ecab6104-11dc-43ae-bd24-8cfb421ed671": {
                 "index_id": "uuid_2025",
-                "parent_id": "79e462ba-6acf-4564-9ddc-d136ab524eeb",
+                "parent_id": "4c13a3cf-66f8-42a7-bcca-3154caa8c439",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 4",
                 "description": "Porcentaje de recursos anuales de inversión ejecutados en temas de innovación pública",
                 "display_order": 5,
                 "peso": 3.7,
                 "questions": {
-                  "bf884b2e-3b02-4f6f-8ca9-c3ebe2a6aad1": {
+                  "2b00fc52-f0d1-4604-b42e-64104848db92": {
                     "index_id": "uuid_2025",
-                    "section_id": "9335ead7-a89d-4c3b-9e35-9b909ac7b17b",
+                    "section_id": "ecab6104-11dc-43ae-bd24-8cfb421ed671",
                     "is_loop": "True",
                     "title": "Pregunta 5",
                     "description": "¿Cuál fue el valor del presupuesto general de inversión ejecutado de su entidad? \n\nDiscrimine por año.",
@@ -2156,9 +2156,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "506c4319-2704-4841-98dd-173d0189f68e": {
+                  "105ee3c2-9332-4a51-8a2e-5d9dce51d16c": {
                     "index_id": "uuid_2025",
-                    "section_id": "9335ead7-a89d-4c3b-9e35-9b909ac7b17b",
+                    "section_id": "ecab6104-11dc-43ae-bd24-8cfb421ed671",
                     "is_loop": "True",
                     "title": "Pregunta 6",
                     "description": "¿Cuál fue el valor del presupuesto de inversión ejecutado en temas de innovación pública de su entidad?\n\nDiscrimine por año.",
@@ -2170,27 +2170,27 @@
               }
             }
           },
-          "deaf7eb3-fff5-4848-90b3-697c8d3816d3": {
+          "d35ded6c-85df-40ff-a9fc-e97fd428d465": {
             "index_id": "uuid_2025",
-            "parent_id": "2fcd7b13-6e80-4b9e-b494-3d0e1d45d916",
+            "parent_id": "40434270-1ec7-4f38-8da4-20f65e571ef2",
             "section_type_id": "VARIABLE",
             "title": "Variable 3",
             "description": "Recursos Humanos",
             "display_order": 7,
             "peso": 8.7,
             "children": {
-              "6c65bd86-0537-4cf4-9839-5e1ab9598e39": {
+              "9e94dc0e-f48a-461b-8bea-3ac493bf6046": {
                 "index_id": "uuid_2025",
-                "parent_id": "deaf7eb3-fff5-4848-90b3-697c8d3816d3",
+                "parent_id": "d35ded6c-85df-40ff-a9fc-e97fd428d465",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 5",
                 "description": "Porcentaje de funcionarios relacionados con temas de innovación pública.",
                 "display_order": 7,
                 "peso": 4.0,
                 "questions": {
-                  "d00522ca-8206-4877-b65c-e101343187ee": {
+                  "d9f2af18-5fb0-4f6d-8bf2-3b22479c9c2a": {
                     "index_id": "uuid_2025",
-                    "section_id": "6c65bd86-0537-4cf4-9839-5e1ab9598e39",
+                    "section_id": "9e94dc0e-f48a-461b-8bea-3ac493bf6046",
                     "is_loop": "True",
                     "title": "Pregunta 7",
                     "description": "¿Cuál fue el número total de funcionarios que trabajaron en su entidad?\n\nDiscrimine por año.",
@@ -2198,9 +2198,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "f68ddc6b-783d-4c36-92c6-f0b206162c5a": {
+                  "9a2f7b7f-5364-4177-8bf3-ef848d1ce46e": {
                     "index_id": "uuid_2025",
-                    "section_id": "6c65bd86-0537-4cf4-9839-5e1ab9598e39",
+                    "section_id": "9e94dc0e-f48a-461b-8bea-3ac493bf6046",
                     "is_loop": "True",
                     "title": "Pregunta 8",
                     "description": "¿Cuál fue el número total de funcionarios que trabajaron en su entidad  que por su manual de funciones estuvieron relacionados directamente a temas de innovación pública?\n\nDiscrimine por año.",
@@ -2210,18 +2210,18 @@
                   }
                 }
               },
-              "fb7a7318-c85c-495e-a2e0-d8865c684072": {
+              "7863c915-89f8-47f9-b469-57b9e429b202": {
                 "index_id": "uuid_2025",
-                "parent_id": "deaf7eb3-fff5-4848-90b3-697c8d3816d3",
+                "parent_id": "d35ded6c-85df-40ff-a9fc-e97fd428d465",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 6",
                 "description": "Porcentaje de contratistas dedicados a temas de innovación pública.",
                 "display_order": 9,
                 "peso": 4.7,
                 "questions": {
-                  "8fa0c969-2543-457f-9609-997c4a779531": {
+                  "3b01ce7b-3db0-4e3a-8272-565002c7accd": {
                     "index_id": "uuid_2025",
-                    "section_id": "fb7a7318-c85c-495e-a2e0-d8865c684072",
+                    "section_id": "7863c915-89f8-47f9-b469-57b9e429b202",
                     "is_loop": "True",
                     "title": "Pregunta 9",
                     "description": "¿Cuál fue el número total de colaboradores que prestaron sus servicios en su entidad?\n\nDiscrimine por año.",
@@ -2229,9 +2229,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "125e9379-7474-4c00-8bdd-cc88bec79142": {
+                  "0f39c57d-b1c8-4315-8d32-995f871eb3f3": {
                     "index_id": "uuid_2025",
-                    "section_id": "fb7a7318-c85c-495e-a2e0-d8865c684072",
+                    "section_id": "7863c915-89f8-47f9-b469-57b9e429b202",
                     "is_loop": "True",
                     "title": "Pregunta 10",
                     "description": "¿Cuál fue el número total de colaboradores que prestaron sus servicios en su entidad  dedicados directamente a temas de innovación pública?\n\nDiscrimine por año.",
@@ -2243,27 +2243,27 @@
               }
             }
           },
-          "a4d658ff-f7ba-440e-83fd-c4f8000ae68e": {
+          "4b175213-ea67-4b1c-ba8f-36a12dad3763": {
             "index_id": "uuid_2025",
-            "parent_id": "2fcd7b13-6e80-4b9e-b494-3d0e1d45d916",
+            "parent_id": "40434270-1ec7-4f38-8da4-20f65e571ef2",
             "section_type_id": "VARIABLE",
             "title": "Variable 4",
             "description": "Recursos digitales",
             "display_order": 11,
             "peso": 4.6,
             "children": {
-              "a80bdb8c-64b9-4309-875c-2d654335a3f0": {
+              "80967f70-0b25-46cf-8073-5809dc807ea7": {
                 "index_id": "uuid_2025",
-                "parent_id": "a4d658ff-f7ba-440e-83fd-c4f8000ae68e",
+                "parent_id": "4b175213-ea67-4b1c-ba8f-36a12dad3763",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 7",
                 "description": "Recursos digitales para la innovación",
                 "display_order": 11,
                 "peso": 4.6,
                 "questions": {
-                  "22975847-8662-4a6f-bcc1-c0f49974793e": {
+                  "94705c67-b553-45fe-bc7b-577370422e55": {
                     "index_id": "uuid_2025",
-                    "section_id": "a80bdb8c-64b9-4309-875c-2d654335a3f0",
+                    "section_id": "80967f70-0b25-46cf-8073-5809dc807ea7",
                     "is_loop": "True",
                     "title": "Pregunta 11",
                     "description": "¿Su entidad adquirió recursos digitales como habilitantes de la innovación?",
@@ -2271,9 +2271,9 @@
                     "required": "True",
                     "peso": 1.5
                   },
-                  "35ee892f-bd6b-4558-9514-a947cde509dc": {
+                  "81cce594-6f6f-45fe-ba8c-a2cea578378f": {
                     "index_id": "uuid_2025",
-                    "section_id": "a80bdb8c-64b9-4309-875c-2d654335a3f0",
+                    "section_id": "80967f70-0b25-46cf-8073-5809dc807ea7",
                     "is_loop": "True",
                     "title": "Pregunta 12",
                     "description": "¿Su entidad ha utilizado alguna herramienta de Inteligencia Artificial en alguno de sus procesos o actividades?",
@@ -2281,9 +2281,9 @@
                     "required": "True",
                     "peso": 1.5
                   },
-                  "2d3f93cc-799e-47c4-9544-ca69b6694bfa": {
+                  "aad816fa-cbcf-4398-94d8-4744061d15f1": {
                     "index_id": "uuid_2025",
-                    "section_id": "a80bdb8c-64b9-4309-875c-2d654335a3f0",
+                    "section_id": "80967f70-0b25-46cf-8073-5809dc807ea7",
                     "is_loop": "True",
                     "title": "Pregunta 13",
                     "description": "¿Cuenta la entidad con lineamientos o protocolos específicos para el uso ético y transparente de la IA?",
@@ -2297,7 +2297,7 @@
           }
         }
       },
-      "d890f57f-a988-40d7-878d-66f81b8a0620": {
+      "317b5edd-9726-4f6d-b609-1846591de3bb": {
         "index_id": "uuid_2025",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -2306,27 +2306,27 @@
         "display_order": 14,
         "peso": 9.0,
         "children": {
-          "a5a3ed79-427b-4d1c-867f-c41bf6809e3b": {
+          "d83bef89-99be-4129-a395-e2ea3b822374": {
             "index_id": "uuid_2025",
-            "parent_id": "d890f57f-a988-40d7-878d-66f81b8a0620",
+            "parent_id": "317b5edd-9726-4f6d-b609-1846591de3bb",
             "section_type_id": "VARIABLE",
             "title": "Variable 5",
             "description": "Proceso de identificación y uso de retos o áreas de oportunidad",
             "display_order": 14,
             "peso": 9.0,
             "children": {
-              "036a4ea1-0d90-4376-b820-eb2b6eae5ba2": {
+              "5b963fec-e7a5-46d8-a389-1fcb3eaa1f94": {
                 "index_id": "uuid_2025",
-                "parent_id": "a5a3ed79-427b-4d1c-867f-c41bf6809e3b",
+                "parent_id": "d83bef89-99be-4129-a395-e2ea3b822374",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 8",
                 "description": "Identificación de problemáticas y desafíos de innovación desde “Bogotá Te Escucha”",
                 "display_order": 14,
                 "peso": 2.8,
                 "questions": {
-                  "f83b0aba-b0bf-40d5-8c83-d19e185e1ee7": {
+                  "c333f5eb-18a6-4a48-b93c-dc27407e1f52": {
                     "index_id": "uuid_2025",
-                    "section_id": "036a4ea1-0d90-4376-b820-eb2b6eae5ba2",
+                    "section_id": "5b963fec-e7a5-46d8-a389-1fcb3eaa1f94",
                     "is_loop": "True",
                     "title": "Pregunta 14",
                     "description": "¿Su entidad encontró retos o áreas de oportunidad para abordar desde la innovación gracias a \"Bogotá te Escucha\"?",
@@ -2336,18 +2336,18 @@
                   }
                 }
               },
-              "e65cb08b-e933-4e25-b864-58c6f95578f5": {
+              "b793d29c-0ab5-4acf-8df2-731d4b4655e8": {
                 "index_id": "uuid_2025",
-                "parent_id": "a5a3ed79-427b-4d1c-867f-c41bf6809e3b",
+                "parent_id": "d83bef89-99be-4129-a395-e2ea3b822374",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 9",
                 "description": "Identificación de problemáticas y desafíos de innovación desde otros canales abiertos a la ciudadanía",
                 "display_order": 15,
                 "peso": 1.0,
                 "questions": {
-                  "54b9976a-2f1d-49d5-b490-d6c464644313": {
+                  "fa0a0e7c-fee8-45c1-a54d-10ca19b3e503": {
                     "index_id": "uuid_2025",
-                    "section_id": "e65cb08b-e933-4e25-b864-58c6f95578f5",
+                    "section_id": "b793d29c-0ab5-4acf-8df2-731d4b4655e8",
                     "is_loop": "True",
                     "title": "Pregunta 15",
                     "description": "¿Su entidad identificó retos o áreas de oportunidad desde la ciudadanía por canales diferentes a \"Bogotá te Escucha\"?",
@@ -2357,18 +2357,18 @@
                   }
                 }
               },
-              "401f081f-7214-4ab3-a3d8-d6b98f973817": {
+              "ef838f80-71d6-463b-9a0e-da02c44fb81d": {
                 "index_id": "uuid_2025",
-                "parent_id": "a5a3ed79-427b-4d1c-867f-c41bf6809e3b",
+                "parent_id": "d83bef89-99be-4129-a395-e2ea3b822374",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 10",
                 "description": "Identificación de problemáticas y desafíos de innovación desde canales abiertos a funcionarios y colaboradores",
                 "display_order": 16,
                 "peso": 2.8,
                 "questions": {
-                  "c84a808c-0e69-4508-962a-78c24659dc29": {
+                  "d4cd8cb8-323d-4a3d-805d-0c9b8870958f": {
                     "index_id": "uuid_2025",
-                    "section_id": "401f081f-7214-4ab3-a3d8-d6b98f973817",
+                    "section_id": "ef838f80-71d6-463b-9a0e-da02c44fb81d",
                     "is_loop": "True",
                     "title": "Pregunta 16",
                     "description": "¿Su entidad identificó retos o áreas de oportunidad desde los funcionarios y/o contratistas?",
@@ -2378,18 +2378,18 @@
                   }
                 }
               },
-              "2fee13e2-254d-41e8-a4b0-a5ea2ff0e5d3": {
+              "bbcbefe8-3004-44ec-bf33-222e7d7b48dc": {
                 "index_id": "uuid_2025",
-                "parent_id": "a5a3ed79-427b-4d1c-867f-c41bf6809e3b",
+                "parent_id": "d83bef89-99be-4129-a395-e2ea3b822374",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 11",
                 "description": "Canales y estrategias para la identificación de problemáticas y desafíos de innovación",
                 "display_order": 17,
                 "peso": 2.4,
                 "questions": {
-                  "0fe3db0a-50fc-482d-bdbf-783105428014": {
+                  "05c43567-e494-436a-ad24-3a35a9b03c87": {
                     "index_id": "uuid_2025",
-                    "section_id": "2fee13e2-254d-41e8-a4b0-a5ea2ff0e5d3",
+                    "section_id": "bbcbefe8-3004-44ec-bf33-222e7d7b48dc",
                     "is_loop": "True",
                     "title": "Pregunta 17",
                     "description": "¿Cuáles fueron los canales internos y externos para la identificación de problemáticas o desafíos a resolver desde la innovación? \n\nIngrese cada canal y sus detalles",
@@ -2397,9 +2397,9 @@
                     "required": "True",
                     "peso": 1.2
                   },
-                  "9a4b9ce7-ad23-4c5a-8e85-c1eed51619f3": {
+                  "2cd343f8-4e13-42f0-8b11-bcbebc13c93b": {
                     "index_id": "uuid_2025",
-                    "section_id": "2fee13e2-254d-41e8-a4b0-a5ea2ff0e5d3",
+                    "section_id": "bbcbefe8-3004-44ec-bf33-222e7d7b48dc",
                     "is_loop": "True",
                     "title": "Pregunta 18",
                     "description": "¿Cuáles estrategias implementó su entidad para la identificación de problemáticas o desafíos a resolver desde la innovación?\n\nIngrese cada estrategia y sus detalles",
@@ -2411,27 +2411,27 @@
               }
             }
           },
-          "d9d8b4f1-e3a3-4691-a32a-843ea6ccf852": {
+          "17a00850-a723-43d9-9566-2fed0e511b4b": {
             "index_id": "uuid_2025",
-            "parent_id": "d890f57f-a988-40d7-878d-66f81b8a0620",
+            "parent_id": "317b5edd-9726-4f6d-b609-1846591de3bb",
             "section_type_id": "VARIABLE",
             "title": "Variable 6",
             "description": "Generación de ideas",
             "display_order": 19,
             "peso": 8.0,
             "children": {
-              "cec81f00-1f4c-4129-8cb3-52f554b940a6": {
+              "c415d207-aacb-45f1-bad6-97bbbf60379e": {
                 "index_id": "uuid_2025",
-                "parent_id": "d9d8b4f1-e3a3-4691-a32a-843ea6ccf852",
+                "parent_id": "17a00850-a723-43d9-9566-2fed0e511b4b",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 12",
                 "description": "Priorización de áreas de oportunidad para innovar",
                 "display_order": 19,
                 "peso": 3.0,
                 "questions": {
-                  "1cdbfb76-24b0-482b-8bc4-35a7a85152f5": {
+                  "b258539d-e5ff-4827-951c-30baffd0916a": {
                     "index_id": "uuid_2025",
-                    "section_id": "cec81f00-1f4c-4129-8cb3-52f554b940a6",
+                    "section_id": "c415d207-aacb-45f1-bad6-97bbbf60379e",
                     "is_loop": "True",
                     "title": "Pregunta 19",
                     "description": "Criterios de priorización. ¿Qué criterios utiliza su entidad para priorizar las áreas de oportunidad identificadas que pueden ser abordadas con innovación?\n\nSeleccione las que apliquen",
@@ -2439,9 +2439,9 @@
                     "required": "True",
                     "peso": 1.0
                   },
-                  "fb920c96-7e54-467a-9427-acf854220dec": {
+                  "1c1e9090-fd8b-4a77-a764-1464a09201df": {
                     "index_id": "uuid_2025",
-                    "section_id": "cec81f00-1f4c-4129-8cb3-52f554b940a6",
+                    "section_id": "c415d207-aacb-45f1-bad6-97bbbf60379e",
                     "is_loop": "True",
                     "title": "Pregunta 20",
                     "description": "Actores involucrados en la toma de decisiones. ¿Quiénes participan en la priorización de las problemáticas que serán abordadas con innovación?\n\nSeleccione las que apliquen",
@@ -2449,9 +2449,9 @@
                     "required": "True",
                     "peso": 1.0
                   },
-                  "c5681147-a2f6-4315-85ff-a20dff7455e6": {
+                  "a8452d41-e0b4-4c9f-8f33-9709d64cc369": {
                     "index_id": "uuid_2025",
-                    "section_id": "cec81f00-1f4c-4129-8cb3-52f554b940a6",
+                    "section_id": "c415d207-aacb-45f1-bad6-97bbbf60379e",
                     "is_loop": "True",
                     "title": "Pregunta 21",
                     "description": "Conexión de problemáticas con el desarrollo del proceso de innovación. ¿Cómo se vinculan las áreas de oportunidad priorizadas, con el desarrollo de procesos de innovación dentro de su entidad?\n\nSeleccione las que apliquen",
@@ -2461,18 +2461,18 @@
                   }
                 }
               },
-              "2c2af551-b426-4086-a2ce-f3dc42d9beda": {
+              "0509e4f7-5c5b-424d-89dd-d0c525649b42": {
                 "index_id": "uuid_2025",
-                "parent_id": "d9d8b4f1-e3a3-4691-a32a-843ea6ccf852",
+                "parent_id": "17a00850-a723-43d9-9566-2fed0e511b4b",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 13",
                 "description": "Estructura y metodologías para el desarrollo del proceso de innovación",
                 "display_order": 22,
                 "peso": 2.0,
                 "questions": {
-                  "9bf413e5-54f0-49f8-90cf-180f6612e52c": {
+                  "40ec12cb-2694-4c7a-8fdc-f3c1246d00d2": {
                     "index_id": "uuid_2025",
-                    "section_id": "2c2af551-b426-4086-a2ce-f3dc42d9beda",
+                    "section_id": "0509e4f7-5c5b-424d-89dd-d0c525649b42",
                     "is_loop": "True",
                     "title": "Pregunta 22",
                     "description": "¿Qué metodologías utiliza su entidad para el desarrollo de procesos de innovación?\n\nSeleccione las que apliquen",
@@ -2480,9 +2480,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "52dbae0a-bb1f-421e-acf8-7a804e35ced1": {
+                  "d7812c12-3b81-4058-af37-375c8c878aa2": {
                     "index_id": "uuid_2025",
-                    "section_id": "2c2af551-b426-4086-a2ce-f3dc42d9beda",
+                    "section_id": "0509e4f7-5c5b-424d-89dd-d0c525649b42",
                     "is_loop": "True",
                     "title": "Pregunta 23",
                     "description": "¿Cuáles herramientas ha utilizado su entidad para el desarrollo de procesos de innovación?\n\nSeleccione las que apliquen",
@@ -2492,18 +2492,18 @@
                   }
                 }
               },
-              "960b49c0-1a3e-4839-aead-0596e1412aa9": {
+              "247f4715-6aff-4286-876c-e3021d409595": {
                 "index_id": "uuid_2025",
-                "parent_id": "d9d8b4f1-e3a3-4691-a32a-843ea6ccf852",
+                "parent_id": "17a00850-a723-43d9-9566-2fed0e511b4b",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 14",
                 "description": "Actores y colaboración en el desarrollo de la innovación",
                 "display_order": 24,
                 "peso": 2.0,
                 "questions": {
-                  "f1a91510-4954-4b37-8bfb-a4fa18558aa1": {
+                  "948c3b22-c181-4fbb-b638-31fb92beeb25": {
                     "index_id": "uuid_2025",
-                    "section_id": "960b49c0-1a3e-4839-aead-0596e1412aa9",
+                    "section_id": "247f4715-6aff-4286-876c-e3021d409595",
                     "is_loop": "True",
                     "title": "Pregunta 24",
                     "description": "¿Quiénes participan activamente en los procesos de innovación en su entidad?\n\nSeleccione las que apliquen",
@@ -2511,9 +2511,9 @@
                     "required": "True",
                     "peso": 1.0
                   },
-                  "77bbbfbd-b21d-42b6-b8cd-7e2ab39fc874": {
+                  "a7edbcbe-c0fb-4b39-b7ca-0a738a5f3b46": {
                     "index_id": "uuid_2025",
-                    "section_id": "960b49c0-1a3e-4839-aead-0596e1412aa9",
+                    "section_id": "247f4715-6aff-4286-876c-e3021d409595",
                     "is_loop": "True",
                     "title": "Pregunta 25",
                     "description": "¿Qué tan frecuente es la colaboración con actores externos (ciudadanos, academia, sector privado, organismos internacionales) en el desarrollo de innovaciones?\n\n Seleccione una.",
@@ -2523,18 +2523,18 @@
                   }
                 }
               },
-              "09773349-013a-4986-9b65-058d1ed3aa88": {
+              "036ee0df-e6bc-49e1-a95e-6c2406fd2bb7": {
                 "index_id": "uuid_2025",
-                "parent_id": "d9d8b4f1-e3a3-4691-a32a-843ea6ccf852",
+                "parent_id": "17a00850-a723-43d9-9566-2fed0e511b4b",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 15",
                 "description": "Factores facilitadores y barreras en el desarrollo del proceso de innovación",
                 "display_order": 26,
                 "peso": 1.0,
                 "questions": {
-                  "f7411bb1-9460-4661-8a1f-3865bbb4026a": {
+                  "97a128e6-2228-4b1f-bb03-9cf19a9d9611": {
                     "index_id": "uuid_2025",
-                    "section_id": "09773349-013a-4986-9b65-058d1ed3aa88",
+                    "section_id": "036ee0df-e6bc-49e1-a95e-6c2406fd2bb7",
                     "is_loop": "True",
                     "title": "Pregunta 26",
                     "description": "¿Cuáles son los principales factores que han facilitado el desarrollo de procesos de innovación en su entidad?\n\nSeleccione las que apliquen",
@@ -2542,9 +2542,9 @@
                     "required": "True",
                     "peso": 0.0
                   },
-                  "07ac7675-f843-4937-bf29-b32cb7f3f3aa": {
+                  "d90a7575-eea3-4b6b-aecb-c731f0b1cc62": {
                     "index_id": "uuid_2025",
-                    "section_id": "09773349-013a-4986-9b65-058d1ed3aa88",
+                    "section_id": "036ee0df-e6bc-49e1-a95e-6c2406fd2bb7",
                     "is_loop": "True",
                     "title": "Pregunta 27",
                     "description": "¿Cuáles son las principales barreras que ha enfrentado su entidad en el desarrollo de procesos de innovación?\n\nSeleccione las que apliquen",
@@ -2556,27 +2556,27 @@
               }
             }
           },
-          "396abb57-8afe-40ef-9193-bc1b05211d79": {
+          "3209fd50-86f5-4d89-b960-7b4551b56289": {
             "index_id": "uuid_2025",
-            "parent_id": "d890f57f-a988-40d7-878d-66f81b8a0620",
+            "parent_id": "317b5edd-9726-4f6d-b609-1846591de3bb",
             "section_type_id": "VARIABLE",
             "title": "Variable 7",
             "description": "Diseño de Innovaciones",
             "display_order": 28,
             "peso": 7.0,
             "children": {
-              "06b9193e-2341-438d-8bdb-45237c91ff48": {
+              "1954ecf1-2b87-4fce-9438-52067d7101f1": {
                 "index_id": "uuid_2025",
-                "parent_id": "396abb57-8afe-40ef-9193-bc1b05211d79",
+                "parent_id": "3209fd50-86f5-4d89-b960-7b4551b56289",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 16",
                 "description": "Innovaciones diseñadas",
                 "display_order": 28,
                 "peso": 7.0,
                 "questions": {
-                  "895122ba-448d-46cc-bdc3-ab32755bbe63": {
+                  "4d79d510-26df-4d73-8707-05f148bdb6b0": {
                     "index_id": "uuid_2025",
-                    "section_id": "06b9193e-2341-438d-8bdb-45237c91ff48",
+                    "section_id": "1954ecf1-2b87-4fce-9438-52067d7101f1",
                     "is_loop": "True",
                     "title": "Pregunta 28",
                     "description": "¿Su entidad diseñó innovaciones encaminadas al cumplimiento de los objetivos y metas de su entidad?",
@@ -2588,27 +2588,27 @@
               }
             }
           },
-          "15e12bad-1d34-4825-9045-953ae4235ecf": {
+          "fced583e-6ec0-472e-9cd0-a39ef33da0c6": {
             "index_id": "uuid_2025",
-            "parent_id": "d890f57f-a988-40d7-878d-66f81b8a0620",
+            "parent_id": "317b5edd-9726-4f6d-b609-1846591de3bb",
             "section_type_id": "VARIABLE",
             "title": "Variable 8",
             "description": "Generación de capacidades",
             "display_order": 29,
             "peso": 6.0,
             "children": {
-              "a14df6a4-e307-41eb-88c3-cdb052146bc6": {
+              "d18d8fa8-c7ba-48d9-b6f6-5d4d84e21821": {
                 "index_id": "uuid_2025",
-                "parent_id": "15e12bad-1d34-4825-9045-953ae4235ecf",
+                "parent_id": "fced583e-6ec0-472e-9cd0-a39ef33da0c6",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 17",
                 "description": "Actividades de generación de capacidades de innovación",
                 "display_order": 29,
                 "peso": 6.0,
                 "questions": {
-                  "71d2a174-2aca-48a0-96c7-508ac0f4db3d": {
+                  "66e32628-b783-4449-8981-cc3240cc86c7": {
                     "index_id": "uuid_2025",
-                    "section_id": "a14df6a4-e307-41eb-88c3-cdb052146bc6",
+                    "section_id": "d18d8fa8-c7ba-48d9-b6f6-5d4d84e21821",
                     "is_loop": "True",
                     "title": "Pregunta 29",
                     "description": "¿Su entidad ha puesto a disposición de todos formación orientada al fortalecimiento de capacidades en innovación?",
@@ -2620,27 +2620,27 @@
               }
             }
           },
-          "4efa4e32-45fd-446d-813f-9a31f23dae0a": {
+          "fb1de4fa-5fb2-48d6-a674-7d3b6db116cc": {
             "index_id": "uuid_2025",
-            "parent_id": "d890f57f-a988-40d7-878d-66f81b8a0620",
+            "parent_id": "317b5edd-9726-4f6d-b609-1846591de3bb",
             "section_type_id": "VARIABLE",
             "title": "Variable 9",
             "description": "Cultura y liderazgo para la innovación pública",
             "display_order": 30,
             "peso": 5.0,
             "children": {
-              "9dce77a6-8928-493d-9ce0-e6e334dd5989": {
+              "72180858-91d4-46d2-b28a-b41c9095277c": {
                 "index_id": "uuid_2025",
-                "parent_id": "4efa4e32-45fd-446d-813f-9a31f23dae0a",
+                "parent_id": "fb1de4fa-5fb2-48d6-a674-7d3b6db116cc",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 18",
                 "description": "Generación y promoción de cultura para la innovación Pública",
                 "display_order": 30,
                 "peso": 2.8,
                 "questions": {
-                  "59e727cd-481b-4ddf-9284-d4526ceefd0d": {
+                  "21a6fe45-146a-45cd-8c2a-a83dbd8e3348": {
                     "index_id": "uuid_2025",
-                    "section_id": "9dce77a6-8928-493d-9ce0-e6e334dd5989",
+                    "section_id": "72180858-91d4-46d2-b28a-b41c9095277c",
                     "is_loop": "True",
                     "title": "Pregunta 30",
                     "description": "¿Su entidad ha implementado estrategias para fomentar una cultura de innovación entre sus funcionarios y contratistas?",
@@ -2650,18 +2650,18 @@
                   }
                 }
               },
-              "3e702824-673c-4761-b6b5-29550650c462": {
+              "e61ec647-6d63-4adc-9b73-9cde4b96ec76": {
                 "index_id": "uuid_2025",
-                "parent_id": "4efa4e32-45fd-446d-813f-9a31f23dae0a",
+                "parent_id": "fb1de4fa-5fb2-48d6-a674-7d3b6db116cc",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 19",
                 "description": "Gestión de cultura de la innovación",
                 "display_order": 31,
                 "peso": 1.1,
                 "questions": {
-                  "784a5e86-1aef-45b7-a5f6-b06a420084fe": {
+                  "309e7c79-257d-4cce-9dfd-852338746dcb": {
                     "index_id": "uuid_2025",
-                    "section_id": "3e702824-673c-4761-b6b5-29550650c462",
+                    "section_id": "e61ec647-6d63-4adc-9b73-9cde4b96ec76",
                     "is_loop": "True",
                     "title": "Pregunta 31",
                     "description": "¿Su entidad ha incentivado la participación de los funcionarios y contratistas en procesos de innovación?",
@@ -2671,18 +2671,18 @@
                   }
                 }
               },
-              "4fcd6e65-feab-4dc9-996c-4b38313c5d66": {
+              "3bdbcd91-e1b0-4c01-a23b-ebe396e95fc2": {
                 "index_id": "uuid_2025",
-                "parent_id": "4efa4e32-45fd-446d-813f-9a31f23dae0a",
+                "parent_id": "fb1de4fa-5fb2-48d6-a674-7d3b6db116cc",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 20",
                 "description": "Identificación de liderazgos/facilitadores/ habilidades en funcionarios y contratistas relacionados con innovación pública",
                 "display_order": 32,
                 "peso": 1.1,
                 "questions": {
-                  "e7ef0410-abda-4d59-87e4-4b399efc44ef": {
+                  "a307a37e-2a7b-478c-8a78-1653754f8578": {
                     "index_id": "uuid_2025",
-                    "section_id": "4fcd6e65-feab-4dc9-996c-4b38313c5d66",
+                    "section_id": "3bdbcd91-e1b0-4c01-a23b-ebe396e95fc2",
                     "is_loop": "True",
                     "title": "Pregunta 32",
                     "description": "¿Su entidad creó o contó con unidades de innovación como laboratorios, observatorios o semilleros de innovación en su interior?\n\nIngrese cada unidad de innovación y sus detalles",
@@ -2696,7 +2696,7 @@
           }
         }
       },
-      "aff2dc8f-16b2-44b8-96a6-05572c063ee1": {
+      "85bd94c4-0184-4cd3-8ca9-a33f4433db49": {
         "index_id": "uuid_2025",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -2705,27 +2705,27 @@
         "display_order": 33,
         "peso": 25.0,
         "children": {
-          "3bd7f368-e34d-480b-b02b-cb2a917ddb50": {
+          "e5bfe5f0-cb03-4d84-a3ea-6cb985515d01": {
             "index_id": "uuid_2025",
-            "parent_id": "aff2dc8f-16b2-44b8-96a6-05572c063ee1",
+            "parent_id": "85bd94c4-0184-4cd3-8ca9-a33f4433db49",
             "section_type_id": "VARIABLE",
             "title": "Variable 10",
             "description": "Innovaciones Implementadas",
             "display_order": 33,
             "peso": 20.0,
             "children": {
-              "b93a080d-b1fe-4d74-9f38-aa968e2f5540": {
+              "bf6b8cd4-f179-4a1f-9f2f-d5a8539ed813": {
                 "index_id": "uuid_2025",
-                "parent_id": "3bd7f368-e34d-480b-b02b-cb2a917ddb50",
+                "parent_id": "e5bfe5f0-cb03-4d84-a3ea-6cb985515d01",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 21",
                 "description": "Implementación de innovaciones diseñadas.",
                 "display_order": 33,
                 "peso": 20.0,
                 "questions": {
-                  "18b938d5-b8ee-444d-be1b-4a16c7cdffe3": {
+                  "714bf06c-fb53-442d-9350-fa5e86d98699": {
                     "index_id": "uuid_2025",
-                    "section_id": "b93a080d-b1fe-4d74-9f38-aa968e2f5540",
+                    "section_id": "bf6b8cd4-f179-4a1f-9f2f-d5a8539ed813",
                     "is_loop": "True",
                     "title": "Pregunta 33",
                     "description": "¿Alguna de las innovaciones diseñadas  fue implementada, o está en proceso de implementación actualmente?",
@@ -2737,27 +2737,27 @@
               }
             }
           },
-          "c2447934-accb-40ea-93c6-81333b1b287e": {
+          "b06ac583-0a48-49e1-8100-0cc1603a4507": {
             "index_id": "uuid_2025",
-            "parent_id": "aff2dc8f-16b2-44b8-96a6-05572c063ee1",
+            "parent_id": "85bd94c4-0184-4cd3-8ca9-a33f4433db49",
             "section_type_id": "VARIABLE",
             "title": "Variable 11",
             "description": "Generación de capacidades en innovación para funcionarios y/o contratistas",
             "display_order": 34,
             "peso": 5.0,
             "children": {
-              "6e4b06fa-e201-4cfd-98c3-cd3f2f45296c": {
+              "fef3ffe5-d970-4c7d-a306-bcafa5514554": {
                 "index_id": "uuid_2025",
-                "parent_id": "c2447934-accb-40ea-93c6-81333b1b287e",
+                "parent_id": "b06ac583-0a48-49e1-8100-0cc1603a4507",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 22",
                 "description": "Iteración y validación de soluciones innovadoras",
                 "display_order": 34,
                 "peso": 5.0,
                 "questions": {
-                  "fade6bac-5688-4c94-bed1-f156e9733e52": {
+                  "a82df694-cd06-4633-82d5-fb6e3552b499": {
                     "index_id": "uuid_2025",
-                    "section_id": "6e4b06fa-e201-4cfd-98c3-cd3f2f45296c",
+                    "section_id": "fef3ffe5-d970-4c7d-a306-bcafa5514554",
                     "is_loop": "True",
                     "title": "Pregunta 34",
                     "description": "¿Cómo se desarrollan y validan las soluciones innovadoras dentro de su entidad?.\n\nSeleccione las que apliquen",
@@ -2771,7 +2771,7 @@
           }
         }
       },
-      "06c72c99-1f88-41c0-87b2-ed1b7a95a1aa": {
+      "e47d2fd5-b95d-4489-9b0c-3127b1e42d13": {
         "index_id": "uuid_2025",
         "parent_id": "None",
         "section_type_id": "COMPONENTE",
@@ -2780,27 +2780,27 @@
         "display_order": 35,
         "peso": 9.0,
         "children": {
-          "47737a6b-3f70-4520-836b-2e96c5f47f7c": {
+          "05c0061e-0785-4799-a09a-da897e084a32": {
             "index_id": "uuid_2025",
-            "parent_id": "06c72c99-1f88-41c0-87b2-ed1b7a95a1aa",
+            "parent_id": "e47d2fd5-b95d-4489-9b0c-3127b1e42d13",
             "section_type_id": "VARIABLE",
             "title": "Variable 12",
             "description": "Gestión del conocimiento en la Capacidad Institucional",
             "display_order": 35,
             "peso": 3.0,
             "children": {
-              "a3d578bb-cf18-4774-b14f-e323cfa07e32": {
+              "4729570f-9a70-4cba-973b-aec09f37746c": {
                 "index_id": "uuid_2025",
-                "parent_id": "47737a6b-3f70-4520-836b-2e96c5f47f7c",
+                "parent_id": "05c0061e-0785-4799-a09a-da897e084a32",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 23",
                 "description": "Existencia dentro de la planeación estratégica de la institución de acciones de gestión del conocimiento",
                 "display_order": 35,
                 "peso": 3.0,
                 "questions": {
-                  "b0f4d7ab-f326-46e3-8ff1-652b82a4318c": {
+                  "a6f2d042-4688-4f92-a3b1-074447c7a732": {
                     "index_id": "uuid_2025",
-                    "section_id": "a3d578bb-cf18-4774-b14f-e323cfa07e32",
+                    "section_id": "4729570f-9a70-4cba-973b-aec09f37746c",
                     "is_loop": "True",
                     "title": "Pregunta 35",
                     "description": "¿Existen dentro de la planeación estratégica de la entidad\nenfoques / líneas / componentes / proyectos / programas o planes\nrelacionados con la gestión del conocimiento?\n\nIngrese cada enfoque y sus detalles",
@@ -2812,27 +2812,27 @@
               }
             }
           },
-          "c19cb9d1-c55f-42f1-9da7-4c2afa706d38": {
+          "ae603bfe-2974-46ef-878c-4ba41b29258a": {
             "index_id": "uuid_2025",
-            "parent_id": "06c72c99-1f88-41c0-87b2-ed1b7a95a1aa",
+            "parent_id": "e47d2fd5-b95d-4489-9b0c-3127b1e42d13",
             "section_type_id": "VARIABLE",
             "title": "Variable 13",
             "description": "Gestión del conocimiento en los Procesos y Procedimientos",
             "display_order": 36,
             "peso": 6.0,
             "children": {
-              "66d87672-72f0-4de9-ac81-686037aaf06c": {
+              "45dc76f8-094d-4d7d-8fa9-1f03ca9aff88": {
                 "index_id": "uuid_2025",
-                "parent_id": "c19cb9d1-c55f-42f1-9da7-4c2afa706d38",
+                "parent_id": "ae603bfe-2974-46ef-878c-4ba41b29258a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 24",
                 "description": "Estrategias de Difusión y Socialización del Conocimiento en Innovación",
                 "display_order": 36,
                 "peso": 2.0,
                 "questions": {
-                  "8bb3f890-dec8-4dd6-883c-9c99a35b6a78": {
+                  "e58550cb-9e02-4ca9-b8be-9d5d5eec13bb": {
                     "index_id": "uuid_2025",
-                    "section_id": "66d87672-72f0-4de9-ac81-686037aaf06c",
+                    "section_id": "45dc76f8-094d-4d7d-8fa9-1f03ca9aff88",
                     "is_loop": "True",
                     "title": "Pregunta 36",
                     "description": "¿Cuáles son los principales mecanismos y eventos a través de los cuales la entidad comparte su conocimiento en innovación? \n\nSeleccione todas las que apliquen",
@@ -2842,18 +2842,18 @@
                   }
                 }
               },
-              "38bd8f25-9726-4505-8b50-0dc8eb77a088": {
+              "5eac1000-a664-4276-b1cf-5294f8424d6c": {
                 "index_id": "uuid_2025",
-                "parent_id": "c19cb9d1-c55f-42f1-9da7-4c2afa706d38",
+                "parent_id": "ae603bfe-2974-46ef-878c-4ba41b29258a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 25",
                 "description": "Alcance e impacto de mecanismos de difusión y socialización",
                 "display_order": 37,
                 "peso": 2.0,
                 "questions": {
-                  "43585459-d8bd-45a0-a441-d2df18741c8c": {
+                  "138bcc97-8ffe-4533-a0b1-0d2a7339d39c": {
                     "index_id": "uuid_2025",
-                    "section_id": "38bd8f25-9726-4505-8b50-0dc8eb77a088",
+                    "section_id": "5eac1000-a664-4276-b1cf-5294f8424d6c",
                     "is_loop": "True",
                     "title": "Pregunta 37",
                     "description": "¿Cómo mide su entidad el impacto de los mecanismos de difusión de conocimiento en innovación?\n\nSeleccione todas las que apliquen",
@@ -2863,18 +2863,18 @@
                   }
                 }
               },
-              "7e564c73-35a4-4c2f-b892-a5fc397aeb0e": {
+              "cce005d8-24cc-4e02-9ed5-0e8fc4626135": {
                 "index_id": "uuid_2025",
-                "parent_id": "c19cb9d1-c55f-42f1-9da7-4c2afa706d38",
+                "parent_id": "ae603bfe-2974-46ef-878c-4ba41b29258a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 26",
                 "description": "Documentación y Sistematización del Conocimiento en Innovación",
                 "display_order": 38,
                 "peso": 1.0,
                 "questions": {
-                  "7427201d-ad57-430a-8101-ed819c68d393": {
+                  "60adfadc-a9fa-4d00-b4eb-99a7033ade27": {
                     "index_id": "uuid_2025",
-                    "section_id": "7e564c73-35a4-4c2f-b892-a5fc397aeb0e",
+                    "section_id": "cce005d8-24cc-4e02-9ed5-0e8fc4626135",
                     "is_loop": "True",
                     "title": "Pregunta 38",
                     "description": "¿Qué tipo de documentos o productos utiliza su entidad para capturar aprendizajes en innovación?\n\nSeleccione todas las que apliquen",
@@ -2884,18 +2884,18 @@
                   }
                 }
               },
-              "e8f8590c-9fe1-4405-96e7-0d0b7ed88fe4": {
+              "f7245d7c-d345-4f7a-80f7-48397bc5a956": {
                 "index_id": "uuid_2025",
-                "parent_id": "c19cb9d1-c55f-42f1-9da7-4c2afa706d38",
+                "parent_id": "ae603bfe-2974-46ef-878c-4ba41b29258a",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 27",
                 "description": "Alcance e impacto de documentación y sistematización",
                 "display_order": 39,
                 "peso": 1.0,
                 "questions": {
-                  "f7726767-b5e9-4b5e-927c-0714733c1fe4": {
+                  "955449f4-1692-4c19-a7f5-c008adfaee52": {
                     "index_id": "uuid_2025",
-                    "section_id": "e8f8590c-9fe1-4405-96e7-0d0b7ed88fe4",
+                    "section_id": "f7245d7c-d345-4f7a-80f7-48397bc5a956",
                     "is_loop": "True",
                     "title": "Pregunta 39",
                     "description": "¿Cómo mide su entidad el impacto de la documentación y su sistematización en la innovación?\n\nSeleccione todas las que apliquen",
@@ -2907,27 +2907,27 @@
               }
             }
           },
-          "ee0e0c53-becb-48b8-9d27-139543a36dd8": {
+          "64f64004-afad-4d09-88e3-5df8be9ea4f7": {
             "index_id": "uuid_2025",
-            "parent_id": "06c72c99-1f88-41c0-87b2-ed1b7a95a1aa",
+            "parent_id": "e47d2fd5-b95d-4489-9b0c-3127b1e42d13",
             "section_type_id": "VARIABLE",
             "title": "Variable 14",
             "description": "Gestión del conocimiento en los Resultados",
             "display_order": 40,
             "peso": 6.0,
             "children": {
-              "ec60c40d-69f8-4bd9-8489-fee4bf3882bc": {
+              "b7c00b4a-19f9-41c3-8973-b5be319cdbf9": {
                 "index_id": "uuid_2025",
-                "parent_id": "ee0e0c53-becb-48b8-9d27-139543a36dd8",
+                "parent_id": "64f64004-afad-4d09-88e3-5df8be9ea4f7",
                 "section_type_id": "INDICADOR",
                 "title": "Indicador 28",
                 "description": "Monitoreo y seguimiento de innovaciones implementadas",
                 "display_order": 40,
                 "peso": 6.0,
                 "questions": {
-                  "ee8d5676-e37a-439a-bf23-41c6e28cb102": {
+                  "29fddc3c-c1f5-4f1f-b4f5-7a9b7776ee3c": {
                     "index_id": "uuid_2025",
-                    "section_id": "ec60c40d-69f8-4bd9-8489-fee4bf3882bc",
+                    "section_id": "b7c00b4a-19f9-41c3-8973-b5be319cdbf9",
                     "is_loop": "True",
                     "title": "Pregunta 40",
                     "description": "¿Su entidad desarrolló algún instrumento para hacer monitoreo y seguimiento a las innovaciones implementadas?",
